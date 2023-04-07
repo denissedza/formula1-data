@@ -1,0 +1,362 @@
+year,StatusId,Status,Count
+2010,1,Finished,212
+2010,3,Accident,17
+2010,4,Collision,25
+2010,5,Engine,13
+2010,6,Gearbox,9
+2010,8,Clutch,1
+2010,9,Hydraulics,19
+2010,10,Electrical,1
+2010,11,+1 Lap,68
+2010,12,+2 Laps,31
+2010,13,+3 Laps,13
+2010,14,+4 Laps,8
+2010,15,+5 Laps,3
+2010,16,+6 Laps,1
+2010,19,+9 Laps,1
+2010,20,Spun off,2
+2010,22,Suspension,6
+2010,23,Brakes,3
+2010,25,Overheating,1
+2010,26,Mechanical,1
+2010,29,Puncture,1
+2010,30,Driveshaft,1
+2010,31,Retired,3
+2010,32,Fuel pressure,1
+2010,33,Front wing,1
+2010,36,Wheel,5
+2010,37,Throttle,1
+2010,38,Steering,1
+2010,39,Technical,1
+2010,43,Exhaust,1
+2011,1,Finished,173
+2011,2,Disqualified,2
+2011,3,Accident,14
+2011,4,Collision,16
+2011,5,Engine,4
+2011,6,Gearbox,12
+2011,7,Transmission,3
+2011,8,Clutch,2
+2011,9,Hydraulics,3
+2011,10,Electrical,1
+2011,11,+1 Lap,121
+2011,12,+2 Laps,46
+2011,13,+3 Laps,17
+2011,14,+4 Laps,8
+2011,15,+5 Laps,5
+2011,19,+9 Laps,1
+2011,22,Suspension,3
+2011,23,Brakes,1
+2011,26,Mechanical,1
+2011,29,Puncture,1
+2011,31,Retired,5
+2011,36,Wheel,2
+2011,42,Heat shield fire,1
+2011,44,Oil leak,3
+2011,47,Water leak,2
+2011,61,Wheel nut,1
+2011,65,Rear wing,1
+2011,81,Did not qualify,2
+2011,82,Injury,1
+2011,88,+10 Laps,1
+2012,1,Finished,273
+2012,3,Accident,10
+2012,4,Collision,33
+2012,5,Engine,4
+2012,6,Gearbox,3
+2012,9,Hydraulics,1
+2012,10,Electrical,2
+2012,11,+1 Lap,79
+2012,12,+2 Laps,27
+2012,13,+3 Laps,8
+2012,15,+5 Laps,1
+2012,20,Spun off,2
+2012,22,Suspension,6
+2012,23,Brakes,2
+2012,26,Mechanical,2
+2012,29,Puncture,2
+2012,31,Retired,6
+2012,32,Fuel pressure,2
+2012,37,Throttle,1
+2012,38,Steering,1
+2012,40,Electronics,1
+2012,43,Exhaust,1
+2012,45,+11 Laps,1
+2012,54,Withdrew,1
+2012,61,Wheel nut,2
+2012,65,Rear wing,1
+2012,76,Vibrations,3
+2012,81,Did not qualify,2
+2012,91,Alternator,2
+2012,130,Collision damage,1
+2013,1,Finished,244
+2013,3,Accident,11
+2013,4,Collision,12
+2013,5,Engine,3
+2013,6,Gearbox,2
+2013,7,Transmission,2
+2013,9,Hydraulics,6
+2013,10,Electrical,1
+2013,11,+1 Lap,83
+2013,12,+2 Laps,22
+2013,13,+3 Laps,5
+2013,20,Spun off,3
+2013,22,Suspension,3
+2013,23,Brakes,2
+2013,26,Mechanical,2
+2013,27,Tyre,1
+2013,29,Puncture,2
+2013,31,Retired,3
+2013,34,Water pressure,1
+2013,36,Wheel,3
+2013,44,Oil leak,1
+2013,54,Withdrew,1
+2013,61,Wheel nut,2
+2013,63,Pneumatics,1
+2013,69,Fuel system,1
+2013,91,Alternator,1
+2014,1,Finished,200
+2014,2,Disqualified,1
+2014,3,Accident,9
+2014,4,Collision,14
+2014,5,Engine,8
+2014,6,Gearbox,4
+2014,8,Clutch,2
+2014,10,Electrical,4
+2014,11,+1 Lap,95
+2014,12,+2 Laps,22
+2014,13,+3 Laps,2
+2014,18,+8 Laps,2
+2014,22,Suspension,5
+2014,23,Brakes,6
+2014,26,Mechanical,2
+2014,31,Retired,8
+2014,34,Water pressure,1
+2014,39,Technical,1
+2014,40,Electronics,1
+2014,43,Exhaust,1
+2014,44,Oil leak,1
+2014,47,Water leak,1
+2014,51,Oil pressure,1
+2014,54,Withdrew,2
+2014,65,Rear wing,1
+2014,79,Drivetrain,1
+2014,101,Turbo,2
+2014,130,Collision damage,1
+2014,131,Power Unit,6
+2014,132,ERS,3
+2015,1,Finished,171
+2015,3,Accident,7
+2015,4,Collision,11
+2015,5,Engine,4
+2015,6,Gearbox,7
+2015,7,Transmission,1
+2015,10,Electrical,4
+2015,11,+1 Lap,90
+2015,12,+2 Laps,21
+2015,13,+3 Laps,9
+2015,14,+4 Laps,5
+2015,16,+6 Laps,1
+2015,20,Spun off,2
+2015,22,Suspension,2
+2015,23,Brakes,5
+2015,27,Tyre,2
+2015,31,Retired,12
+2015,33,Front wing,1
+2015,36,Wheel,1
+2015,37,Throttle,2
+2015,44,Oil leak,1
+2015,54,Withdrew,3
+2015,69,Fuel system,1
+2015,75,Power loss,3
+2015,96,Excluded,1
+2015,101,Turbo,1
+2015,130,Collision damage,2
+2015,131,Power Unit,5
+2015,132,ERS,2
+2015,135,Brake duct,1
+2016,1,Finished,202
+2016,3,Accident,5
+2016,4,Collision,15
+2016,5,Engine,7
+2016,6,Gearbox,6
+2016,9,Hydraulics,1
+2016,11,+1 Lap,152
+2016,12,+2 Laps,23
+2016,14,+4 Laps,1
+2016,20,Spun off,2
+2016,22,Suspension,6
+2016,23,Brakes,8
+2016,25,Overheating,1
+2016,26,Mechanical,1
+2016,27,Tyre,1
+2016,29,Puncture,1
+2016,31,Retired,10
+2016,36,Wheel,1
+2016,44,Oil leak,2
+2016,54,Withdrew,2
+2016,61,Wheel nut,1
+2016,75,Power loss,1
+2016,84,Battery,2
+2016,130,Collision damage,6
+2016,131,Power Unit,5
+2017,1,Finished,165
+2017,3,Accident,14
+2017,4,Collision,12
+2017,5,Engine,16
+2017,6,Gearbox,5
+2017,9,Hydraulics,5
+2017,10,Electrical,3
+2017,11,+1 Lap,118
+2017,12,+2 Laps,21
+2017,13,+3 Laps,1
+2017,22,Suspension,2
+2017,23,Brakes,6
+2017,30,Driveshaft,1
+2017,32,Fuel pressure,1
+2017,33,Front wing,1
+2017,34,Water pressure,1
+2017,36,Wheel,2
+2017,44,Oil leak,1
+2017,47,Water leak,1
+2017,51,Oil pressure,1
+2017,61,Wheel nut,1
+2017,76,Vibrations,1
+2017,84,Battery,2
+2017,105,Spark plugs,1
+2017,130,Collision damage,8
+2017,131,Power Unit,9
+2017,136,Seat,1
+2018,1,Finished,191
+2018,2,Disqualified,3
+2018,3,Accident,7
+2018,4,Collision,19
+2018,5,Engine,13
+2018,6,Gearbox,3
+2018,9,Hydraulics,2
+2018,10,Electrical,1
+2018,11,+1 Lap,109
+2018,12,+2 Laps,33
+2018,13,+3 Laps,2
+2018,22,Suspension,2
+2018,23,Brakes,7
+2018,25,Overheating,1
+2018,26,Mechanical,1
+2018,27,Tyre,1
+2018,29,Puncture,3
+2018,31,Retired,2
+2018,32,Fuel pressure,1
+2018,36,Wheel,4
+2018,38,Steering,1
+2018,43,Exhaust,2
+2018,44,Oil leak,1
+2018,75,Power loss,3
+2018,84,Battery,1
+2018,101,Turbo,1
+2018,130,Collision damage,5
+2018,131,Power Unit,1
+2019,1,Finished,196
+2019,2,Disqualified,2
+2019,3,Accident,5
+2019,4,Collision,16
+2019,5,Engine,5
+2019,7,Transmission,1
+2019,9,Hydraulics,1
+2019,11,+1 Lap,133
+2019,12,+2 Laps,27
+2019,13,+3 Laps,4
+2019,20,Spun off,2
+2019,22,Suspension,4
+2019,23,Brakes,6
+2019,25,Overheating,1
+2019,31,Retired,2
+2019,34,Water pressure,1
+2019,36,Wheel,2
+2019,43,Exhaust,1
+2019,44,Oil leak,1
+2019,54,Withdrew,1
+2019,60,Out of fuel,1
+2019,75,Power loss,3
+2019,130,Collision damage,2
+2019,131,Power Unit,2
+2019,137,Damage,1
+2020,1,Finished,191
+2020,3,Accident,6
+2020,4,Collision,12
+2020,5,Engine,4
+2020,6,Gearbox,3
+2020,7,Transmission,1
+2020,11,+1 Lap,84
+2020,12,+2 Laps,7
+2020,15,+5 Laps,1
+2020,21,Radiator,1
+2020,22,Suspension,1
+2020,23,Brakes,4
+2020,25,Overheating,2
+2020,29,Puncture,2
+2020,31,Retired,1
+2020,32,Fuel pressure,1
+2020,34,Water pressure,1
+2020,36,Wheel,1
+2020,40,Electronics,3
+2020,43,Exhaust,1
+2020,54,Withdrew,1
+2020,130,Collision damage,5
+2020,131,Power Unit,5
+2020,138,Debris,1
+2020,139,Illness,1
+2021,1,Finished,217
+2021,2,Disqualified,1
+2021,3,Accident,6
+2021,4,Collision,20
+2021,5,Engine,2
+2021,6,Gearbox,5
+2021,9,Hydraulics,1
+2021,10,Electrical,1
+2021,11,+1 Lap,130
+2021,12,+2 Laps,28
+2021,13,+3 Laps,6
+2021,22,Suspension,2
+2021,23,Brakes,3
+2021,26,Mechanical,1
+2021,29,Puncture,1
+2021,30,Driveshaft,1
+2021,31,Retired,3
+2021,44,Oil leak,1
+2021,61,Wheel nut,1
+2021,65,Rear wing,1
+2021,75,Power loss,1
+2021,101,Turbo,1
+2021,130,Collision damage,3
+2021,131,Power Unit,2
+2021,137,Damage,1
+2021,139,Illness,1
+2022,1,Finished,279
+2022,3,Accident,8
+2022,4,Collision,10
+2022,5,Engine,7
+2022,6,Gearbox,4
+2022,9,Hydraulics,4
+2022,11,+1 Lap,80
+2022,12,+2 Laps,6
+2022,16,+6 Laps,1
+2022,20,Spun off,2
+2022,22,Suspension,1
+2022,24,Differential,1
+2022,26,Mechanical,1
+2022,32,Fuel pressure,2
+2022,33,Front wing,1
+2022,34,Water pressure,2
+2022,44,Oil leak,1
+2022,47,Water leak,2
+2022,48,Fuel pump,1
+2022,54,Withdrew,1
+2022,75,Power loss,1
+2022,76,Vibrations,1
+2022,95,Fuel leak,1
+2022,101,Turbo,1
+2022,103,Water pump,1
+2022,130,Collision damage,12
+2022,131,Power Unit,6
+2022,140,Undertray,2
+2022,141,Cooling system,1
