@@ -1,0 +1,4720 @@
+year,round,ConstructorId,points,status
+2010,1,ferrari,25,Finished
+2010,1,ferrari,18,Finished
+2010,1,mclaren,15,Finished
+2010,1,red_bull,12,Finished
+2010,1,mercedes,10,Finished
+2010,1,mercedes,8,Finished
+2010,1,mclaren,6,Finished
+2010,1,red_bull,4,Finished
+2010,1,force_india,2,Finished
+2010,1,williams,1,Finished
+2010,1,renault,0,Finished
+2010,1,force_india,0,Finished
+2010,1,toro_rosso,0,Finished
+2010,1,williams,0,+1 Lap
+2010,1,lotus_racing,0,+2 Laps
+2010,1,toro_rosso,0,Electrical
+2010,1,lotus_racing,0,Hydraulics
+2010,1,sauber,0,Hydraulics
+2010,1,hrt,0,Overheating
+2010,1,virgin,0,Gearbox
+2010,1,renault,0,Suspension
+2010,1,sauber,0,Hydraulics
+2010,1,virgin,0,Hydraulics
+2010,1,hrt,0,Accident
+2011,1,red_bull,25,Finished
+2011,1,mclaren,18,Finished
+2011,1,renault,15,Finished
+2011,1,ferrari,12,Finished
+2011,1,red_bull,10,Finished
+2011,1,mclaren,8,Finished
+2011,1,ferrari,6,Finished
+2011,1,toro_rosso,4,+1 Lap
+2011,1,force_india,2,+1 Lap
+2011,1,force_india,1,+1 Lap
+2011,1,toro_rosso,0,+1 Lap
+2011,1,renault,0,+1 Lap
+2011,1,lotus_racing,0,+2 Laps
+2011,1,virgin,0,+4 Laps
+2011,1,virgin,0,+9 Laps
+2011,1,williams,0,Transmission
+2011,1,mercedes,0,Collision
+2011,1,lotus_racing,0,Water leak
+2011,1,mercedes,0,Collision
+2011,1,williams,0,Transmission
+2011,1,sauber,0,Disqualified
+2011,1,sauber,0,Disqualified
+2011,1,hrt,0,Did not qualify
+2011,1,hrt,0,Did not qualify
+2012,1,mclaren,25,Finished
+2012,1,red_bull,18,Finished
+2012,1,mclaren,15,Finished
+2012,1,red_bull,12,Finished
+2012,1,ferrari,10,Finished
+2012,1,sauber,8,Finished
+2012,1,lotus_f1,6,Finished
+2012,1,sauber,4,Finished
+2012,1,toro_rosso,2,Finished
+2012,1,force_india,1,Finished
+2012,1,toro_rosso,0,Finished
+2012,1,mercedes,0,Finished
+2012,1,williams,0,Accident
+2012,1,marussia,0,+1 Lap
+2012,1,marussia,0,+5 Laps
+2012,1,williams,0,Collision
+2012,1,ferrari,0,Collision
+2012,1,caterham,0,Suspension
+2012,1,caterham,0,Steering
+2012,1,mercedes,0,Gearbox
+2012,1,lotus_f1,0,Collision
+2012,1,force_india,0,Collision
+2012,1,hrt,0,Did not qualify
+2012,1,hrt,0,Did not qualify
+2013,1,lotus_f1,25,Finished
+2013,1,ferrari,18,Finished
+2013,1,red_bull,15,Finished
+2013,1,ferrari,12,Finished
+2013,1,mercedes,10,Finished
+2013,1,red_bull,8,Finished
+2013,1,force_india,6,Finished
+2013,1,force_india,4,Finished
+2013,1,mclaren,2,Finished
+2013,1,lotus_f1,1,Finished
+2013,1,mclaren,0,Finished
+2013,1,toro_rosso,0,Finished
+2013,1,sauber,0,+1 Lap
+2013,1,williams,0,+1 Lap
+2013,1,marussia,0,+1 Lap
+2013,1,caterham,0,+2 Laps
+2013,1,marussia,0,+2 Laps
+2013,1,caterham,0,+2 Laps
+2013,1,toro_rosso,0,Hydraulics
+2013,1,mercedes,0,Electrical
+2013,1,williams,0,Spun off
+2013,1,sauber,0,Fuel system
+2014,1,mercedes,25,Finished
+2014,1,mclaren,18,Finished
+2014,1,mclaren,15,Finished
+2014,1,ferrari,12,Finished
+2014,1,williams,10,Finished
+2014,1,force_india,8,Finished
+2014,1,ferrari,6,Finished
+2014,1,toro_rosso,4,Finished
+2014,1,toro_rosso,2,Finished
+2014,1,force_india,1,Finished
+2014,1,sauber,0,+1 Lap
+2014,1,sauber,0,+1 Lap
+2014,1,marussia,0,+2 Laps
+2014,1,marussia,0,+8 Laps
+2014,1,lotus_f1,0,ERS
+2014,1,lotus_f1,0,ERS
+2014,1,caterham,0,Oil pressure
+2014,1,red_bull,0,Engine
+2014,1,mercedes,0,Engine
+2014,1,williams,0,Collision
+2014,1,caterham,0,Collision
+2014,1,red_bull,0,Disqualified
+2015,1,mercedes,25,Finished
+2015,1,mercedes,18,Finished
+2015,1,ferrari,15,Finished
+2015,1,williams,12,Finished
+2015,1,sauber,10,Finished
+2015,1,red_bull,8,+1 Lap
+2015,1,force_india,6,+1 Lap
+2015,1,sauber,4,+1 Lap
+2015,1,toro_rosso,2,+1 Lap
+2015,1,force_india,1,+1 Lap
+2015,1,mclaren,0,+2 Laps
+2015,1,ferrari,0,Wheel
+2015,1,toro_rosso,0,Engine
+2015,1,lotus_f1,0,Power loss
+2015,1,lotus_f1,0,Accident
+2015,1,red_bull,0,Withdrew
+2015,1,mclaren,0,Withdrew
+2015,1,williams,0,Withdrew
+2016,1,mercedes,25,Finished
+2016,1,mercedes,18,Finished
+2016,1,ferrari,15,Finished
+2016,1,red_bull,12,Finished
+2016,1,williams,10,Finished
+2016,1,haas,8,Finished
+2016,1,force_india,6,Finished
+2016,1,williams,4,Finished
+2016,1,toro_rosso,2,Finished
+2016,1,toro_rosso,1,Finished
+2016,1,renault,0,Finished
+2016,1,renault,0,Finished
+2016,1,force_india,0,Finished
+2016,1,mclaren,0,+1 Lap
+2016,1,sauber,0,+1 Lap
+2016,1,manor,0,+1 Lap
+2016,1,sauber,0,Engine
+2016,1,ferrari,0,Engine
+2016,1,manor,0,Mechanical
+2016,1,haas,0,Collision
+2016,1,mclaren,0,Collision
+2016,1,red_bull,0,Retired
+2017,1,ferrari,25,Finished
+2017,1,mercedes,18,Finished
+2017,1,mercedes,15,Finished
+2017,1,ferrari,12,Finished
+2017,1,red_bull,10,Finished
+2017,1,williams,8,Finished
+2017,1,force_india,6,+1 Lap
+2017,1,toro_rosso,4,+1 Lap
+2017,1,toro_rosso,2,+1 Lap
+2017,1,force_india,1,+1 Lap
+2017,1,renault,0,+1 Lap
+2017,1,sauber,0,+2 Laps
+2017,1,mclaren,0,+2 Laps
+2017,1,mclaren,0,Vibrations
+2017,1,haas,0,Suspension
+2017,1,williams,0,Brakes
+2017,1,red_bull,0,Power Unit
+2017,1,sauber,0,Hydraulics
+2017,1,renault,0,Brakes
+2017,1,haas,0,Water leak
+2018,1,ferrari,25,Finished
+2018,1,mercedes,18,Finished
+2018,1,ferrari,15,Finished
+2018,1,red_bull,12,Finished
+2018,1,mclaren,10,Finished
+2018,1,red_bull,8,Finished
+2018,1,renault,6,Finished
+2018,1,mercedes,4,Finished
+2018,1,mclaren,2,Finished
+2018,1,renault,1,Finished
+2018,1,force_india,0,Finished
+2018,1,force_india,0,Finished
+2018,1,sauber,0,Finished
+2018,1,williams,0,Finished
+2018,1,toro_rosso,0,+1 Lap
+2018,1,haas,0,Wheel
+2018,1,haas,0,Wheel
+2018,1,toro_rosso,0,Engine
+2018,1,sauber,0,Steering
+2018,1,williams,0,Brakes
+2019,1,mercedes,26,Finished
+2019,1,mercedes,18,Finished
+2019,1,red_bull,15,Finished
+2019,1,ferrari,12,Finished
+2019,1,ferrari,10,Finished
+2019,1,haas,8,Finished
+2019,1,renault,6,+1 Lap
+2019,1,alfa,4,+1 Lap
+2019,1,racing_point,2,+1 Lap
+2019,1,toro_rosso,1,+1 Lap
+2019,1,red_bull,0,+1 Lap
+2019,1,mclaren,0,+1 Lap
+2019,1,racing_point,0,+1 Lap
+2019,1,toro_rosso,0,+1 Lap
+2019,1,alfa,0,+1 Lap
+2019,1,williams,0,+2 Laps
+2019,1,williams,0,+3 Laps
+2019,1,haas,0,Wheel
+2019,1,renault,0,Damage
+2019,1,mclaren,0,Engine
+2020,1,mercedes,25,Finished
+2020,1,ferrari,18,Finished
+2020,1,mclaren,16,Finished
+2020,1,mercedes,12,Finished
+2020,1,mclaren,10,Finished
+2020,1,racing_point,8,Finished
+2020,1,alphatauri,6,Finished
+2020,1,renault,4,Finished
+2020,1,alfa,2,Finished
+2020,1,ferrari,1,Finished
+2020,1,williams,0,Finished
+2020,1,alphatauri,0,Suspension
+2020,1,red_bull,0,Electronics
+2020,1,alfa,0,Wheel
+2020,1,williams,0,Fuel pressure
+2020,1,haas,0,Brakes
+2020,1,haas,0,Brakes
+2020,1,racing_point,0,Engine
+2020,1,renault,0,Overheating
+2020,1,red_bull,0,Electronics
+2021,1,mercedes,25,Finished
+2021,1,red_bull,18,Finished
+2021,1,mercedes,16,Finished
+2021,1,mclaren,12,Finished
+2021,1,red_bull,10,Finished
+2021,1,ferrari,8,Finished
+2021,1,mclaren,6,Finished
+2021,1,ferrari,4,Finished
+2021,1,alphatauri,2,Finished
+2021,1,aston_martin,1,Finished
+2021,1,alfa,0,Finished
+2021,1,alfa,0,+1 Lap
+2021,1,alpine,0,+1 Lap
+2021,1,williams,0,+1 Lap
+2021,1,aston_martin,0,+1 Lap
+2021,1,haas,0,+1 Lap
+2021,1,alphatauri,0,Retired
+2021,1,williams,0,Retired
+2021,1,alpine,0,Brakes
+2021,1,haas,0,Accident
+2022,1,ferrari,26,Finished
+2022,1,ferrari,18,Finished
+2022,1,mercedes,15,Finished
+2022,1,mercedes,12,Finished
+2022,1,haas,10,Finished
+2022,1,alfa,8,Finished
+2022,1,alpine,6,Finished
+2022,1,alphatauri,4,Finished
+2022,1,alpine,2,Finished
+2022,1,alfa,1,Finished
+2022,1,haas,0,Finished
+2022,1,aston_martin,0,Finished
+2022,1,williams,0,Finished
+2022,1,mclaren,0,Finished
+2022,1,mclaren,0,Finished
+2022,1,williams,0,Finished
+2022,1,aston_martin,0,Finished
+2022,1,red_bull,0,Fuel pressure
+2022,1,red_bull,0,Fuel pressure
+2022,1,alphatauri,0,Power Unit
+2010,2,mclaren,25,Finished
+2010,2,renault,18,Finished
+2010,2,ferrari,15,Finished
+2010,2,ferrari,12,Finished
+2010,2,mercedes,10,Finished
+2010,2,mclaren,8,Finished
+2010,2,force_india,6,Finished
+2010,2,williams,4,Finished
+2010,2,red_bull,2,Finished
+2010,2,mercedes,1,Finished
+2010,2,toro_rosso,0,Finished
+2010,2,sauber,0,Finished
+2010,2,lotus_racing,0,+2 Laps
+2010,2,hrt,0,+5 Laps
+2010,2,virgin,0,Suspension
+2010,2,virgin,0,Hydraulics
+2010,2,red_bull,0,Wheel
+2010,2,force_india,0,Engine
+2010,2,renault,0,Spun off
+2010,2,hrt,0,Hydraulics
+2010,2,toro_rosso,0,Collision
+2010,2,williams,0,Collision
+2010,2,sauber,0,Collision
+2010,2,lotus_racing,0,Hydraulics
+2011,2,red_bull,25,Finished
+2011,2,mclaren,18,Finished
+2011,2,renault,15,Finished
+2011,2,red_bull,12,Finished
+2011,2,ferrari,10,Finished
+2011,2,ferrari,8,Finished
+2011,2,sauber,6,Finished
+2011,2,mclaren,4,Finished
+2011,2,mercedes,2,Finished
+2011,2,force_india,1,Finished
+2011,2,force_india,0,+1 Lap
+2011,2,mercedes,0,+1 Lap
+2011,2,toro_rosso,0,+1 Lap
+2011,2,toro_rosso,0,+1 Lap
+2011,2,lotus_racing,0,+1 Lap
+2011,2,virgin,0,+2 Laps
+2011,2,renault,0,Accident
+2011,2,hrt,0,+10 Laps
+2011,2,virgin,0,Accident
+2011,2,lotus_racing,0,Clutch
+2011,2,sauber,0,Accident
+2011,2,williams,0,Gearbox
+2011,2,hrt,0,+42 Laps
+2011,2,williams,0,Engine misfire
+2012,2,ferrari,25,Finished
+2012,2,sauber,18,Finished
+2012,2,mclaren,15,Finished
+2012,2,red_bull,12,Finished
+2012,2,lotus_f1,10,Finished
+2012,2,williams,8,Finished
+2012,2,force_india,6,Finished
+2012,2,toro_rosso,4,Finished
+2012,2,force_india,2,Finished
+2012,2,mercedes,1,Finished
+2012,2,red_bull,0,Finished
+2012,2,toro_rosso,0,Finished
+2012,2,mercedes,0,Finished
+2012,2,mclaren,0,Finished
+2012,2,ferrari,0,Finished
+2012,2,caterham,0,+1 Lap
+2012,2,marussia,0,+1 Lap
+2012,2,caterham,0,+1 Lap
+2012,2,williams,0,Engine
+2012,2,marussia,0,+2 Laps
+2012,2,hrt,0,+2 Laps
+2012,2,hrt,0,+2 Laps
+2012,2,sauber,0,Retired
+2012,2,lotus_f1,0,Collision
+2013,2,red_bull,25,Finished
+2013,2,red_bull,18,Finished
+2013,2,mercedes,15,Finished
+2013,2,mercedes,12,Finished
+2013,2,ferrari,10,Finished
+2013,2,lotus_f1,8,Finished
+2013,2,lotus_f1,6,Finished
+2013,2,sauber,4,Finished
+2013,2,mclaren,2,Finished
+2013,2,toro_rosso,1,Finished
+2013,2,williams,0,Finished
+2013,2,sauber,0,+1 Lap
+2013,2,marussia,0,+1 Lap
+2013,2,caterham,0,+1 Lap
+2013,2,caterham,0,+1 Lap
+2013,2,marussia,0,+2 Laps
+2013,2,mclaren,0,Withdrew
+2013,2,toro_rosso,0,Retired
+2013,2,williams,0,Retired
+2013,2,force_india,0,Wheel nut
+2013,2,force_india,0,Wheel nut
+2013,2,ferrari,0,Collision
+2014,2,mercedes,25,Finished
+2014,2,mercedes,18,Finished
+2014,2,red_bull,15,Finished
+2014,2,ferrari,12,Finished
+2014,2,force_india,10,Finished
+2014,2,mclaren,8,Finished
+2014,2,williams,6,Finished
+2014,2,williams,4,Finished
+2014,2,mclaren,2,+1 Lap
+2014,2,toro_rosso,1,+1 Lap
+2014,2,lotus_f1,0,+1 Lap
+2014,2,ferrari,0,+1 Lap
+2014,2,caterham,0,+1 Lap
+2014,2,caterham,0,+2 Laps
+2014,2,marussia,0,+2 Laps
+2014,2,red_bull,0,Technical
+2014,2,sauber,0,Gearbox
+2014,2,sauber,0,Electrical
+2014,2,toro_rosso,0,Power Unit
+2014,2,marussia,0,Brakes
+2014,2,lotus_f1,0,Engine
+2014,2,force_india,0,Withdrew
+2015,2,ferrari,25,Finished
+2015,2,mercedes,18,Finished
+2015,2,mercedes,15,Finished
+2015,2,ferrari,12,Finished
+2015,2,williams,10,Finished
+2015,2,williams,8,Finished
+2015,2,toro_rosso,6,Finished
+2015,2,toro_rosso,4,+1 Lap
+2015,2,red_bull,2,+1 Lap
+2015,2,red_bull,1,+1 Lap
+2015,2,lotus_f1,0,+1 Lap
+2015,2,sauber,0,+1 Lap
+2015,2,force_india,0,+1 Lap
+2015,2,force_india,0,+1 Lap
+2015,2,manor,0,+3 Laps
+2015,2,lotus_f1,0,Retired
+2015,2,mclaren,0,Turbo
+2015,2,mclaren,0,ERS
+2015,2,sauber,0,Spun off
+2015,2,manor,0,Fuel system
+2016,2,mercedes,25,Finished
+2016,2,ferrari,18,Finished
+2016,2,mercedes,15,Finished
+2016,2,red_bull,12,Finished
+2016,2,haas,10,Finished
+2016,2,toro_rosso,8,Finished
+2016,2,red_bull,6,+1 Lap
+2016,2,williams,4,+1 Lap
+2016,2,williams,2,+1 Lap
+2016,2,mclaren,1,+1 Lap
+2016,2,renault,0,+1 Lap
+2016,2,sauber,0,+1 Lap
+2016,2,manor,0,+1 Lap
+2016,2,sauber,0,+1 Lap
+2016,2,force_india,0,+1 Lap
+2016,2,force_india,0,+1 Lap
+2016,2,manor,0,+1 Lap
+2016,2,toro_rosso,0,Retired
+2016,2,haas,0,Retired
+2016,2,mclaren,0,Power Unit
+2016,2,ferrari,0,Engine
+2016,2,renault,0,Hydraulics
+2017,2,mercedes,25,Finished
+2017,2,ferrari,18,Finished
+2017,2,red_bull,15,Finished
+2017,2,red_bull,12,Finished
+2017,2,ferrari,10,Finished
+2017,2,mercedes,8,Finished
+2017,2,toro_rosso,6,Finished
+2017,2,haas,4,+1 Lap
+2017,2,force_india,2,+1 Lap
+2017,2,force_india,1,+1 Lap
+2017,2,haas,0,+1 Lap
+2017,2,renault,0,+1 Lap
+2017,2,renault,0,+1 Lap
+2017,2,williams,0,+1 Lap
+2017,2,sauber,0,+1 Lap
+2017,2,mclaren,0,Driveshaft
+2017,2,toro_rosso,0,Hydraulics
+2017,2,mclaren,0,Fuel pressure
+2017,2,sauber,0,Accident
+2017,2,williams,0,Collision
+2018,2,ferrari,25,Finished
+2018,2,mercedes,18,Finished
+2018,2,mercedes,15,Finished
+2018,2,toro_rosso,12,Finished
+2018,2,haas,10,Finished
+2018,2,renault,8,Finished
+2018,2,mclaren,6,+1 Lap
+2018,2,mclaren,4,+1 Lap
+2018,2,sauber,2,+1 Lap
+2018,2,force_india,1,+1 Lap
+2018,2,renault,0,+1 Lap
+2018,2,sauber,0,+1 Lap
+2018,2,haas,0,+1 Lap
+2018,2,williams,0,+1 Lap
+2018,2,williams,0,+1 Lap
+2018,2,force_india,0,+1 Lap
+2018,2,toro_rosso,0,+1 Lap
+2018,2,ferrari,0,Wheel
+2018,2,red_bull,0,Puncture
+2018,2,red_bull,0,Electrical
+2019,2,mercedes,25,Finished
+2019,2,mercedes,18,Finished
+2019,2,ferrari,16,Finished
+2019,2,red_bull,12,Finished
+2019,2,ferrari,10,Finished
+2019,2,mclaren,8,Finished
+2019,2,alfa,6,Finished
+2019,2,red_bull,4,Finished
+2019,2,toro_rosso,2,Finished
+2019,2,racing_point,1,Finished
+2019,2,alfa,0,Finished
+2019,2,toro_rosso,0,+1 Lap
+2019,2,haas,0,+1 Lap
+2019,2,racing_point,0,+1 Lap
+2019,2,williams,0,+1 Lap
+2019,2,williams,0,+2 Laps
+2019,2,renault,0,Engine
+2019,2,renault,0,Out of fuel
+2019,2,mclaren,0,Collision damage
+2019,2,haas,0,Retired
+2020,2,mercedes,25,Finished
+2020,2,mercedes,18,Finished
+2020,2,red_bull,15,Finished
+2020,2,red_bull,12,Finished
+2020,2,mclaren,10,Finished
+2020,2,racing_point,8,Finished
+2020,2,racing_point,6,Finished
+2020,2,renault,4,Finished
+2020,2,mclaren,3,+1 Lap
+2020,2,alphatauri,1,+1 Lap
+2020,2,alfa,0,+1 Lap
+2020,2,haas,0,+1 Lap
+2020,2,haas,0,+1 Lap
+2020,2,alfa,0,+1 Lap
+2020,2,alphatauri,0,+1 Lap
+2020,2,williams,0,+2 Laps
+2020,2,williams,0,+2 Laps
+2020,2,renault,0,Overheating
+2020,2,ferrari,0,Collision damage
+2020,2,ferrari,0,Collision damage
+2021,2,red_bull,25,Finished
+2021,2,mercedes,19,Finished
+2021,2,mclaren,15,Finished
+2021,2,ferrari,12,Finished
+2021,2,ferrari,10,Finished
+2021,2,mclaren,8,Finished
+2021,2,alphatauri,6,Finished
+2021,2,aston_martin,4,Finished
+2021,2,alpine,2,Finished
+2021,2,alpine,1,Finished
+2021,2,red_bull,0,Finished
+2021,2,alphatauri,0,Finished
+2021,2,alfa,0,Finished
+2021,2,alfa,0,+1 Lap
+2021,2,aston_martin,0,Gearbox
+2021,2,haas,0,+2 Laps
+2021,2,haas,0,+2 Laps
+2021,2,mercedes,0,Collision
+2021,2,williams,0,Collision
+2021,2,williams,0,Collision
+2022,2,red_bull,25,Finished
+2022,2,ferrari,19,Finished
+2022,2,ferrari,15,Finished
+2022,2,red_bull,12,Finished
+2022,2,mercedes,10,Finished
+2022,2,alpine,8,Finished
+2022,2,mclaren,6,Finished
+2022,2,alphatauri,4,Finished
+2022,2,haas,2,Finished
+2022,2,mercedes,1,Finished
+2022,2,alfa,0,Finished
+2022,2,aston_martin,0,Finished
+2022,2,aston_martin,0,+1 Lap
+2022,2,williams,0,Collision damage
+2022,2,alfa,0,Cooling system
+2022,2,alpine,0,Water pump
+2022,2,mclaren,0,Gearbox
+2022,2,williams,0,Accident
+2022,2,alphatauri,0,Power Unit
+2022,2,haas,0,Withdrew
+2010,3,red_bull,25,Finished
+2010,3,red_bull,18,Finished
+2010,3,mercedes,15,Finished
+2010,3,renault,12,Finished
+2010,3,force_india,10,Finished
+2010,3,mclaren,8,Finished
+2010,3,ferrari,6,Finished
+2010,3,mclaren,4,Finished
+2010,3,toro_rosso,2,Finished
+2010,3,williams,1,Finished
+2010,3,toro_rosso,0,Finished
+2010,3,williams,0,+1 Lap
+2010,3,ferrari,0,Engine
+2010,3,virgin,0,+3 Laps
+2010,3,hrt,0,+3 Laps
+2010,3,hrt,0,+4 Laps
+2010,3,lotus_racing,0,+5 Laps
+2010,3,lotus_racing,0,+10 Laps
+2010,3,renault,0,Gearbox
+2010,3,force_india,0,Throttle
+2010,3,mercedes,0,Wheel
+2010,3,sauber,0,Engine
+2010,3,virgin,0,Spun off
+2010,3,sauber,0,Engine
+2011,3,mclaren,25,Finished
+2011,3,red_bull,18,Finished
+2011,3,red_bull,15,Finished
+2011,3,mclaren,12,Finished
+2011,3,mercedes,10,Finished
+2011,3,ferrari,8,Finished
+2011,3,ferrari,6,Finished
+2011,3,mercedes,4,Finished
+2011,3,renault,2,Finished
+2011,3,sauber,1,Finished
+2011,3,force_india,0,Finished
+2011,3,renault,0,Finished
+2011,3,williams,0,Finished
+2011,3,toro_rosso,0,Finished
+2011,3,force_india,0,+1 Lap
+2011,3,lotus_racing,0,+1 Lap
+2011,3,sauber,0,+1 Lap
+2011,3,williams,0,+1 Lap
+2011,3,lotus_racing,0,+1 Lap
+2011,3,virgin,0,+2 Laps
+2011,3,virgin,0,+2 Laps
+2011,3,hrt,0,+2 Laps
+2011,3,hrt,0,+2 Laps
+2011,3,toro_rosso,0,Wheel
+2012,3,mercedes,25,Finished
+2012,3,mclaren,18,Finished
+2012,3,mclaren,15,Finished
+2012,3,red_bull,12,Finished
+2012,3,red_bull,10,Finished
+2012,3,lotus_f1,8,Finished
+2012,3,williams,6,Finished
+2012,3,williams,4,Finished
+2012,3,ferrari,2,Finished
+2012,3,sauber,1,Finished
+2012,3,sauber,0,Finished
+2012,3,force_india,0,Finished
+2012,3,ferrari,0,Finished
+2012,3,lotus_f1,0,Finished
+2012,3,force_india,0,Finished
+2012,3,toro_rosso,0,Finished
+2012,3,toro_rosso,0,Finished
+2012,3,caterham,0,+1 Lap
+2012,3,marussia,0,+1 Lap
+2012,3,marussia,0,+1 Lap
+2012,3,hrt,0,+1 Lap
+2012,3,hrt,0,+2 Laps
+2012,3,caterham,0,+3 Laps
+2012,3,mercedes,0,Wheel nut
+2013,3,ferrari,25,Finished
+2013,3,lotus_f1,18,Finished
+2013,3,mercedes,15,Finished
+2013,3,red_bull,12,Finished
+2013,3,mclaren,10,Finished
+2013,3,ferrari,8,Finished
+2013,3,toro_rosso,6,Finished
+2013,3,force_india,4,Finished
+2013,3,lotus_f1,2,Finished
+2013,3,sauber,1,Finished
+2013,3,mclaren,0,Finished
+2013,3,toro_rosso,0,Finished
+2013,3,williams,0,Finished
+2013,3,williams,0,Finished
+2013,3,marussia,0,+1 Lap
+2013,3,caterham,0,+1 Lap
+2013,3,marussia,0,+1 Lap
+2013,3,caterham,0,+1 Lap
+2013,3,mercedes,0,Suspension
+2013,3,red_bull,0,Wheel
+2013,3,force_india,0,Collision
+2013,3,sauber,0,Collision
+2014,3,mercedes,25,Finished
+2014,3,mercedes,18,Finished
+2014,3,force_india,15,Finished
+2014,3,red_bull,12,Finished
+2014,3,force_india,10,Finished
+2014,3,red_bull,8,Finished
+2014,3,williams,6,Finished
+2014,3,williams,4,Finished
+2014,3,ferrari,2,Finished
+2014,3,ferrari,1,Finished
+2014,3,toro_rosso,0,Finished
+2014,3,lotus_f1,0,Finished
+2014,3,marussia,0,Finished
+2014,3,lotus_f1,0,Finished
+2014,3,caterham,0,Finished
+2014,3,marussia,0,+1 Lap
+2014,3,mclaren,0,Clutch
+2014,3,mclaren,0,Clutch
+2014,3,sauber,0,Collision
+2014,3,caterham,0,Retired
+2014,3,toro_rosso,0,Retired
+2014,3,sauber,0,Collision
+2015,3,mercedes,25,Finished
+2015,3,mercedes,18,Finished
+2015,3,ferrari,15,Finished
+2015,3,ferrari,12,Finished
+2015,3,williams,10,Finished
+2015,3,williams,8,Finished
+2015,3,lotus_f1,6,Finished
+2015,3,sauber,4,Finished
+2015,3,red_bull,2,Finished
+2015,3,sauber,1,+1 Lap
+2015,3,force_india,0,+1 Lap
+2015,3,mclaren,0,+1 Lap
+2015,3,toro_rosso,0,+1 Lap
+2015,3,mclaren,0,+1 Lap
+2015,3,manor,0,+2 Laps
+2015,3,manor,0,+2 Laps
+2015,3,toro_rosso,0,Transmission
+2015,3,lotus_f1,0,Brakes
+2015,3,red_bull,0,Power Unit
+2015,3,force_india,0,Gearbox
+2016,3,mercedes,25,Finished
+2016,3,ferrari,18,Finished
+2016,3,red_bull,15,Finished
+2016,3,red_bull,12,Finished
+2016,3,ferrari,10,Finished
+2016,3,williams,8,Finished
+2016,3,mercedes,6,Finished
+2016,3,toro_rosso,4,Finished
+2016,3,toro_rosso,2,Finished
+2016,3,williams,1,Finished
+2016,3,force_india,0,Finished
+2016,3,mclaren,0,Finished
+2016,3,mclaren,0,Finished
+2016,3,haas,0,+1 Lap
+2016,3,force_india,0,+1 Lap
+2016,3,sauber,0,+1 Lap
+2016,3,renault,0,+1 Lap
+2016,3,manor,0,+1 Lap
+2016,3,haas,0,+1 Lap
+2016,3,sauber,0,+1 Lap
+2016,3,manor,0,+1 Lap
+2016,3,renault,0,+1 Lap
+2017,3,ferrari,25,Finished
+2017,3,mercedes,18,Finished
+2017,3,mercedes,15,Finished
+2017,3,ferrari,12,Finished
+2017,3,red_bull,10,Finished
+2017,3,williams,8,Finished
+2017,3,force_india,6,Finished
+2017,3,haas,4,Finished
+2017,3,renault,2,Finished
+2017,3,force_india,1,Finished
+2017,3,sauber,0,+1 Lap
+2017,3,toro_rosso,0,+1 Lap
+2017,3,renault,0,+1 Lap
+2017,3,mclaren,0,Power Unit
+2017,3,sauber,0,Gearbox
+2017,3,toro_rosso,0,Collision
+2017,3,williams,0,Collision
+2017,3,red_bull,0,Brakes
+2017,3,haas,0,Electrical
+2017,3,mclaren,0,Power Unit
+2018,3,red_bull,25,Finished
+2018,3,mercedes,18,Finished
+2018,3,ferrari,15,Finished
+2018,3,mercedes,12,Finished
+2018,3,red_bull,10,Finished
+2018,3,renault,8,Finished
+2018,3,mclaren,6,Finished
+2018,3,ferrari,4,Finished
+2018,3,renault,2,Finished
+2018,3,haas,1,Finished
+2018,3,force_india,0,Finished
+2018,3,force_india,0,Finished
+2018,3,mclaren,0,Finished
+2018,3,williams,0,Finished
+2018,3,williams,0,Finished
+2018,3,sauber,0,Finished
+2018,3,haas,0,Finished
+2018,3,toro_rosso,0,Finished
+2018,3,sauber,0,Finished
+2018,3,toro_rosso,0,Collision damage
+2019,3,mercedes,25,Finished
+2019,3,mercedes,18,Finished
+2019,3,ferrari,15,Finished
+2019,3,red_bull,12,Finished
+2019,3,ferrari,10,Finished
+2019,3,red_bull,9,Finished
+2019,3,renault,6,+1 Lap
+2019,3,racing_point,4,+1 Lap
+2019,3,alfa,2,+1 Lap
+2019,3,toro_rosso,1,+1 Lap
+2019,3,haas,0,+1 Lap
+2019,3,racing_point,0,+1 Lap
+2019,3,haas,0,+1 Lap
+2019,3,mclaren,0,+1 Lap
+2019,3,alfa,0,+1 Lap
+2019,3,williams,0,+2 Laps
+2019,3,williams,0,+2 Laps
+2019,3,mclaren,0,Collision
+2019,3,toro_rosso,0,Collision
+2019,3,renault,0,Power Unit
+2020,3,mercedes,26,Finished
+2020,3,red_bull,18,Finished
+2020,3,mercedes,15,Finished
+2020,3,racing_point,12,Finished
+2020,3,red_bull,10,Finished
+2020,3,ferrari,8,+1 Lap
+2020,3,racing_point,6,+1 Lap
+2020,3,renault,4,+1 Lap
+2020,3,mclaren,2,+1 Lap
+2020,3,haas,1,+1 Lap
+2020,3,ferrari,0,+1 Lap
+2020,3,alphatauri,0,+1 Lap
+2020,3,mclaren,0,+1 Lap
+2020,3,renault,0,+1 Lap
+2020,3,alfa,0,+1 Lap
+2020,3,haas,0,+1 Lap
+2020,3,alfa,0,+1 Lap
+2020,3,williams,0,+1 Lap
+2020,3,williams,0,+5 Laps
+2020,3,alphatauri,0,Engine
+2021,3,mercedes,25,Finished
+2021,3,red_bull,18,Finished
+2021,3,mercedes,16,Finished
+2021,3,red_bull,12,Finished
+2021,3,mclaren,10,Finished
+2021,3,ferrari,8,Finished
+2021,3,alpine,6,Finished
+2021,3,alpine,4,Finished
+2021,3,mclaren,2,Finished
+2021,3,alphatauri,1,Finished
+2021,3,ferrari,0,Finished
+2021,3,alfa,0,+1 Lap
+2021,3,aston_martin,0,+1 Lap
+2021,3,aston_martin,0,+1 Lap
+2021,3,alphatauri,0,+1 Lap
+2021,3,williams,0,+1 Lap
+2021,3,haas,0,+2 Laps
+2021,3,williams,0,+2 Laps
+2021,3,haas,0,+2 Laps
+2021,3,alfa,0,Collision damage
+2022,3,ferrari,26,Finished
+2022,3,red_bull,18,Finished
+2022,3,mercedes,15,Finished
+2022,3,mercedes,12,Finished
+2022,3,mclaren,10,Finished
+2022,3,mclaren,8,Finished
+2022,3,alpine,6,Finished
+2022,3,alfa,4,Finished
+2022,3,alphatauri,2,Finished
+2022,3,williams,1,Finished
+2022,3,alfa,0,Finished
+2022,3,aston_martin,0,Finished
+2022,3,haas,0,+1 Lap
+2022,3,haas,0,+1 Lap
+2022,3,alphatauri,0,+1 Lap
+2022,3,williams,0,+1 Lap
+2022,3,alpine,0,+1 Lap
+2022,3,red_bull,0,Fuel leak
+2022,3,aston_martin,0,Accident
+2022,3,ferrari,0,Spun off
+2010,4,mclaren,25,Finished
+2010,4,mclaren,18,Finished
+2010,4,mercedes,15,Finished
+2010,4,ferrari,12,Finished
+2010,4,renault,10,Finished
+2010,4,red_bull,8,Finished
+2010,4,renault,6,Finished
+2010,4,red_bull,4,Finished
+2010,4,ferrari,2,Finished
+2010,4,mercedes,1,Finished
+2010,4,force_india,0,Finished
+2010,4,williams,0,Finished
+2010,4,toro_rosso,0,Finished
+2010,4,lotus_racing,0,+1 Lap
+2010,4,williams,0,+1 Lap
+2010,4,hrt,0,+2 Laps
+2010,4,hrt,0,+4 Laps
+2010,4,lotus_racing,0,Hydraulics
+2010,4,virgin,0,Clutch
+2010,4,sauber,0,Technical
+2010,4,toro_rosso,0,Accident
+2010,4,sauber,0,Accident
+2010,4,force_india,0,Accident
+2010,4,virgin,0,Engine
+2011,4,red_bull,25,Finished
+2011,4,red_bull,18,Finished
+2011,4,ferrari,15,Finished
+2011,4,mclaren,12,Finished
+2011,4,mercedes,10,Finished
+2011,4,mclaren,8,Finished
+2011,4,renault,6,Finished
+2011,4,renault,4,Finished
+2011,4,toro_rosso,2,Finished
+2011,4,sauber,1,Finished
+2011,4,ferrari,0,Finished
+2011,4,mercedes,0,Finished
+2011,4,force_india,0,+1 Lap
+2011,4,sauber,0,+1 Lap
+2011,4,williams,0,+1 Lap
+2011,4,toro_rosso,0,+1 Lap
+2011,4,williams,0,+1 Lap
+2011,4,lotus_racing,0,+1 Lap
+2011,4,lotus_racing,0,+2 Laps
+2011,4,virgin,0,+2 Laps
+2011,4,hrt,0,+3 Laps
+2011,4,hrt,0,+5 Laps
+2011,4,force_india,0,Retired
+2011,4,virgin,0,Gearbox
+2012,4,red_bull,25,Finished
+2012,4,lotus_f1,18,Finished
+2012,4,lotus_f1,15,Finished
+2012,4,red_bull,12,Finished
+2012,4,mercedes,10,Finished
+2012,4,force_india,8,Finished
+2012,4,ferrari,6,Finished
+2012,4,mclaren,4,Finished
+2012,4,ferrari,2,Finished
+2012,4,mercedes,1,Finished
+2012,4,sauber,0,Finished
+2012,4,force_india,0,Finished
+2012,4,sauber,0,Finished
+2012,4,toro_rosso,0,Finished
+2012,4,toro_rosso,0,+1 Lap
+2012,4,caterham,0,+1 Lap
+2012,4,caterham,0,+1 Lap
+2012,4,mclaren,0,Exhaust
+2012,4,marussia,0,+2 Laps
+2012,4,hrt,0,+2 Laps
+2012,4,hrt,0,+2 Laps
+2012,4,williams,0,Vibrations
+2012,4,williams,0,Puncture
+2012,4,marussia,0,Engine
+2013,4,red_bull,25,Finished
+2013,4,lotus_f1,18,Finished
+2013,4,lotus_f1,15,Finished
+2013,4,force_india,12,Finished
+2013,4,mercedes,10,Finished
+2013,4,mclaren,8,Finished
+2013,4,red_bull,6,Finished
+2013,4,ferrari,4,Finished
+2013,4,mercedes,2,Finished
+2013,4,mclaren,1,Finished
+2013,4,williams,0,Finished
+2013,4,sauber,0,Finished
+2013,4,force_india,0,Finished
+2013,4,williams,0,Finished
+2013,4,ferrari,0,Finished
+2013,4,toro_rosso,0,+1 Lap
+2013,4,caterham,0,+1 Lap
+2013,4,sauber,0,+1 Lap
+2013,4,marussia,0,+1 Lap
+2013,4,marussia,0,+1 Lap
+2013,4,caterham,0,+2 Laps
+2013,4,toro_rosso,0,Puncture
+2014,4,mercedes,25,Finished
+2014,4,mercedes,18,Finished
+2014,4,ferrari,15,Finished
+2014,4,red_bull,12,Finished
+2014,4,red_bull,10,Finished
+2014,4,force_india,8,Finished
+2014,4,williams,6,Finished
+2014,4,ferrari,4,Finished
+2014,4,force_india,2,Finished
+2014,4,toro_rosso,1,+1 Lap
+2014,4,mclaren,0,+1 Lap
+2014,4,toro_rosso,0,+1 Lap
+2014,4,mclaren,0,+1 Lap
+2014,4,lotus_f1,0,+1 Lap
+2014,4,williams,0,+1 Lap
+2014,4,sauber,0,+1 Lap
+2014,4,marussia,0,+1 Lap
+2014,4,caterham,0,+1 Lap
+2014,4,marussia,0,+2 Laps
+2014,4,caterham,0,+2 Laps
+2014,4,lotus_f1,0,Gearbox
+2014,4,sauber,0,Engine
+2015,4,mercedes,25,Finished
+2015,4,ferrari,18,Finished
+2015,4,mercedes,15,Finished
+2015,4,williams,12,Finished
+2015,4,ferrari,10,Finished
+2015,4,red_bull,8,Finished
+2015,4,lotus_f1,6,Finished
+2015,4,force_india,4,+1 Lap
+2015,4,red_bull,2,+1 Lap
+2015,4,williams,1,+1 Lap
+2015,4,mclaren,0,+1 Lap
+2015,4,sauber,0,+1 Lap
+2015,4,force_india,0,+1 Lap
+2015,4,sauber,0,+1 Lap
+2015,4,lotus_f1,0,+1 Lap
+2015,4,manor,0,+2 Laps
+2015,4,manor,0,+3 Laps
+2015,4,toro_rosso,0,Electrical
+2015,4,toro_rosso,0,Engine
+2015,4,mclaren,0,ERS
+2016,4,mercedes,25,Finished
+2016,4,mercedes,18,Finished
+2016,4,ferrari,15,Finished
+2016,4,williams,12,Finished
+2016,4,williams,10,Finished
+2016,4,mclaren,8,+1 Lap
+2016,4,renault,6,+1 Lap
+2016,4,haas,4,+1 Lap
+2016,4,force_india,2,+1 Lap
+2016,4,mclaren,1,+1 Lap
+2016,4,red_bull,0,+1 Lap
+2016,4,toro_rosso,0,+1 Lap
+2016,4,renault,0,+1 Lap
+2016,4,sauber,0,+1 Lap
+2016,4,red_bull,0,+1 Lap
+2016,4,sauber,0,+1 Lap
+2016,4,haas,0,+1 Lap
+2016,4,manor,0,+2 Laps
+2016,4,toro_rosso,0,Power Unit
+2016,4,ferrari,0,Collision
+2016,4,force_india,0,Collision
+2016,4,manor,0,Collision
+2017,4,mercedes,25,Finished
+2017,4,ferrari,18,Finished
+2017,4,ferrari,15,Finished
+2017,4,mercedes,12,Finished
+2017,4,red_bull,10,Finished
+2017,4,force_india,8,Finished
+2017,4,force_india,6,Finished
+2017,4,renault,4,Finished
+2017,4,williams,2,+1 Lap
+2017,4,toro_rosso,1,+1 Lap
+2017,4,williams,0,+1 Lap
+2017,4,toro_rosso,0,+1 Lap
+2017,4,haas,0,+1 Lap
+2017,4,mclaren,0,+1 Lap
+2017,4,sauber,0,+1 Lap
+2017,4,sauber,0,+2 Laps
+2017,4,red_bull,0,Brakes
+2017,4,renault,0,Collision
+2017,4,haas,0,Collision
+2017,4,mclaren,0,Power Unit
+2018,4,mercedes,25,Finished
+2018,4,ferrari,18,Finished
+2018,4,force_india,15,Finished
+2018,4,ferrari,12,Finished
+2018,4,renault,10,Finished
+2018,4,sauber,8,Finished
+2018,4,mclaren,6,Finished
+2018,4,williams,4,Finished
+2018,4,mclaren,2,Finished
+2018,4,toro_rosso,1,Finished
+2018,4,sauber,0,Finished
+2018,4,toro_rosso,0,Finished
+2018,4,haas,0,Finished
+2018,4,mercedes,0,Puncture
+2018,4,haas,0,Accident
+2018,4,red_bull,0,Collision
+2018,4,red_bull,0,Collision
+2018,4,renault,0,Accident
+2018,4,force_india,0,Collision
+2018,4,williams,0,Collision
+2019,4,mercedes,25,Finished
+2019,4,mercedes,18,Finished
+2019,4,ferrari,15,Finished
+2019,4,red_bull,12,Finished
+2019,4,ferrari,11,Finished
+2019,4,racing_point,8,Finished
+2019,4,mclaren,6,Finished
+2019,4,mclaren,4,Finished
+2019,4,racing_point,2,Finished
+2019,4,alfa,1,+1 Lap
+2019,4,toro_rosso,0,+1 Lap
+2019,4,alfa,0,+1 Lap
+2019,4,haas,0,+1 Lap
+2019,4,renault,0,+1 Lap
+2019,4,williams,0,+2 Laps
+2019,4,williams,0,+2 Laps
+2019,4,red_bull,0,Transmission
+2019,4,haas,0,Brakes
+2019,4,toro_rosso,0,Collision
+2019,4,renault,0,Collision
+2020,4,mercedes,25,Finished
+2020,4,red_bull,19,Finished
+2020,4,ferrari,15,Finished
+2020,4,renault,12,Finished
+2020,4,mclaren,10,Finished
+2020,4,renault,8,Finished
+2020,4,alphatauri,6,Finished
+2020,4,red_bull,4,Finished
+2020,4,racing_point,2,Finished
+2020,4,ferrari,1,Finished
+2020,4,mercedes,0,Finished
+2020,4,williams,0,Finished
+2020,4,mclaren,0,Finished
+2020,4,alfa,0,Finished
+2020,4,williams,0,Finished
+2020,4,haas,0,Finished
+2020,4,alfa,0,+1 Lap
+2020,4,alphatauri,0,Accident
+2020,4,haas,0,Collision
+2020,4,racing_point,0,Power Unit
+2021,4,mercedes,25,Finished
+2021,4,red_bull,19,Finished
+2021,4,mercedes,15,Finished
+2021,4,ferrari,12,Finished
+2021,4,red_bull,10,Finished
+2021,4,mclaren,8,Finished
+2021,4,ferrari,6,Finished
+2021,4,mclaren,4,+1 Lap
+2021,4,alpine,2,+1 Lap
+2021,4,alphatauri,1,+1 Lap
+2021,4,aston_martin,0,+1 Lap
+2021,4,alfa,0,+1 Lap
+2021,4,aston_martin,0,+1 Lap
+2021,4,williams,0,+1 Lap
+2021,4,alfa,0,+1 Lap
+2021,4,williams,0,+1 Lap
+2021,4,alpine,0,+1 Lap
+2021,4,haas,0,+2 Laps
+2021,4,haas,0,+2 Laps
+2021,4,alphatauri,0,Electrical
+2022,4,red_bull,26,Finished
+2022,4,red_bull,18,Finished
+2022,4,mclaren,15,Finished
+2022,4,mercedes,12,Finished
+2022,4,alfa,10,Finished
+2022,4,ferrari,8,Finished
+2022,4,alphatauri,6,Finished
+2022,4,aston_martin,4,Finished
+2022,4,haas,2,Finished
+2022,4,aston_martin,1,+1 Lap
+2022,4,williams,0,+1 Lap
+2022,4,alphatauri,0,+1 Lap
+2022,4,mercedes,0,+1 Lap
+2022,4,alpine,0,+1 Lap
+2022,4,alfa,0,+1 Lap
+2022,4,williams,0,+1 Lap
+2022,4,haas,0,+1 Lap
+2022,4,mclaren,0,+1 Lap
+2022,4,alpine,0,Collision damage
+2022,4,ferrari,0,Collision
+2010,5,red_bull,25,Finished
+2010,5,ferrari,18,Finished
+2010,5,red_bull,15,Finished
+2010,5,mercedes,12,Finished
+2010,5,mclaren,10,Finished
+2010,5,ferrari,8,Finished
+2010,5,force_india,6,Finished
+2010,5,renault,4,Finished
+2010,5,williams,2,+1 Lap
+2010,5,toro_rosso,1,+1 Lap
+2010,5,renault,0,+1 Lap
+2010,5,sauber,0,+1 Lap
+2010,5,mercedes,0,+1 Lap
+2010,5,mclaren,0,Puncture
+2010,5,force_india,0,Engine
+2010,5,williams,0,+2 Laps
+2010,5,lotus_racing,0,+3 Laps
+2010,5,virgin,0,+3 Laps
+2010,5,virgin,0,+4 Laps
+2010,5,toro_rosso,0,Hydraulics
+2010,5,hrt,0,Suspension
+2010,5,sauber,0,Collision
+2010,5,hrt,0,Accident
+2010,5,lotus_racing,0,Gearbox
+2011,5,red_bull,25,Finished
+2011,5,mclaren,18,Finished
+2011,5,mclaren,15,Finished
+2011,5,red_bull,12,Finished
+2011,5,ferrari,10,+1 Lap
+2011,5,mercedes,8,+1 Lap
+2011,5,mercedes,6,+1 Lap
+2011,5,renault,4,+1 Lap
+2011,5,sauber,2,+1 Lap
+2011,5,sauber,1,+1 Lap
+2011,5,renault,0,+1 Lap
+2011,5,force_india,0,+1 Lap
+2011,5,force_india,0,+1 Lap
+2011,5,toro_rosso,0,+1 Lap
+2011,5,williams,0,+1 Lap
+2011,5,toro_rosso,0,+2 Laps
+2011,5,williams,0,+2 Laps
+2011,5,lotus_racing,0,+2 Laps
+2011,5,virgin,0,+3 Laps
+2011,5,virgin,0,+4 Laps
+2011,5,hrt,0,+5 Laps
+2011,5,ferrari,0,Gearbox
+2011,5,lotus_racing,0,Accident
+2011,5,hrt,0,Gearbox
+2012,5,williams,25,Finished
+2012,5,ferrari,18,Finished
+2012,5,lotus_f1,15,Finished
+2012,5,lotus_f1,12,Finished
+2012,5,sauber,10,Finished
+2012,5,red_bull,8,Finished
+2012,5,mercedes,6,Finished
+2012,5,mclaren,4,Finished
+2012,5,mclaren,2,Finished
+2012,5,force_india,1,+1 Lap
+2012,5,red_bull,0,+1 Lap
+2012,5,toro_rosso,0,+1 Lap
+2012,5,toro_rosso,0,+1 Lap
+2012,5,force_india,0,+1 Lap
+2012,5,ferrari,0,+1 Lap
+2012,5,caterham,0,+1 Lap
+2012,5,caterham,0,+1 Lap
+2012,5,marussia,0,+2 Laps
+2012,5,hrt,0,+3 Laps
+2012,5,sauber,0,Wheel nut
+2012,5,marussia,0,Mechanical
+2012,5,hrt,0,Mechanical
+2012,5,williams,0,Collision
+2012,5,mercedes,0,Collision
+2013,5,ferrari,25,Finished
+2013,5,lotus_f1,18,Finished
+2013,5,ferrari,15,Finished
+2013,5,red_bull,12,Finished
+2013,5,red_bull,10,Finished
+2013,5,mercedes,8,Finished
+2013,5,force_india,6,Finished
+2013,5,mclaren,4,Finished
+2013,5,mclaren,2,Finished
+2013,5,toro_rosso,1,+1 Lap
+2013,5,sauber,0,+1 Lap
+2013,5,mercedes,0,+1 Lap
+2013,5,force_india,0,+1 Lap
+2013,5,williams,0,+1 Lap
+2013,5,sauber,0,+1 Lap
+2013,5,williams,0,+1 Lap
+2013,5,caterham,0,+1 Lap
+2013,5,marussia,0,+2 Laps
+2013,5,marussia,0,+2 Laps
+2013,5,toro_rosso,0,Accident
+2013,5,caterham,0,Wheel
+2013,5,lotus_f1,0,Suspension
+2014,5,mercedes,25,Finished
+2014,5,mercedes,18,Finished
+2014,5,red_bull,15,Finished
+2014,5,red_bull,12,Finished
+2014,5,williams,10,Finished
+2014,5,ferrari,8,Finished
+2014,5,ferrari,6,+1 Lap
+2014,5,lotus_f1,4,+1 Lap
+2014,5,force_india,2,+1 Lap
+2014,5,force_india,1,+1 Lap
+2014,5,mclaren,0,+1 Lap
+2014,5,mclaren,0,+1 Lap
+2014,5,williams,0,+1 Lap
+2014,5,toro_rosso,0,+1 Lap
+2014,5,lotus_f1,0,+1 Lap
+2014,5,sauber,0,+1 Lap
+2014,5,sauber,0,+1 Lap
+2014,5,marussia,0,+2 Laps
+2014,5,marussia,0,+2 Laps
+2014,5,caterham,0,+2 Laps
+2014,5,caterham,0,Brakes
+2014,5,toro_rosso,0,Exhaust
+2015,5,mercedes,25,Finished
+2015,5,mercedes,18,Finished
+2015,5,ferrari,15,Finished
+2015,5,williams,12,Finished
+2015,5,ferrari,10,Finished
+2015,5,williams,8,Finished
+2015,5,red_bull,6,+1 Lap
+2015,5,lotus_f1,4,+1 Lap
+2015,5,toro_rosso,2,+1 Lap
+2015,5,red_bull,1,+1 Lap
+2015,5,toro_rosso,0,+1 Lap
+2015,5,sauber,0,+1 Lap
+2015,5,force_india,0,+1 Lap
+2015,5,sauber,0,+1 Lap
+2015,5,force_india,0,+1 Lap
+2015,5,mclaren,0,+1 Lap
+2015,5,manor,0,+3 Laps
+2015,5,manor,0,+4 Laps
+2015,5,lotus_f1,0,Accident
+2015,5,mclaren,0,Brakes
+2016,5,red_bull,25,Finished
+2016,5,ferrari,18,Finished
+2016,5,ferrari,15,Finished
+2016,5,red_bull,12,Finished
+2016,5,williams,10,Finished
+2016,5,toro_rosso,8,Finished
+2016,5,force_india,6,Finished
+2016,5,williams,4,Finished
+2016,5,mclaren,2,+1 Lap
+2016,5,toro_rosso,1,+1 Lap
+2016,5,haas,0,+1 Lap
+2016,5,sauber,0,+1 Lap
+2016,5,renault,0,+1 Lap
+2016,5,renault,0,+1 Lap
+2016,5,sauber,0,+1 Lap
+2016,5,manor,0,+1 Lap
+2016,5,manor,0,+1 Lap
+2016,5,haas,0,Engine
+2016,5,mclaren,0,Engine
+2016,5,force_india,0,Engine
+2016,5,mercedes,0,Collision
+2016,5,mercedes,0,Collision
+2017,5,mercedes,25,Finished
+2017,5,ferrari,18,Finished
+2017,5,red_bull,15,Finished
+2017,5,force_india,12,+1 Lap
+2017,5,force_india,10,+1 Lap
+2017,5,renault,8,+1 Lap
+2017,5,toro_rosso,6,+1 Lap
+2017,5,sauber,4,+1 Lap
+2017,5,toro_rosso,2,+1 Lap
+2017,5,haas,1,+1 Lap
+2017,5,sauber,0,+2 Laps
+2017,5,mclaren,0,+2 Laps
+2017,5,williams,0,+2 Laps
+2017,5,haas,0,+2 Laps
+2017,5,renault,0,+2 Laps
+2017,5,williams,0,+2 Laps
+2017,5,mercedes,0,Power Unit
+2017,5,mclaren,0,Collision
+2017,5,red_bull,0,Collision damage
+2017,5,ferrari,0,Collision damage
+2018,5,mercedes,25,Finished
+2018,5,mercedes,18,Finished
+2018,5,red_bull,15,Finished
+2018,5,ferrari,12,Finished
+2018,5,red_bull,10,Finished
+2018,5,haas,8,+1 Lap
+2018,5,renault,6,+1 Lap
+2018,5,mclaren,4,+1 Lap
+2018,5,force_india,2,+2 Laps
+2018,5,sauber,1,+2 Laps
+2018,5,williams,0,+2 Laps
+2018,5,toro_rosso,0,+2 Laps
+2018,5,sauber,0,+2 Laps
+2018,5,williams,0,+3 Laps
+2018,5,mclaren,0,Gearbox
+2018,5,force_india,0,Oil leak
+2018,5,ferrari,0,Turbo
+2018,5,haas,0,Collision
+2018,5,toro_rosso,0,Collision
+2018,5,renault,0,Collision
+2019,5,mercedes,26,Finished
+2019,5,mercedes,18,Finished
+2019,5,red_bull,15,Finished
+2019,5,ferrari,12,Finished
+2019,5,ferrari,10,Finished
+2019,5,red_bull,8,Finished
+2019,5,haas,6,Finished
+2019,5,mclaren,4,Finished
+2019,5,toro_rosso,2,Finished
+2019,5,haas,1,Finished
+2019,5,toro_rosso,0,Finished
+2019,5,renault,0,Finished
+2019,5,renault,0,Finished
+2019,5,alfa,0,Finished
+2019,5,racing_point,0,Finished
+2019,5,alfa,0,Finished
+2019,5,williams,0,+1 Lap
+2019,5,williams,0,+1 Lap
+2019,5,racing_point,0,Collision
+2019,5,mclaren,0,Collision
+2020,5,red_bull,25,Finished
+2020,5,mercedes,19,Finished
+2020,5,mercedes,15,Finished
+2020,5,ferrari,12,Finished
+2020,5,red_bull,10,Finished
+2020,5,racing_point,8,Finished
+2020,5,racing_point,6,Finished
+2020,5,renault,4,Finished
+2020,5,mclaren,2,Finished
+2020,5,alphatauri,1,Finished
+2020,5,alphatauri,0,Finished
+2020,5,ferrari,0,Finished
+2020,5,mclaren,0,Finished
+2020,5,renault,0,+1 Lap
+2020,5,alfa,0,+1 Lap
+2020,5,haas,0,+1 Lap
+2020,5,alfa,0,+1 Lap
+2020,5,williams,0,+1 Lap
+2020,5,williams,0,+1 Lap
+2020,5,haas,0,Retired
+2021,5,red_bull,25,Finished
+2021,5,ferrari,18,Finished
+2021,5,mclaren,15,Finished
+2021,5,red_bull,12,Finished
+2021,5,aston_martin,10,Finished
+2021,5,alphatauri,8,Finished
+2021,5,mercedes,7,Finished
+2021,5,aston_martin,4,+1 Lap
+2021,5,alpine,2,+1 Lap
+2021,5,alfa,1,+1 Lap
+2021,5,alfa,0,+1 Lap
+2021,5,mclaren,0,+1 Lap
+2021,5,alpine,0,+1 Lap
+2021,5,williams,0,+1 Lap
+2021,5,williams,0,+1 Lap
+2021,5,alphatauri,0,+1 Lap
+2021,5,haas,0,+3 Laps
+2021,5,haas,0,+3 Laps
+2021,5,mercedes,0,Wheel nut
+2021,5,ferrari,0,Driveshaft
+2022,5,red_bull,26,Finished
+2022,5,ferrari,18,Finished
+2022,5,ferrari,15,Finished
+2022,5,red_bull,12,Finished
+2022,5,mercedes,10,Finished
+2022,5,mercedes,8,Finished
+2022,5,alfa,6,Finished
+2022,5,alpine,4,Finished
+2022,5,williams,2,Finished
+2022,5,aston_martin,1,Finished
+2022,5,alpine,0,Finished
+2022,5,alphatauri,0,Finished
+2022,5,mclaren,0,Finished
+2022,5,williams,0,Finished
+2022,5,haas,0,Finished
+2022,5,haas,0,Front wing
+2022,5,aston_martin,0,Collision
+2022,5,alphatauri,0,Suspension
+2022,5,mclaren,0,Collision
+2022,5,alfa,0,Water leak
+2010,6,red_bull,25,Finished
+2010,6,red_bull,18,Finished
+2010,6,renault,15,Finished
+2010,6,ferrari,12,Finished
+2010,6,mclaren,10,Finished
+2010,6,ferrari,8,Finished
+2010,6,mercedes,6,Finished
+2010,6,force_india,4,Finished
+2010,6,force_india,2,Finished
+2010,6,toro_rosso,1,Finished
+2010,6,toro_rosso,0,Finished
+2010,6,mercedes,0,Finished
+2010,6,renault,0,Brakes
+2010,6,hrt,0,Collision
+2010,6,lotus_racing,0,Collision
+2010,6,lotus_racing,0,Steering
+2010,6,hrt,0,Hydraulics
+2010,6,williams,0,Suspension
+2010,6,sauber,0,Gearbox
+2010,6,virgin,0,Wheel
+2010,6,virgin,0,Track rod
+2010,6,sauber,0,Hydraulics
+2010,6,mclaren,0,Engine
+2010,6,williams,0,Front wing
+2011,6,red_bull,25,Finished
+2011,6,ferrari,18,Finished
+2011,6,mclaren,15,Finished
+2011,6,red_bull,12,Finished
+2011,6,sauber,10,Finished
+2011,6,mclaren,8,Finished
+2011,6,force_india,6,+1 Lap
+2011,6,renault,4,+1 Lap
+2011,6,williams,2,+1 Lap
+2011,6,toro_rosso,1,+1 Lap
+2011,6,mercedes,0,+2 Laps
+2011,6,force_india,0,+2 Laps
+2011,6,lotus_racing,0,+2 Laps
+2011,6,lotus_racing,0,+2 Laps
+2011,6,virgin,0,+3 Laps
+2011,6,hrt,0,+3 Laps
+2011,6,hrt,0,+4 Laps
+2011,6,williams,0,Accident
+2011,6,renault,0,Collision
+2011,6,toro_rosso,0,Collision
+2011,6,ferrari,0,Accident
+2011,6,mercedes,0,Engine
+2011,6,virgin,0,Suspension
+2011,6,sauber,0,Injury
+2012,6,red_bull,25,Finished
+2012,6,mercedes,18,Finished
+2012,6,ferrari,15,Finished
+2012,6,red_bull,12,Finished
+2012,6,mclaren,10,Finished
+2012,6,ferrari,8,Finished
+2012,6,force_india,6,Finished
+2012,6,force_india,4,Finished
+2012,6,lotus_f1,2,Finished
+2012,6,williams,1,Finished
+2012,6,sauber,0,+1 Lap
+2012,6,toro_rosso,0,+1 Lap
+2012,6,caterham,0,+1 Lap
+2012,6,marussia,0,+1 Lap
+2012,6,hrt,0,+2 Laps
+2012,6,mclaren,0,Collision
+2012,6,toro_rosso,0,Retired
+2012,6,marussia,0,Retired
+2012,6,mercedes,0,Fuel pressure
+2012,6,caterham,0,Electrical
+2012,6,sauber,0,Accident
+2012,6,hrt,0,Accident
+2012,6,williams,0,Accident
+2012,6,lotus_f1,0,Accident
+2013,6,mercedes,25,Finished
+2013,6,red_bull,18,Finished
+2013,6,red_bull,15,Finished
+2013,6,mercedes,12,Finished
+2013,6,force_india,10,Finished
+2013,6,mclaren,8,Finished
+2013,6,ferrari,6,Finished
+2013,6,toro_rosso,4,Finished
+2013,6,force_india,2,Finished
+2013,6,lotus_f1,1,Finished
+2013,6,sauber,0,Finished
+2013,6,williams,0,Finished
+2013,6,sauber,0,Finished
+2013,6,marussia,0,Finished
+2013,6,caterham,0,Finished
+2013,6,mclaren,0,Suspension
+2013,6,lotus_f1,0,Collision
+2013,6,toro_rosso,0,Collision
+2013,6,marussia,0,Brakes
+2013,6,williams,0,Collision
+2013,6,ferrari,0,Accident
+2013,6,caterham,0,Gearbox
+2014,6,mercedes,25,Finished
+2014,6,mercedes,18,Finished
+2014,6,red_bull,15,Finished
+2014,6,ferrari,12,Finished
+2014,6,force_india,10,+1 Lap
+2014,6,mclaren,8,+1 Lap
+2014,6,williams,6,+1 Lap
+2014,6,lotus_f1,4,+1 Lap
+2014,6,marussia,2,+1 Lap
+2014,6,mclaren,1,+1 Lap
+2014,6,caterham,0,+1 Lap
+2014,6,ferrari,0,+1 Lap
+2014,6,caterham,0,+2 Laps
+2014,6,marussia,0,+3 Laps
+2014,6,sauber,0,Accident
+2014,6,williams,0,Engine
+2014,6,toro_rosso,0,Engine
+2014,6,sauber,0,Accident
+2014,6,toro_rosso,0,Mechanical
+2014,6,red_bull,0,Turbo
+2014,6,force_india,0,Collision
+2014,6,lotus_f1,0,Withdrew
+2015,6,mercedes,25,Finished
+2015,6,ferrari,18,Finished
+2015,6,mercedes,15,Finished
+2015,6,red_bull,12,Finished
+2015,6,red_bull,10,Finished
+2015,6,ferrari,8,Finished
+2015,6,force_india,6,Finished
+2015,6,mclaren,4,Finished
+2015,6,sauber,2,Finished
+2015,6,toro_rosso,1,Finished
+2015,6,force_india,0,Finished
+2015,6,lotus_f1,0,Finished
+2015,6,sauber,0,Finished
+2015,6,williams,0,Finished
+2015,6,williams,0,+1 Lap
+2015,6,manor,0,+2 Laps
+2015,6,manor,0,+2 Laps
+2015,6,toro_rosso,0,Accident
+2015,6,mclaren,0,Gearbox
+2015,6,lotus_f1,0,Brakes
+2016,6,mercedes,25,Finished
+2016,6,red_bull,18,Finished
+2016,6,force_india,15,Finished
+2016,6,ferrari,12,Finished
+2016,6,mclaren,10,Finished
+2016,6,force_india,8,Finished
+2016,6,mercedes,6,Finished
+2016,6,toro_rosso,4,+1 Lap
+2016,6,mclaren,2,+1 Lap
+2016,6,williams,1,+1 Lap
+2016,6,haas,0,+1 Lap
+2016,6,williams,0,+1 Lap
+2016,6,haas,0,+2 Laps
+2016,6,manor,0,+2 Laps
+2016,6,manor,0,+4 Laps
+2016,6,sauber,0,Collision
+2016,6,sauber,0,Retired
+2016,6,red_bull,0,Accident
+2016,6,renault,0,Retired
+2016,6,toro_rosso,0,Accident
+2016,6,ferrari,0,Accident
+2016,6,renault,0,Accident
+2017,6,ferrari,25,Finished
+2017,6,ferrari,18,Finished
+2017,6,red_bull,15,Finished
+2017,6,mercedes,12,Finished
+2017,6,red_bull,10,Finished
+2017,6,toro_rosso,8,Finished
+2017,6,mercedes,6,Finished
+2017,6,haas,4,Finished
+2017,6,williams,2,Finished
+2017,6,haas,1,Finished
+2017,6,renault,0,Finished
+2017,6,force_india,0,Finished
+2017,6,force_india,0,Finished
+2017,6,toro_rosso,0,Collision damage
+2017,6,williams,0,Brakes
+2017,6,mclaren,0,Accident
+2017,6,sauber,0,Accident
+2017,6,mclaren,0,Collision damage
+2017,6,sauber,0,Collision
+2017,6,renault,0,Gearbox
+2018,6,red_bull,25,Finished
+2018,6,ferrari,18,Finished
+2018,6,mercedes,15,Finished
+2018,6,ferrari,12,Finished
+2018,6,mercedes,10,Finished
+2018,6,force_india,8,Finished
+2018,6,toro_rosso,6,Finished
+2018,6,renault,4,Finished
+2018,6,red_bull,2,Finished
+2018,6,renault,1,Finished
+2018,6,sauber,0,Finished
+2018,6,force_india,0,Finished
+2018,6,haas,0,Finished
+2018,6,mclaren,0,+1 Lap
+2018,6,haas,0,+1 Lap
+2018,6,williams,0,+1 Lap
+2018,6,williams,0,+2 Laps
+2018,6,sauber,0,Collision
+2018,6,toro_rosso,0,Collision
+2018,6,mclaren,0,Gearbox
+2019,6,mercedes,25,Finished
+2019,6,ferrari,18,Finished
+2019,6,mercedes,15,Finished
+2019,6,red_bull,12,Finished
+2019,6,red_bull,11,Finished
+2019,6,mclaren,8,Finished
+2019,6,toro_rosso,6,Finished
+2019,6,toro_rosso,4,Finished
+2019,6,renault,2,Finished
+2019,6,haas,1,Finished
+2019,6,mclaren,0,Finished
+2019,6,racing_point,0,+1 Lap
+2019,6,renault,0,+1 Lap
+2019,6,haas,0,+1 Lap
+2019,6,williams,0,+1 Lap
+2019,6,racing_point,0,+1 Lap
+2019,6,alfa,0,+1 Lap
+2019,6,williams,0,+1 Lap
+2019,6,alfa,0,+2 Laps
+2019,6,ferrari,0,Collision
+2020,6,mercedes,25,Finished
+2020,6,red_bull,18,Finished
+2020,6,mercedes,16,Finished
+2020,6,racing_point,12,+1 Lap
+2020,6,racing_point,10,+1 Lap
+2020,6,mclaren,8,+1 Lap
+2020,6,ferrari,6,+1 Lap
+2020,6,red_bull,4,+1 Lap
+2020,6,alphatauri,2,+1 Lap
+2020,6,mclaren,1,+1 Lap
+2020,6,renault,0,+1 Lap
+2020,6,alphatauri,0,+1 Lap
+2020,6,renault,0,+1 Lap
+2020,6,alfa,0,+1 Lap
+2020,6,haas,0,+1 Lap
+2020,6,alfa,0,+1 Lap
+2020,6,williams,0,+1 Lap
+2020,6,williams,0,+2 Laps
+2020,6,haas,0,+2 Laps
+2020,6,ferrari,0,Electronics
+2021,6,red_bull,25,Finished
+2021,6,aston_martin,18,Finished
+2021,6,alphatauri,15,Finished
+2021,6,ferrari,12,Finished
+2021,6,mclaren,10,Finished
+2021,6,alpine,8,Finished
+2021,6,alphatauri,6,Finished
+2021,6,ferrari,4,Finished
+2021,6,mclaren,2,Finished
+2021,6,alfa,1,Finished
+2021,6,alfa,0,Finished
+2021,6,mercedes,0,Finished
+2021,6,haas,0,Finished
+2021,6,haas,0,Finished
+2021,6,mercedes,0,Finished
+2021,6,williams,0,Finished
+2021,6,williams,0,Gearbox
+2021,6,red_bull,0,Accident
+2021,6,aston_martin,0,Accident
+2021,6,alpine,0,Turbo
+2022,6,red_bull,25,Finished
+2022,6,red_bull,19,Finished
+2022,6,mercedes,15,Finished
+2022,6,ferrari,12,Finished
+2022,6,mercedes,10,Finished
+2022,6,alfa,8,Finished
+2022,6,alpine,6,Finished
+2022,6,mclaren,4,Finished
+2022,6,alpine,2,+1 Lap
+2022,6,alphatauri,1,+1 Lap
+2022,6,aston_martin,0,+1 Lap
+2022,6,mclaren,0,+1 Lap
+2022,6,alphatauri,0,+1 Lap
+2022,6,haas,0,+1 Lap
+2022,6,aston_martin,0,+1 Lap
+2022,6,williams,0,+2 Laps
+2022,6,haas,0,+2 Laps
+2022,6,williams,0,+2 Laps
+2022,6,alfa,0,Power loss
+2022,6,ferrari,0,Turbo
+2010,7,mclaren,25,Finished
+2010,7,mclaren,18,Finished
+2010,7,red_bull,15,Finished
+2010,7,mercedes,12,Finished
+2010,7,mercedes,10,Finished
+2010,7,renault,8,Finished
+2010,7,ferrari,6,Finished
+2010,7,ferrari,4,Finished
+2010,7,force_india,2,Finished
+2010,7,sauber,1,Finished
+2010,7,sauber,0,Finished
+2010,7,toro_rosso,0,Finished
+2010,7,force_india,0,+1 Lap
+2010,7,williams,0,+1 Lap
+2010,7,renault,0,+1 Lap
+2010,7,toro_rosso,0,+1 Lap
+2010,7,williams,0,+1 Lap
+2010,7,virgin,0,+3 Laps
+2010,7,virgin,0,+3 Laps
+2010,7,hrt,0,Fuel pump
+2010,7,hrt,0,Fuel pressure
+2010,7,red_bull,0,Collision
+2010,7,lotus_racing,0,Hydraulics
+2010,7,lotus_racing,0,Hydraulics
+2011,7,mclaren,25,Finished
+2011,7,red_bull,18,Finished
+2011,7,red_bull,15,Finished
+2011,7,mercedes,12,Finished
+2011,7,renault,10,Finished
+2011,7,ferrari,8,Finished
+2011,7,sauber,6,Finished
+2011,7,toro_rosso,4,Finished
+2011,7,williams,2,Finished
+2011,7,toro_rosso,1,Finished
+2011,7,mercedes,0,Finished
+2011,7,sauber,0,Finished
+2011,7,hrt,0,+1 Lap
+2011,7,hrt,0,+1 Lap
+2011,7,virgin,0,+1 Lap
+2011,7,virgin,0,+1 Lap
+2011,7,lotus_racing,0,+1 Lap
+2011,7,force_india,0,Accident
+2011,7,williams,0,Retired
+2011,7,renault,0,Accident
+2011,7,force_india,0,Accident
+2011,7,ferrari,0,Collision
+2011,7,lotus_racing,0,Transmission
+2011,7,mclaren,0,Collision
+2012,7,mclaren,25,Finished
+2012,7,lotus_f1,18,Finished
+2012,7,sauber,15,Finished
+2012,7,red_bull,12,Finished
+2012,7,ferrari,10,Finished
+2012,7,mercedes,8,Finished
+2012,7,red_bull,6,Finished
+2012,7,lotus_f1,4,Finished
+2012,7,sauber,2,Finished
+2012,7,ferrari,1,Finished
+2012,7,force_india,0,Finished
+2012,7,force_india,0,Finished
+2012,7,williams,0,Finished
+2012,7,toro_rosso,0,Finished
+2012,7,toro_rosso,0,+1 Lap
+2012,7,mclaren,0,+1 Lap
+2012,7,williams,0,+1 Lap
+2012,7,caterham,0,+1 Lap
+2012,7,caterham,0,+1 Lap
+2012,7,marussia,0,+3 Laps
+2012,7,marussia,0,Suspension
+2012,7,mercedes,0,Rear wing
+2012,7,hrt,0,Brakes
+2012,7,hrt,0,Suspension
+2013,7,red_bull,25,Finished
+2013,7,ferrari,18,Finished
+2013,7,mercedes,15,Finished
+2013,7,red_bull,12,Finished
+2013,7,mercedes,10,Finished
+2013,7,toro_rosso,8,+1 Lap
+2013,7,force_india,6,+1 Lap
+2013,7,ferrari,4,+1 Lap
+2013,7,lotus_f1,2,+1 Lap
+2013,7,force_india,1,+1 Lap
+2013,7,mclaren,0,+1 Lap
+2013,7,mclaren,0,+1 Lap
+2013,7,lotus_f1,0,+1 Lap
+2013,7,williams,0,+1 Lap
+2013,7,toro_rosso,0,+2 Laps
+2013,7,williams,0,+2 Laps
+2013,7,marussia,0,+2 Laps
+2013,7,caterham,0,+3 Laps
+2013,7,marussia,0,+3 Laps
+2013,7,sauber,0,Accident
+2013,7,sauber,0,Collision
+2013,7,caterham,0,Collision
+2014,7,red_bull,25,Finished
+2014,7,mercedes,18,Finished
+2014,7,red_bull,15,Finished
+2014,7,mclaren,12,Finished
+2014,7,force_india,10,Finished
+2014,7,ferrari,8,Finished
+2014,7,williams,6,Finished
+2014,7,toro_rosso,4,Finished
+2014,7,mclaren,2,Finished
+2014,7,ferrari,1,Finished
+2014,7,force_india,0,Collision
+2014,7,williams,0,Collision
+2014,7,sauber,0,+1 Lap
+2014,7,sauber,0,ERS
+2014,7,lotus_f1,0,Rear wing
+2014,7,toro_rosso,0,Drivetrain
+2014,7,mercedes,0,Brakes
+2014,7,caterham,0,Suspension
+2014,7,lotus_f1,0,Power Unit
+2014,7,caterham,0,Turbo
+2014,7,marussia,0,Collision
+2014,7,marussia,0,Collision
+2015,7,mercedes,25,Finished
+2015,7,mercedes,18,Finished
+2015,7,williams,15,Finished
+2015,7,ferrari,12,Finished
+2015,7,ferrari,10,Finished
+2015,7,williams,8,Finished
+2015,7,lotus_f1,6,Finished
+2015,7,force_india,4,+1 Lap
+2015,7,red_bull,2,+1 Lap
+2015,7,lotus_f1,1,+1 Lap
+2015,7,force_india,0,+1 Lap
+2015,7,toro_rosso,0,+1 Lap
+2015,7,red_bull,0,+1 Lap
+2015,7,sauber,0,+1 Lap
+2015,7,toro_rosso,0,+1 Lap
+2015,7,sauber,0,+2 Laps
+2015,7,manor,0,+4 Laps
+2015,7,manor,0,Retired
+2015,7,mclaren,0,Retired
+2015,7,mclaren,0,Engine
+2016,7,mercedes,25,Finished
+2016,7,ferrari,18,Finished
+2016,7,williams,15,Finished
+2016,7,red_bull,12,Finished
+2016,7,mercedes,10,Finished
+2016,7,ferrari,8,Finished
+2016,7,red_bull,6,Finished
+2016,7,force_india,4,+1 Lap
+2016,7,toro_rosso,2,+1 Lap
+2016,7,force_india,1,+1 Lap
+2016,7,mclaren,0,+1 Lap
+2016,7,toro_rosso,0,+1 Lap
+2016,7,haas,0,+2 Laps
+2016,7,haas,0,+2 Laps
+2016,7,sauber,0,+2 Laps
+2016,7,renault,0,+2 Laps
+2016,7,manor,0,+2 Laps
+2016,7,sauber,0,+2 Laps
+2016,7,manor,0,+2 Laps
+2016,7,williams,0,Retired
+2016,7,renault,0,Retired
+2016,7,mclaren,0,Power Unit
+2017,7,mercedes,25,Finished
+2017,7,mercedes,18,Finished
+2017,7,red_bull,15,Finished
+2017,7,ferrari,12,Finished
+2017,7,force_india,10,Finished
+2017,7,force_india,8,Finished
+2017,7,ferrari,6,Finished
+2017,7,renault,4,Finished
+2017,7,williams,2,+1 Lap
+2017,7,haas,1,+1 Lap
+2017,7,renault,0,+1 Lap
+2017,7,haas,0,+1 Lap
+2017,7,sauber,0,+1 Lap
+2017,7,mclaren,0,+1 Lap
+2017,7,sauber,0,+2 Laps
+2017,7,mclaren,0,Power Unit
+2017,7,toro_rosso,0,Power Unit
+2017,7,red_bull,0,Electrical
+2017,7,williams,0,Collision
+2017,7,toro_rosso,0,Collision
+2018,7,ferrari,25,Finished
+2018,7,mercedes,18,Finished
+2018,7,red_bull,15,Finished
+2018,7,red_bull,12,Finished
+2018,7,mercedes,10,Finished
+2018,7,ferrari,8,Finished
+2018,7,renault,6,+1 Lap
+2018,7,renault,4,+1 Lap
+2018,7,force_india,2,+1 Lap
+2018,7,sauber,1,+1 Lap
+2018,7,toro_rosso,0,+1 Lap
+2018,7,haas,0,+1 Lap
+2018,7,haas,0,+1 Lap
+2018,7,force_india,0,+1 Lap
+2018,7,sauber,0,+2 Laps
+2018,7,mclaren,0,+2 Laps
+2018,7,williams,0,+2 Laps
+2018,7,mclaren,0,Exhaust
+2018,7,toro_rosso,0,Collision
+2018,7,williams,0,Collision
+2019,7,mercedes,25,Finished
+2019,7,ferrari,18,Finished
+2019,7,ferrari,15,Finished
+2019,7,mercedes,13,Finished
+2019,7,red_bull,10,Finished
+2019,7,renault,8,+1 Lap
+2019,7,renault,6,+1 Lap
+2019,7,red_bull,4,+1 Lap
+2019,7,racing_point,2,+1 Lap
+2019,7,toro_rosso,1,+1 Lap
+2019,7,mclaren,0,+1 Lap
+2019,7,racing_point,0,+1 Lap
+2019,7,alfa,0,+1 Lap
+2019,7,haas,0,+1 Lap
+2019,7,alfa,0,+1 Lap
+2019,7,williams,0,+2 Laps
+2019,7,haas,0,+2 Laps
+2019,7,williams,0,+3 Laps
+2019,7,toro_rosso,0,Collision damage
+2019,7,mclaren,0,Suspension
+2020,7,mercedes,25,Finished
+2020,7,mercedes,18,Finished
+2020,7,red_bull,15,Finished
+2020,7,renault,13,Finished
+2020,7,renault,10,Finished
+2020,7,red_bull,8,Finished
+2020,7,mclaren,6,Finished
+2020,7,alphatauri,4,Finished
+2020,7,racing_point,2,Finished
+2020,7,racing_point,1,Finished
+2020,7,alphatauri,0,Finished
+2020,7,alfa,0,Finished
+2020,7,ferrari,0,Finished
+2020,7,ferrari,0,Finished
+2020,7,haas,0,Finished
+2020,7,williams,0,Finished
+2020,7,haas,0,Finished
+2020,7,alfa,0,Accident
+2020,7,williams,0,Debris
+2020,7,mclaren,0,Exhaust
+2021,7,red_bull,26,Finished
+2021,7,mercedes,18,Finished
+2021,7,red_bull,15,Finished
+2021,7,mercedes,12,Finished
+2021,7,mclaren,10,Finished
+2021,7,mclaren,8,Finished
+2021,7,alphatauri,6,Finished
+2021,7,alpine,4,Finished
+2021,7,aston_martin,2,Finished
+2021,7,aston_martin,1,Finished
+2021,7,ferrari,0,Finished
+2021,7,williams,0,+1 Lap
+2021,7,alphatauri,0,+1 Lap
+2021,7,alpine,0,+1 Lap
+2021,7,alfa,0,+1 Lap
+2021,7,ferrari,0,+1 Lap
+2021,7,alfa,0,+1 Lap
+2021,7,williams,0,+1 Lap
+2021,7,haas,0,+1 Lap
+2021,7,haas,0,+1 Lap
+2022,7,red_bull,25,Finished
+2022,7,ferrari,18,Finished
+2022,7,red_bull,15,Finished
+2022,7,ferrari,12,Finished
+2022,7,mercedes,10,Finished
+2022,7,mclaren,9,Finished
+2022,7,alpine,6,Finished
+2022,7,mercedes,4,Finished
+2022,7,alfa,2,Finished
+2022,7,aston_martin,1,Finished
+2022,7,alphatauri,0,Finished
+2022,7,alpine,0,Finished
+2022,7,mclaren,0,Finished
+2022,7,aston_martin,0,Finished
+2022,7,williams,0,+1 Lap
+2022,7,alfa,0,+1 Lap
+2022,7,alphatauri,0,+1 Lap
+2022,7,williams,0,Mechanical
+2022,7,haas,0,Accident
+2022,7,haas,0,Water pressure
+2010,8,mclaren,25,Finished
+2010,8,mclaren,18,Finished
+2010,8,ferrari,15,Finished
+2010,8,red_bull,12,Finished
+2010,8,red_bull,10,Finished
+2010,8,mercedes,8,Finished
+2010,8,renault,6,Finished
+2010,8,toro_rosso,4,+1 Lap
+2010,8,force_india,2,+1 Lap
+2010,8,force_india,1,+1 Lap
+2010,8,mercedes,0,+1 Lap
+2010,8,toro_rosso,0,+1 Lap
+2010,8,williams,0,+1 Lap
+2010,8,williams,0,+1 Lap
+2010,8,ferrari,0,+1 Lap
+2010,8,lotus_racing,0,+2 Laps
+2010,8,renault,0,+2 Laps
+2010,8,hrt,0,+4 Laps
+2010,8,virgin,0,+5 Laps
+2010,8,virgin,0,Mechanical
+2010,8,lotus_racing,0,Brakes
+2010,8,sauber,0,Engine
+2010,8,hrt,0,Hydraulics
+2010,8,sauber,0,Accident
+2011,8,red_bull,25,Finished
+2011,8,ferrari,18,Finished
+2011,8,red_bull,15,Finished
+2011,8,mclaren,12,Finished
+2011,8,ferrari,10,Finished
+2011,8,mclaren,8,Finished
+2011,8,mercedes,6,Finished
+2011,8,toro_rosso,4,+1 Lap
+2011,8,force_india,2,+1 Lap
+2011,8,renault,1,+1 Lap
+2011,8,sauber,0,+1 Lap
+2011,8,williams,0,+1 Lap
+2011,8,toro_rosso,0,+1 Lap
+2011,8,force_india,0,+1 Lap
+2011,8,renault,0,+1 Lap
+2011,8,sauber,0,+1 Lap
+2011,8,mercedes,0,+1 Lap
+2011,8,williams,0,+1 Lap
+2011,8,lotus_racing,0,+2 Laps
+2011,8,lotus_racing,0,+2 Laps
+2011,8,virgin,0,+2 Laps
+2011,8,virgin,0,+2 Laps
+2011,8,hrt,0,+3 Laps
+2011,8,hrt,0,+3 Laps
+2012,8,ferrari,25,Finished
+2012,8,lotus_f1,18,Finished
+2012,8,mercedes,15,Finished
+2012,8,red_bull,12,Finished
+2012,8,force_india,10,Finished
+2012,8,mercedes,8,Finished
+2012,8,force_india,6,Finished
+2012,8,mclaren,4,Finished
+2012,8,sauber,2,Finished
+2012,8,williams,1,Finished
+2012,8,toro_rosso,0,Finished
+2012,8,williams,0,Finished
+2012,8,caterham,0,Finished
+2012,8,caterham,0,Finished
+2012,8,marussia,0,Finished
+2012,8,ferrari,0,+1 Lap
+2012,8,hrt,0,+1 Lap
+2012,8,hrt,0,+1 Lap
+2012,8,mclaren,0,Collision
+2012,8,lotus_f1,0,Electronics
+2012,8,red_bull,0,Gearbox
+2012,8,sauber,0,Collision
+2012,8,toro_rosso,0,Collision
+2012,8,marussia,0,Withdrew
+2013,8,mercedes,25,Finished
+2013,8,red_bull,18,Finished
+2013,8,ferrari,15,Finished
+2013,8,mercedes,12,Finished
+2013,8,lotus_f1,10,Finished
+2013,8,ferrari,8,Finished
+2013,8,force_india,6,Finished
+2013,8,toro_rosso,4,Finished
+2013,8,force_india,2,Finished
+2013,8,sauber,1,Finished
+2013,8,williams,0,Finished
+2013,8,williams,0,Finished
+2013,8,mclaren,0,Finished
+2013,8,sauber,0,Finished
+2013,8,caterham,0,Finished
+2013,8,marussia,0,Finished
+2013,8,marussia,0,Finished
+2013,8,caterham,0,Finished
+2013,8,lotus_f1,0,Retired
+2013,8,mclaren,0,Wheel
+2013,8,red_bull,0,Gearbox
+2013,8,toro_rosso,0,Tyre
+2014,8,mercedes,25,Finished
+2014,8,mercedes,18,Finished
+2014,8,williams,15,Finished
+2014,8,williams,12,Finished
+2014,8,ferrari,10,Finished
+2014,8,force_india,8,Finished
+2014,8,mclaren,6,Finished
+2014,8,red_bull,4,Finished
+2014,8,force_india,2,Finished
+2014,8,ferrari,1,Finished
+2014,8,mclaren,0,Finished
+2014,8,lotus_f1,0,+1 Lap
+2014,8,sauber,0,+1 Lap
+2014,8,lotus_f1,0,+1 Lap
+2014,8,marussia,0,+2 Laps
+2014,8,caterham,0,+2 Laps
+2014,8,marussia,0,+2 Laps
+2014,8,caterham,0,+2 Laps
+2014,8,sauber,0,+2 Laps
+2014,8,toro_rosso,0,Brakes
+2014,8,red_bull,0,Electrical
+2014,8,toro_rosso,0,Suspension
+2015,8,mercedes,25,Finished
+2015,8,mercedes,18,Finished
+2015,8,williams,15,Finished
+2015,8,ferrari,12,Finished
+2015,8,williams,10,Finished
+2015,8,force_india,8,Finished
+2015,8,lotus_f1,6,+1 Lap
+2015,8,toro_rosso,4,+1 Lap
+2015,8,force_india,2,+1 Lap
+2015,8,red_bull,1,+1 Lap
+2015,8,sauber,0,+1 Lap
+2015,8,red_bull,0,+1 Lap
+2015,8,sauber,0,+2 Laps
+2015,8,manor,0,+3 Laps
+2015,8,lotus_f1,0,Gearbox
+2015,8,toro_rosso,0,Power loss
+2015,8,mclaren,0,Retired
+2015,8,manor,0,Oil leak
+2015,8,ferrari,0,Collision
+2015,8,mclaren,0,Collision
+2016,8,mercedes,25,Finished
+2016,8,ferrari,18,Finished
+2016,8,force_india,15,Finished
+2016,8,ferrari,12,Finished
+2016,8,mercedes,10,Finished
+2016,8,williams,8,Finished
+2016,8,red_bull,6,Finished
+2016,8,red_bull,4,Finished
+2016,8,force_india,2,Finished
+2016,8,williams,1,Finished
+2016,8,mclaren,0,Finished
+2016,8,sauber,0,+1 Lap
+2016,8,haas,0,+1 Lap
+2016,8,renault,0,+1 Lap
+2016,8,renault,0,+1 Lap
+2016,8,haas,0,+1 Lap
+2016,8,sauber,0,+1 Lap
+2016,8,manor,0,+2 Laps
+2016,8,mclaren,0,Gearbox
+2016,8,manor,0,Brakes
+2016,8,toro_rosso,0,Suspension
+2016,8,toro_rosso,0,Suspension
+2017,8,red_bull,25,Finished
+2017,8,mercedes,18,Finished
+2017,8,williams,15,Finished
+2017,8,ferrari,12,Finished
+2017,8,mercedes,10,Finished
+2017,8,force_india,8,Finished
+2017,8,haas,6,Finished
+2017,8,toro_rosso,4,Finished
+2017,8,mclaren,2,Finished
+2017,8,sauber,1,Finished
+2017,8,sauber,0,Finished
+2017,8,mclaren,0,Finished
+2017,8,haas,0,+1 Lap
+2017,8,ferrari,0,Water pressure
+2017,8,force_india,0,Seat
+2017,8,williams,0,Suspension
+2017,8,renault,0,Accident
+2017,8,red_bull,0,Oil pressure
+2017,8,toro_rosso,0,Battery
+2017,8,renault,0,Power Unit
+2018,8,mercedes,25,Finished
+2018,8,red_bull,18,Finished
+2018,8,ferrari,15,Finished
+2018,8,red_bull,12,Finished
+2018,8,ferrari,10,Finished
+2018,8,haas,8,Finished
+2018,8,mercedes,6,Finished
+2018,8,renault,4,Finished
+2018,8,renault,2,Finished
+2018,8,sauber,1,Finished
+2018,8,haas,0,+1 Lap
+2018,8,mclaren,0,+1 Lap
+2018,8,sauber,0,+1 Lap
+2018,8,toro_rosso,0,+1 Lap
+2018,8,williams,0,+1 Lap
+2018,8,mclaren,0,Wheel
+2018,8,williams,0,Puncture
+2018,8,force_india,0,Engine
+2018,8,force_india,0,Collision
+2018,8,toro_rosso,0,Collision
+2019,8,mercedes,25,Finished
+2019,8,mercedes,18,Finished
+2019,8,ferrari,15,Finished
+2019,8,red_bull,12,Finished
+2019,8,ferrari,11,Finished
+2019,8,mclaren,8,Finished
+2019,8,alfa,6,+1 Lap
+2019,8,renault,4,+1 Lap
+2019,8,mclaren,2,+1 Lap
+2019,8,red_bull,1,+1 Lap
+2019,8,renault,0,+1 Lap
+2019,8,racing_point,0,+1 Lap
+2019,8,racing_point,0,+1 Lap
+2019,8,toro_rosso,0,+1 Lap
+2019,8,toro_rosso,0,+1 Lap
+2019,8,alfa,0,+1 Lap
+2019,8,haas,0,+1 Lap
+2019,8,williams,0,+2 Laps
+2019,8,williams,0,+2 Laps
+2019,8,haas,0,Retired
+2020,8,alphatauri,25,Finished
+2020,8,mclaren,18,Finished
+2020,8,racing_point,15,Finished
+2020,8,mclaren,12,Finished
+2020,8,mercedes,10,Finished
+2020,8,renault,8,Finished
+2020,8,mercedes,7,Finished
+2020,8,renault,4,Finished
+2020,8,alphatauri,2,Finished
+2020,8,racing_point,1,Finished
+2020,8,williams,0,Finished
+2020,8,haas,0,Finished
+2020,8,alfa,0,Finished
+2020,8,williams,0,Finished
+2020,8,red_bull,0,Finished
+2020,8,alfa,0,Finished
+2020,8,red_bull,0,Power Unit
+2020,8,ferrari,0,Accident
+2020,8,haas,0,Power Unit
+2020,8,ferrari,0,Brakes
+2021,8,red_bull,25,Finished
+2021,8,mercedes,19,Finished
+2021,8,mercedes,15,Finished
+2021,8,red_bull,12,Finished
+2021,8,mclaren,10,+1 Lap
+2021,8,ferrari,8,+1 Lap
+2021,8,ferrari,6,+1 Lap
+2021,8,aston_martin,4,+1 Lap
+2021,8,alpine,2,+1 Lap
+2021,8,alphatauri,1,+1 Lap
+2021,8,alfa,0,+1 Lap
+2021,8,aston_martin,0,+1 Lap
+2021,8,mclaren,0,+1 Lap
+2021,8,alpine,0,+1 Lap
+2021,8,alfa,0,+1 Lap
+2021,8,haas,0,+2 Laps
+2021,8,williams,0,+3 Laps
+2021,8,haas,0,+3 Laps
+2021,8,williams,0,Engine
+2021,8,alphatauri,0,Collision
+2022,8,red_bull,25,Finished
+2022,8,red_bull,19,Finished
+2022,8,mercedes,15,Finished
+2022,8,mercedes,12,Finished
+2022,8,alphatauri,10,Finished
+2022,8,aston_martin,8,Finished
+2022,8,alpine,6,Finished
+2022,8,mclaren,4,Finished
+2022,8,mclaren,2,Finished
+2022,8,alpine,1,Finished
+2022,8,alfa,0,+1 Lap
+2022,8,williams,0,+1 Lap
+2022,8,alphatauri,0,+1 Lap
+2022,8,haas,0,+1 Lap
+2022,8,williams,0,+1 Lap
+2022,8,aston_martin,0,Vibrations
+2022,8,haas,0,Power Unit
+2022,8,alfa,0,Hydraulics
+2022,8,ferrari,0,Power Unit
+2022,8,ferrari,0,Hydraulics
+2010,9,red_bull,25,Finished
+2010,9,mclaren,18,Finished
+2010,9,mclaren,15,Finished
+2010,9,williams,12,Finished
+2010,9,renault,10,Finished
+2010,9,force_india,8,Finished
+2010,9,sauber,6,Finished
+2010,9,ferrari,4,Finished
+2010,9,toro_rosso,2,Finished
+2010,9,mercedes,1,Finished
+2010,9,ferrari,0,Finished
+2010,9,sauber,0,Finished
+2010,9,toro_rosso,0,Finished
+2010,9,renault,0,Finished
+2010,9,mercedes,0,Finished
+2010,9,force_india,0,Finished
+2010,9,virgin,0,+1 Lap
+2010,9,hrt,0,+2 Laps
+2010,9,virgin,0,+2 Laps
+2010,9,hrt,0,+2 Laps
+2010,9,lotus_racing,0,+4 Laps
+2010,9,williams,0,Exhaust
+2010,9,lotus_racing,0,Collision
+2010,9,red_bull,0,Collision
+2011,9,ferrari,25,Finished
+2011,9,red_bull,18,Finished
+2011,9,red_bull,15,Finished
+2011,9,mclaren,12,Finished
+2011,9,ferrari,10,Finished
+2011,9,mercedes,8,Finished
+2011,9,sauber,6,Finished
+2011,9,renault,4,Finished
+2011,9,mercedes,2,Finished
+2011,9,toro_rosso,1,Finished
+2011,9,force_india,0,Finished
+2011,9,renault,0,Finished
+2011,9,williams,0,+1 Lap
+2011,9,williams,0,+1 Lap
+2011,9,force_india,0,+1 Lap
+2011,9,virgin,0,+2 Laps
+2011,9,virgin,0,+2 Laps
+2011,9,hrt,0,+2 Laps
+2011,9,hrt,0,+3 Laps
+2011,9,mclaren,0,Wheel nut
+2011,9,toro_rosso,0,Accident
+2011,9,sauber,0,Engine
+2011,9,lotus_racing,0,Oil leak
+2011,9,lotus_racing,0,Gearbox
+2012,9,red_bull,25,Finished
+2012,9,ferrari,18,Finished
+2012,9,red_bull,15,Finished
+2012,9,ferrari,12,Finished
+2012,9,lotus_f1,10,Finished
+2012,9,lotus_f1,8,Finished
+2012,9,mercedes,6,Finished
+2012,9,mclaren,4,Finished
+2012,9,williams,2,Finished
+2012,9,mclaren,1,Finished
+2012,9,sauber,0,Finished
+2012,9,force_india,0,Finished
+2012,9,toro_rosso,0,Finished
+2012,9,toro_rosso,0,Finished
+2012,9,mercedes,0,Finished
+2012,9,williams,0,+1 Lap
+2012,9,caterham,0,+1 Lap
+2012,9,marussia,0,+1 Lap
+2012,9,marussia,0,+1 Lap
+2012,9,hrt,0,+2 Laps
+2012,9,hrt,0,+2 Laps
+2012,9,sauber,0,Collision
+2012,9,force_india,0,Collision
+2012,9,caterham,0,Engine
+2013,9,red_bull,25,Finished
+2013,9,lotus_f1,18,Finished
+2013,9,lotus_f1,15,Finished
+2013,9,ferrari,12,Finished
+2013,9,mercedes,10,Finished
+2013,9,mclaren,8,Finished
+2013,9,red_bull,6,Finished
+2013,9,mclaren,4,Finished
+2013,9,mercedes,2,Finished
+2013,9,sauber,1,Finished
+2013,9,force_india,0,Finished
+2013,9,toro_rosso,0,Finished
+2013,9,force_india,0,Finished
+2013,9,sauber,0,Finished
+2013,9,williams,0,Finished
+2013,9,williams,0,+1 Lap
+2013,9,caterham,0,+1 Lap
+2013,9,caterham,0,+1 Lap
+2013,9,marussia,0,+1 Lap
+2013,9,toro_rosso,0,Hydraulics
+2013,9,marussia,0,Engine
+2013,9,ferrari,0,Spun off
+2014,9,mercedes,25,Finished
+2014,9,williams,18,Finished
+2014,9,red_bull,15,Finished
+2014,9,mclaren,12,Finished
+2014,9,red_bull,10,Finished
+2014,9,ferrari,8,Finished
+2014,9,mclaren,6,Finished
+2014,9,force_india,4,Finished
+2014,9,toro_rosso,2,Finished
+2014,9,toro_rosso,1,+1 Lap
+2014,9,force_india,0,+1 Lap
+2014,9,lotus_f1,0,+1 Lap
+2014,9,sauber,0,+1 Lap
+2014,9,marussia,0,+1 Lap
+2014,9,caterham,0,+2 Laps
+2014,9,marussia,0,+2 Laps
+2014,9,lotus_f1,0,+3 Laps
+2014,9,mercedes,0,Gearbox
+2014,9,caterham,0,Suspension
+2014,9,sauber,0,Collision
+2014,9,williams,0,Collision
+2014,9,ferrari,0,Collision
+2015,9,mercedes,25,Finished
+2015,9,mercedes,18,Finished
+2015,9,ferrari,15,Finished
+2015,9,williams,12,Finished
+2015,9,williams,10,Finished
+2015,9,red_bull,8,Finished
+2015,9,force_india,6,Finished
+2015,9,ferrari,4,+1 Lap
+2015,9,force_india,2,+1 Lap
+2015,9,mclaren,1,+1 Lap
+2015,9,sauber,0,+1 Lap
+2015,9,manor,0,+3 Laps
+2015,9,manor,0,+3 Laps
+2015,9,toro_rosso,0,Electrical
+2015,9,red_bull,0,Electrical
+2015,9,toro_rosso,0,Spun off
+2015,9,lotus_f1,0,Collision
+2015,9,lotus_f1,0,Collision
+2015,9,mclaren,0,Collision
+2015,9,sauber,0,Gearbox
+2016,9,mercedes,25,Finished
+2016,9,red_bull,18,Finished
+2016,9,ferrari,15,Finished
+2016,9,mercedes,12,Finished
+2016,9,red_bull,10,Finished
+2016,9,mclaren,8,Finished
+2016,9,haas,6,Finished
+2016,9,toro_rosso,4,Finished
+2016,9,williams,2,+1 Lap
+2016,9,manor,1,+1 Lap
+2016,9,haas,0,+1 Lap
+2016,9,renault,0,+1 Lap
+2016,9,sauber,0,+1 Lap
+2016,9,renault,0,+1 Lap
+2016,9,sauber,0,+1 Lap
+2016,9,manor,0,+1 Lap
+2016,9,force_india,0,Brakes
+2016,9,mclaren,0,Battery
+2016,9,force_india,0,Brakes
+2016,9,williams,0,Brakes
+2016,9,ferrari,0,Tyre
+2016,9,toro_rosso,0,Retired
+2017,9,mercedes,25,Finished
+2017,9,ferrari,18,Finished
+2017,9,red_bull,15,Finished
+2017,9,mercedes,12,Finished
+2017,9,ferrari,10,Finished
+2017,9,haas,8,Finished
+2017,9,force_india,6,+1 Lap
+2017,9,force_india,4,+1 Lap
+2017,9,williams,2,+1 Lap
+2017,9,williams,1,+1 Lap
+2017,9,renault,0,+1 Lap
+2017,9,mclaren,0,+1 Lap
+2017,9,renault,0,+1 Lap
+2017,9,sauber,0,+1 Lap
+2017,9,sauber,0,+2 Laps
+2017,9,toro_rosso,0,+3 Laps
+2017,9,toro_rosso,0,Engine
+2017,9,haas,0,Hydraulics
+2017,9,mclaren,0,Collision damage
+2017,9,red_bull,0,Collision damage
+2018,9,red_bull,25,Finished
+2018,9,ferrari,18,Finished
+2018,9,ferrari,15,Finished
+2018,9,haas,12,+1 Lap
+2018,9,haas,10,+1 Lap
+2018,9,force_india,8,+1 Lap
+2018,9,force_india,6,+1 Lap
+2018,9,mclaren,4,+1 Lap
+2018,9,sauber,2,+1 Lap
+2018,9,sauber,1,+1 Lap
+2018,9,toro_rosso,0,+1 Lap
+2018,9,renault,0,+1 Lap
+2018,9,williams,0,+2 Laps
+2018,9,williams,0,+2 Laps
+2018,9,mclaren,0,Collision damage
+2018,9,mercedes,0,Fuel pressure
+2018,9,toro_rosso,0,Hydraulics
+2018,9,red_bull,0,Exhaust
+2018,9,mercedes,0,Hydraulics
+2018,9,renault,0,Engine
+2019,9,red_bull,26,Finished
+2019,9,ferrari,18,Finished
+2019,9,mercedes,15,Finished
+2019,9,ferrari,12,Finished
+2019,9,mercedes,10,Finished
+2019,9,mclaren,8,+1 Lap
+2019,9,red_bull,6,+1 Lap
+2019,9,mclaren,4,+1 Lap
+2019,9,alfa,2,+1 Lap
+2019,9,alfa,1,+1 Lap
+2019,9,racing_point,0,+1 Lap
+2019,9,renault,0,+1 Lap
+2019,9,renault,0,+1 Lap
+2019,9,racing_point,0,+1 Lap
+2019,9,toro_rosso,0,+1 Lap
+2019,9,haas,0,+1 Lap
+2019,9,toro_rosso,0,+1 Lap
+2019,9,williams,0,+2 Laps
+2019,9,haas,0,+2 Laps
+2019,9,williams,0,+3 Laps
+2020,9,mercedes,26,Finished
+2020,9,mercedes,18,Finished
+2020,9,red_bull,15,Finished
+2020,9,renault,12,Finished
+2020,9,racing_point,10,Finished
+2020,9,mclaren,8,Finished
+2020,9,alphatauri,6,Finished
+2020,9,ferrari,4,Finished
+2020,9,alfa,2,Finished
+2020,9,ferrari,1,Finished
+2020,9,williams,0,Finished
+2020,9,haas,0,Finished
+2020,9,racing_point,0,Puncture
+2020,9,renault,0,Brakes
+2020,9,williams,0,Collision
+2020,9,haas,0,Collision
+2020,9,alfa,0,Collision
+2020,9,mclaren,0,Collision
+2020,9,red_bull,0,Collision
+2020,9,alphatauri,0,Collision
+2021,9,red_bull,26,Finished
+2021,9,mercedes,18,Finished
+2021,9,mclaren,15,Finished
+2021,9,mercedes,12,Finished
+2021,9,ferrari,10,Finished
+2021,9,red_bull,8,Finished
+2021,9,mclaren,6,Finished
+2021,9,ferrari,4,Finished
+2021,9,alphatauri,2,Finished
+2021,9,alpine,1,+1 Lap
+2021,9,williams,0,+1 Lap
+2021,9,alphatauri,0,+1 Lap
+2021,9,aston_martin,0,+1 Lap
+2021,9,alfa,0,+1 Lap
+2021,9,alfa,0,+1 Lap
+2021,9,williams,0,+1 Lap
+2021,9,aston_martin,0,Collision
+2021,9,haas,0,+2 Laps
+2021,9,haas,0,+2 Laps
+2021,9,alpine,0,Collision
+2022,9,red_bull,25,Finished
+2022,9,ferrari,19,Finished
+2022,9,mercedes,15,Finished
+2022,9,mercedes,12,Finished
+2022,9,ferrari,10,Finished
+2022,9,alpine,8,Finished
+2022,9,alfa,6,Finished
+2022,9,alfa,4,Finished
+2022,9,alpine,2,Finished
+2022,9,aston_martin,1,Finished
+2022,9,mclaren,0,Finished
+2022,9,aston_martin,0,Finished
+2022,9,williams,0,Finished
+2022,9,alphatauri,0,Finished
+2022,9,mclaren,0,Finished
+2022,9,williams,0,Finished
+2022,9,haas,0,Finished
+2022,9,alphatauri,0,Accident
+2022,9,haas,0,Engine
+2022,9,red_bull,0,Gearbox
+2010,10,red_bull,25,Finished
+2010,10,mclaren,18,Finished
+2010,10,mercedes,15,Finished
+2010,10,mclaren,12,Finished
+2010,10,williams,10,Finished
+2010,10,sauber,8,Finished
+2010,10,red_bull,6,Finished
+2010,10,force_india,4,Finished
+2010,10,mercedes,2,Finished
+2010,10,williams,1,Finished
+2010,10,force_india,0,Finished
+2010,10,toro_rosso,0,Finished
+2010,10,renault,0,Finished
+2010,10,ferrari,0,Finished
+2010,10,ferrari,0,Finished
+2010,10,lotus_racing,0,+1 Lap
+2010,10,lotus_racing,0,+1 Lap
+2010,10,virgin,0,+2 Laps
+2010,10,hrt,0,+2 Laps
+2010,10,hrt,0,+2 Laps
+2010,10,toro_rosso,0,Brakes
+2010,10,sauber,0,Collision
+2010,10,renault,0,Driveshaft
+2010,10,virgin,0,Hydraulics
+2011,10,mclaren,25,Finished
+2011,10,ferrari,18,Finished
+2011,10,red_bull,15,Finished
+2011,10,red_bull,12,Finished
+2011,10,ferrari,10,Finished
+2011,10,force_india,8,Finished
+2011,10,mercedes,6,+1 Lap
+2011,10,mercedes,4,+1 Lap
+2011,10,sauber,2,+1 Lap
+2011,10,renault,1,+1 Lap
+2011,10,sauber,0,+1 Lap
+2011,10,toro_rosso,0,+1 Lap
+2011,10,force_india,0,+1 Lap
+2011,10,williams,0,+1 Lap
+2011,10,toro_rosso,0,+1 Lap
+2011,10,lotus_racing,0,+2 Laps
+2011,10,virgin,0,+3 Laps
+2011,10,virgin,0,+3 Laps
+2011,10,hrt,0,+3 Laps
+2011,10,lotus_racing,0,+4 Laps
+2011,10,hrt,0,Electrical
+2011,10,mclaren,0,Hydraulics
+2011,10,williams,0,Oil leak
+2011,10,renault,0,Collision
+2012,10,ferrari,25,Finished
+2012,10,mclaren,18,Finished
+2012,10,lotus_f1,15,Finished
+2012,10,sauber,12,Finished
+2012,10,red_bull,10,Finished
+2012,10,sauber,8,Finished
+2012,10,mercedes,6,Finished
+2012,10,red_bull,4,Finished
+2012,10,force_india,2,Finished
+2012,10,mercedes,1,Finished
+2012,10,force_india,0,Finished
+2012,10,ferrari,0,Finished
+2012,10,toro_rosso,0,Finished
+2012,10,toro_rosso,0,Finished
+2012,10,williams,0,+1 Lap
+2012,10,caterham,0,+1 Lap
+2012,10,williams,0,+1 Lap
+2012,10,lotus_f1,0,+1 Lap
+2012,10,caterham,0,+2 Laps
+2012,10,marussia,0,+2 Laps
+2012,10,hrt,0,+3 Laps
+2012,10,marussia,0,+3 Laps
+2012,10,hrt,0,+3 Laps
+2012,10,mclaren,0,Puncture
+2013,10,mercedes,25,Finished
+2013,10,lotus_f1,18,Finished
+2013,10,red_bull,15,Finished
+2013,10,red_bull,12,Finished
+2013,10,ferrari,10,Finished
+2013,10,lotus_f1,8,Finished
+2013,10,mclaren,6,Finished
+2013,10,ferrari,4,Finished
+2013,10,mclaren,2,+1 Lap
+2013,10,williams,1,+1 Lap
+2013,10,sauber,0,+1 Lap
+2013,10,toro_rosso,0,+1 Lap
+2013,10,toro_rosso,0,+1 Lap
+2013,10,caterham,0,+2 Laps
+2013,10,caterham,0,+2 Laps
+2013,10,marussia,0,+3 Laps
+2013,10,marussia,0,+3 Laps
+2013,10,force_india,0,Hydraulics
+2013,10,mercedes,0,Engine
+2013,10,williams,0,Hydraulics
+2013,10,sauber,0,Transmission
+2013,10,force_india,0,Hydraulics
+2014,10,mercedes,25,Finished
+2014,10,williams,18,Finished
+2014,10,mercedes,15,Finished
+2014,10,red_bull,12,Finished
+2014,10,ferrari,10,Finished
+2014,10,red_bull,8,Finished
+2014,10,force_india,6,Finished
+2014,10,mclaren,4,Finished
+2014,10,mclaren,2,+1 Lap
+2014,10,force_india,1,+1 Lap
+2014,10,ferrari,0,+1 Lap
+2014,10,lotus_f1,0,+1 Lap
+2014,10,toro_rosso,0,+1 Lap
+2014,10,sauber,0,+1 Lap
+2014,10,marussia,0,+1 Lap
+2014,10,caterham,0,+2 Laps
+2014,10,marussia,0,+2 Laps
+2014,10,caterham,0,+2 Laps
+2014,10,sauber,0,Brakes
+2014,10,toro_rosso,0,Oil leak
+2014,10,lotus_f1,0,Water leak
+2014,10,williams,0,Collision
+2015,10,ferrari,25,Finished
+2015,10,red_bull,18,Finished
+2015,10,red_bull,15,Finished
+2015,10,toro_rosso,12,Finished
+2015,10,mclaren,10,Finished
+2015,10,mercedes,8,Finished
+2015,10,lotus_f1,6,Finished
+2015,10,mercedes,4,Finished
+2015,10,mclaren,2,Finished
+2015,10,sauber,1,Finished
+2015,10,sauber,0,Finished
+2015,10,williams,0,Finished
+2015,10,williams,0,Finished
+2015,10,lotus_f1,0,Finished
+2015,10,manor,0,+2 Laps
+2015,10,manor,0,+4 Laps
+2015,10,toro_rosso,0,Electrical
+2015,10,ferrari,0,Power Unit
+2015,10,force_india,0,Suspension
+2015,10,force_india,0,Front wing
+2016,10,mercedes,25,Finished
+2016,10,red_bull,18,Finished
+2016,10,mercedes,15,Finished
+2016,10,red_bull,12,Finished
+2016,10,ferrari,10,Finished
+2016,10,force_india,8,Finished
+2016,10,force_india,6,Finished
+2016,10,toro_rosso,4,Finished
+2016,10,ferrari,2,Finished
+2016,10,toro_rosso,1,Finished
+2016,10,williams,0,+1 Lap
+2016,10,mclaren,0,+1 Lap
+2016,10,mclaren,0,+1 Lap
+2016,10,williams,0,+1 Lap
+2016,10,sauber,0,+1 Lap
+2016,10,haas,0,+1 Lap
+2016,10,renault,0,Gearbox
+2016,10,renault,0,Gearbox
+2016,10,manor,0,Spun off
+2016,10,haas,0,Retired
+2016,10,sauber,0,Power Unit
+2016,10,manor,0,Spun off
+2017,10,mercedes,25,Finished
+2017,10,mercedes,18,Finished
+2017,10,ferrari,15,Finished
+2017,10,red_bull,12,Finished
+2017,10,red_bull,10,Finished
+2017,10,renault,8,Finished
+2017,10,ferrari,6,Finished
+2017,10,force_india,4,+1 Lap
+2017,10,force_india,2,+1 Lap
+2017,10,williams,1,+1 Lap
+2017,10,mclaren,0,+1 Lap
+2017,10,haas,0,+1 Lap
+2017,10,haas,0,+1 Lap
+2017,10,sauber,0,+1 Lap
+2017,10,toro_rosso,0,+1 Lap
+2017,10,williams,0,+1 Lap
+2017,10,sauber,0,+1 Lap
+2017,10,mclaren,0,Power Unit
+2017,10,toro_rosso,0,Collision damage
+2017,10,renault,0,Hydraulics
+2018,10,ferrari,25,Finished
+2018,10,mercedes,18,Finished
+2018,10,ferrari,15,Finished
+2018,10,mercedes,12,Finished
+2018,10,red_bull,10,Finished
+2018,10,renault,8,Finished
+2018,10,force_india,6,Finished
+2018,10,mclaren,4,Finished
+2018,10,haas,2,Finished
+2018,10,force_india,1,Finished
+2018,10,mclaren,0,Finished
+2018,10,williams,0,Finished
+2018,10,toro_rosso,0,Finished
+2018,10,williams,0,Finished
+2018,10,red_bull,0,Brakes
+2018,10,haas,0,Collision
+2018,10,renault,0,Collision
+2018,10,sauber,0,Accident
+2018,10,sauber,0,Tyre
+2018,10,toro_rosso,0,Power Unit
+2019,10,mercedes,26,Finished
+2019,10,mercedes,18,Finished
+2019,10,ferrari,15,Finished
+2019,10,red_bull,12,Finished
+2019,10,red_bull,10,Finished
+2019,10,mclaren,8,Finished
+2019,10,renault,6,Finished
+2019,10,alfa,4,Finished
+2019,10,toro_rosso,2,Finished
+2019,10,renault,1,Finished
+2019,10,mclaren,0,Finished
+2019,10,toro_rosso,0,Finished
+2019,10,racing_point,0,Finished
+2019,10,williams,0,+1 Lap
+2019,10,williams,0,+1 Lap
+2019,10,ferrari,0,+1 Lap
+2019,10,racing_point,0,+1 Lap
+2019,10,alfa,0,Spun off
+2019,10,haas,0,Collision
+2019,10,haas,0,Collision
+2020,10,mercedes,26,Finished
+2020,10,red_bull,18,Finished
+2020,10,mercedes,15,Finished
+2020,10,racing_point,12,Finished
+2020,10,renault,10,Finished
+2020,10,ferrari,8,Finished
+2020,10,renault,6,Finished
+2020,10,alphatauri,4,Finished
+2020,10,alphatauri,2,Finished
+2020,10,red_bull,1,Finished
+2020,10,alfa,0,+1 Lap
+2020,10,haas,0,+1 Lap
+2020,10,ferrari,0,+1 Lap
+2020,10,alfa,0,+1 Lap
+2020,10,mclaren,0,+1 Lap
+2020,10,williams,0,+1 Lap
+2020,10,haas,0,+1 Lap
+2020,10,williams,0,+1 Lap
+2020,10,mclaren,0,Accident
+2020,10,racing_point,0,Collision
+2021,10,mercedes,25,Finished
+2021,10,ferrari,18,Finished
+2021,10,mercedes,15,Finished
+2021,10,mclaren,12,Finished
+2021,10,mclaren,10,Finished
+2021,10,ferrari,8,Finished
+2021,10,alpine,6,Finished
+2021,10,aston_martin,4,Finished
+2021,10,alpine,2,Finished
+2021,10,alphatauri,1,Finished
+2021,10,alphatauri,0,Finished
+2021,10,williams,0,+1 Lap
+2021,10,alfa,0,+1 Lap
+2021,10,williams,0,+1 Lap
+2021,10,alfa,0,+1 Lap
+2021,10,red_bull,0,+1 Lap
+2021,10,haas,0,+1 Lap
+2021,10,haas,0,+1 Lap
+2021,10,aston_martin,0,Retired
+2021,10,red_bull,0,Collision
+2022,10,ferrari,25,Finished
+2022,10,red_bull,18,Finished
+2022,10,mercedes,16,Finished
+2022,10,ferrari,12,Finished
+2022,10,alpine,10,Finished
+2022,10,mclaren,8,Finished
+2022,10,red_bull,6,Finished
+2022,10,haas,4,Finished
+2022,10,aston_martin,2,Finished
+2022,10,haas,1,Finished
+2022,10,aston_martin,0,Finished
+2022,10,williams,0,Finished
+2022,10,mclaren,0,Finished
+2022,10,alphatauri,0,Finished
+2022,10,alpine,0,Fuel pump
+2022,10,alphatauri,0,Collision damage
+2022,10,alfa,0,Gearbox
+2022,10,mercedes,0,Collision
+2022,10,alfa,0,Collision
+2022,10,williams,0,Collision
+2010,11,ferrari,25,Finished
+2010,11,ferrari,18,Finished
+2010,11,red_bull,15,Finished
+2010,11,mclaren,12,Finished
+2010,11,mclaren,10,Finished
+2010,11,red_bull,8,Finished
+2010,11,renault,6,+1 Lap
+2010,11,mercedes,4,+1 Lap
+2010,11,mercedes,2,+1 Lap
+2010,11,renault,1,+1 Lap
+2010,11,sauber,0,+1 Lap
+2010,11,williams,0,+1 Lap
+2010,11,williams,0,+1 Lap
+2010,11,sauber,0,+1 Lap
+2010,11,toro_rosso,0,+1 Lap
+2010,11,force_india,0,+2 Laps
+2010,11,force_india,0,+2 Laps
+2010,11,virgin,0,+3 Laps
+2010,11,hrt,0,+4 Laps
+2010,11,lotus_racing,0,Collision
+2010,11,virgin,0,Gearbox
+2010,11,hrt,0,Engine
+2010,11,lotus_racing,0,Gearbox
+2010,11,toro_rosso,0,Collision
+2011,11,mclaren,25,Finished
+2011,11,red_bull,18,Finished
+2011,11,ferrari,15,Finished
+2011,11,mclaren,12,Finished
+2011,11,red_bull,10,Finished
+2011,11,ferrari,8,Finished
+2011,11,force_india,6,+1 Lap
+2011,11,toro_rosso,4,+1 Lap
+2011,11,mercedes,2,+1 Lap
+2011,11,toro_rosso,1,+1 Lap
+2011,11,sauber,0,+1 Lap
+2011,11,renault,0,+1 Lap
+2011,11,williams,0,+2 Laps
+2011,11,force_india,0,+2 Laps
+2011,11,sauber,0,+2 Laps
+2011,11,williams,0,+2 Laps
+2011,11,virgin,0,+4 Laps
+2011,11,hrt,0,+4 Laps
+2011,11,virgin,0,+5 Laps
+2011,11,hrt,0,+5 Laps
+2011,11,lotus_racing,0,Water leak
+2011,11,mercedes,0,Gearbox
+2011,11,renault,0,Heat shield fire
+2011,11,lotus_racing,0,Oil leak
+2012,11,mclaren,25,Finished
+2012,11,lotus_f1,18,Finished
+2012,11,lotus_f1,15,Finished
+2012,11,red_bull,12,Finished
+2012,11,ferrari,10,Finished
+2012,11,mclaren,8,Finished
+2012,11,williams,6,Finished
+2012,11,red_bull,4,Finished
+2012,11,ferrari,2,Finished
+2012,11,mercedes,1,Finished
+2012,11,force_india,0,Finished
+2012,11,force_india,0,Finished
+2012,11,williams,0,Finished
+2012,11,sauber,0,Finished
+2012,11,toro_rosso,0,+1 Lap
+2012,11,toro_rosso,0,+1 Lap
+2012,11,caterham,0,+1 Lap
+2012,11,sauber,0,+2 Laps
+2012,11,caterham,0,+2 Laps
+2012,11,marussia,0,+2 Laps
+2012,11,marussia,0,+3 Laps
+2012,11,hrt,0,+3 Laps
+2012,11,hrt,0,Suspension
+2012,11,mercedes,0,+11 Laps
+2013,11,red_bull,25,Finished
+2013,11,ferrari,18,Finished
+2013,11,mercedes,15,Finished
+2013,11,mercedes,12,Finished
+2013,11,red_bull,10,Finished
+2013,11,mclaren,8,Finished
+2013,11,ferrari,6,Finished
+2013,11,lotus_f1,4,Finished
+2013,11,force_india,2,Finished
+2013,11,toro_rosso,1,Finished
+2013,11,mclaren,0,Finished
+2013,11,toro_rosso,0,Finished
+2013,11,sauber,0,Finished
+2013,11,sauber,0,Finished
+2013,11,williams,0,Finished
+2013,11,caterham,0,+1 Lap
+2013,11,williams,0,+1 Lap
+2013,11,marussia,0,+1 Lap
+2013,11,marussia,0,+2 Laps
+2013,11,force_india,0,Collision
+2013,11,lotus_f1,0,Brakes
+2013,11,caterham,0,Oil leak
+2014,11,red_bull,25,Finished
+2014,11,ferrari,18,Finished
+2014,11,mercedes,15,Finished
+2014,11,mercedes,12,Finished
+2014,11,williams,10,Finished
+2014,11,ferrari,8,Finished
+2014,11,red_bull,6,Finished
+2014,11,williams,4,Finished
+2014,11,toro_rosso,2,Finished
+2014,11,mclaren,1,Finished
+2014,11,sauber,0,Finished
+2014,11,mclaren,0,Finished
+2014,11,lotus_f1,0,Finished
+2014,11,toro_rosso,0,+1 Lap
+2014,11,marussia,0,+1 Lap
+2014,11,marussia,0,+1 Lap
+2014,11,sauber,0,Retired
+2014,11,caterham,0,Retired
+2014,11,force_india,0,Accident
+2014,11,force_india,0,Accident
+2014,11,lotus_f1,0,Accident
+2014,11,caterham,0,Accident
+2015,11,mercedes,25,Finished
+2015,11,mercedes,18,Finished
+2015,11,lotus_f1,15,Finished
+2015,11,red_bull,12,Finished
+2015,11,force_india,10,Finished
+2015,11,williams,8,Finished
+2015,11,ferrari,6,Finished
+2015,11,toro_rosso,4,Finished
+2015,11,williams,2,Power Unit
+2015,11,sauber,1,Finished
+2015,11,sauber,0,Finished
+2015,11,ferrari,0,Tyre
+2015,11,mclaren,0,+1 Lap
+2015,11,mclaren,0,+1 Lap
+2015,11,manor,0,+1 Lap
+2015,11,manor,0,+1 Lap
+2015,11,toro_rosso,0,Power Unit
+2015,11,red_bull,0,Power Unit
+2015,11,lotus_f1,0,Engine
+2015,11,force_india,0,Power loss
+2016,11,mercedes,25,Finished
+2016,11,mercedes,18,Finished
+2016,11,red_bull,15,Finished
+2016,11,ferrari,12,Finished
+2016,11,red_bull,10,Finished
+2016,11,ferrari,8,Finished
+2016,11,mclaren,6,+1 Lap
+2016,11,toro_rosso,4,+1 Lap
+2016,11,williams,2,+1 Lap
+2016,11,force_india,1,+1 Lap
+2016,11,force_india,0,+1 Lap
+2016,11,renault,0,+1 Lap
+2016,11,haas,0,+1 Lap
+2016,11,haas,0,+1 Lap
+2016,11,renault,0,+1 Lap
+2016,11,toro_rosso,0,+1 Lap
+2016,11,sauber,0,+1 Lap
+2016,11,williams,0,+2 Laps
+2016,11,manor,0,+2 Laps
+2016,11,sauber,0,+2 Laps
+2016,11,manor,0,+2 Laps
+2016,11,mclaren,0,Oil leak
+2017,11,ferrari,25,Finished
+2017,11,ferrari,18,Finished
+2017,11,mercedes,15,Finished
+2017,11,mercedes,12,Finished
+2017,11,red_bull,10,Finished
+2017,11,mclaren,8,Finished
+2017,11,toro_rosso,6,+1 Lap
+2017,11,force_india,4,+1 Lap
+2017,11,force_india,2,+1 Lap
+2017,11,mclaren,1,+1 Lap
+2017,11,toro_rosso,0,+1 Lap
+2017,11,renault,0,+1 Lap
+2017,11,haas,0,+1 Lap
+2017,11,williams,0,+1 Lap
+2017,11,sauber,0,+2 Laps
+2017,11,sauber,0,+2 Laps
+2017,11,renault,0,Brakes
+2017,11,williams,0,Oil leak
+2017,11,haas,0,Wheel nut
+2017,11,red_bull,0,Collision
+2018,11,mercedes,25,Finished
+2018,11,mercedes,18,Finished
+2018,11,ferrari,15,Finished
+2018,11,red_bull,12,Finished
+2018,11,renault,10,Finished
+2018,11,haas,8,Finished
+2018,11,force_india,6,Finished
+2018,11,force_india,4,Finished
+2018,11,sauber,2,Finished
+2018,11,toro_rosso,1,Finished
+2018,11,haas,0,Finished
+2018,11,renault,0,Finished
+2018,11,mclaren,0,Finished
+2018,11,toro_rosso,0,+1 Lap
+2018,11,sauber,0,+1 Lap
+2018,11,mclaren,0,Retired
+2018,11,williams,0,Engine
+2018,11,ferrari,0,Accident
+2018,11,williams,0,Engine
+2018,11,red_bull,0,Engine
+2019,11,red_bull,26,Finished
+2019,11,ferrari,18,Finished
+2019,11,toro_rosso,15,Finished
+2019,11,racing_point,12,Finished
+2019,11,mclaren,10,Finished
+2019,11,toro_rosso,8,Finished
+2019,11,haas,6,Finished
+2019,11,haas,4,Finished
+2019,11,mercedes,2,Finished
+2019,11,williams,1,Finished
+2019,11,williams,0,Finished
+2019,11,alfa,0,Finished
+2019,11,alfa,0,Finished
+2019,11,red_bull,0,Collision
+2019,11,mercedes,0,Accident
+2019,11,renault,0,Accident
+2019,11,ferrari,0,Accident
+2019,11,mclaren,0,Power loss
+2019,11,renault,0,Exhaust
+2019,11,racing_point,0,Spun off
+2020,11,mercedes,25,Finished
+2020,11,red_bull,19,Finished
+2020,11,renault,15,Finished
+2020,11,racing_point,12,Finished
+2020,11,mclaren,10,Finished
+2020,11,alphatauri,8,Finished
+2020,11,ferrari,6,Finished
+2020,11,racing_point,4,Finished
+2020,11,haas,2,Finished
+2020,11,alfa,1,Finished
+2020,11,ferrari,0,Finished
+2020,11,alfa,0,Finished
+2020,11,haas,0,Finished
+2020,11,williams,0,Finished
+2020,11,alphatauri,0,Finished
+2020,11,mclaren,0,Power Unit
+2020,11,red_bull,0,Radiator
+2020,11,renault,0,Gearbox
+2020,11,mercedes,0,Power Unit
+2020,11,williams,0,Collision
+2021,11,alpine,25,Finished
+2021,11,mercedes,18,Finished
+2021,11,ferrari,15,Finished
+2021,11,alpine,12,Finished
+2021,11,alphatauri,11,Finished
+2021,11,alphatauri,8,Finished
+2021,11,williams,6,Finished
+2021,11,williams,4,Finished
+2021,11,red_bull,2,Finished
+2021,11,alfa,1,+1 Lap
+2021,11,mclaren,0,+1 Lap
+2021,11,haas,0,+1 Lap
+2021,11,alfa,0,+1 Lap
+2021,11,haas,0,Collision
+2021,11,mclaren,0,Collision
+2021,11,mercedes,0,Collision
+2021,11,red_bull,0,Collision
+2021,11,ferrari,0,Collision
+2021,11,aston_martin,0,Collision
+2021,11,aston_martin,0,Disqualified
+2022,11,ferrari,25,Finished
+2022,11,red_bull,19,Finished
+2022,11,mercedes,15,Finished
+2022,11,mercedes,12,Finished
+2022,11,alpine,10,Finished
+2022,11,haas,8,+1 Lap
+2022,11,mclaren,6,+1 Lap
+2022,11,haas,4,+1 Lap
+2022,11,mclaren,2,+1 Lap
+2022,11,alpine,1,+1 Lap
+2022,11,alfa,0,+1 Lap
+2022,11,williams,0,+1 Lap
+2022,11,aston_martin,0,+1 Lap
+2022,11,alfa,0,+1 Lap
+2022,11,alphatauri,0,+1 Lap
+2022,11,alphatauri,0,+1 Lap
+2022,11,aston_martin,0,+1 Lap
+2022,11,ferrari,0,Power Unit
+2022,11,williams,0,Undertray
+2022,11,red_bull,0,Collision damage
+2010,12,red_bull,25,Finished
+2010,12,ferrari,18,Finished
+2010,12,red_bull,15,Finished
+2010,12,ferrari,12,Finished
+2010,12,renault,10,Finished
+2010,12,williams,8,Finished
+2010,12,sauber,6,+1 Lap
+2010,12,mclaren,4,+1 Lap
+2010,12,sauber,2,+1 Lap
+2010,12,williams,1,+1 Lap
+2010,12,mercedes,0,+1 Lap
+2010,12,toro_rosso,0,+1 Lap
+2010,12,force_india,0,+1 Lap
+2010,12,lotus_racing,0,+3 Laps
+2010,12,lotus_racing,0,+3 Laps
+2010,12,virgin,0,+3 Laps
+2010,12,hrt,0,+3 Laps
+2010,12,virgin,0,+4 Laps
+2010,12,hrt,0,+4 Laps
+2010,12,mclaren,0,Gearbox
+2010,12,renault,0,Retired
+2010,12,mercedes,0,Wheel
+2010,12,force_india,0,Collision
+2010,12,toro_rosso,0,Engine
+2011,12,red_bull,25,Finished
+2011,12,red_bull,18,Finished
+2011,12,mclaren,15,Finished
+2011,12,ferrari,12,Finished
+2011,12,mercedes,10,Finished
+2011,12,mercedes,8,Finished
+2011,12,force_india,6,Finished
+2011,12,ferrari,4,Finished
+2011,12,renault,2,Finished
+2011,12,williams,1,Finished
+2011,12,force_india,0,Finished
+2011,12,sauber,0,Finished
+2011,12,renault,0,Finished
+2011,12,lotus_racing,0,+1 Lap
+2011,12,lotus_racing,0,+1 Lap
+2011,12,williams,0,+1 Lap
+2011,12,virgin,0,+1 Lap
+2011,12,virgin,0,+1 Lap
+2011,12,hrt,0,+1 Lap
+2011,12,sauber,0,Suspension
+2011,12,hrt,0,Engine
+2011,12,mclaren,0,Collision
+2011,12,toro_rosso,0,Rear wing
+2011,12,toro_rosso,0,Collision
+2012,12,mclaren,25,Finished
+2012,12,red_bull,18,Finished
+2012,12,lotus_f1,15,Finished
+2012,12,force_india,12,Finished
+2012,12,ferrari,10,Finished
+2012,12,red_bull,8,Finished
+2012,12,mercedes,6,Finished
+2012,12,toro_rosso,4,Finished
+2012,12,toro_rosso,2,Finished
+2012,12,force_india,1,Finished
+2012,12,mercedes,0,Finished
+2012,12,williams,0,Finished
+2012,12,sauber,0,Finished
+2012,12,caterham,0,+1 Lap
+2012,12,marussia,0,+1 Lap
+2012,12,marussia,0,+1 Lap
+2012,12,caterham,0,+1 Lap
+2012,12,hrt,0,+1 Lap
+2012,12,hrt,0,Spun off
+2012,12,williams,0,Collision
+2012,12,sauber,0,Collision
+2012,12,ferrari,0,Collision
+2012,12,mclaren,0,Collision
+2012,12,lotus_f1,0,Collision
+2013,12,red_bull,25,Finished
+2013,12,ferrari,18,Finished
+2013,12,red_bull,15,Finished
+2013,12,ferrari,12,Finished
+2013,12,sauber,10,Finished
+2013,12,mercedes,8,Finished
+2013,12,toro_rosso,6,Finished
+2013,12,lotus_f1,4,Finished
+2013,12,mercedes,2,Finished
+2013,12,mclaren,1,Finished
+2013,12,lotus_f1,0,Finished
+2013,12,mclaren,0,Finished
+2013,12,sauber,0,Finished
+2013,12,williams,0,Finished
+2013,12,williams,0,Finished
+2013,12,force_india,0,+1 Lap
+2013,12,caterham,0,+1 Lap
+2013,12,caterham,0,+1 Lap
+2013,12,marussia,0,+1 Lap
+2013,12,marussia,0,+1 Lap
+2013,12,toro_rosso,0,Transmission
+2013,12,force_india,0,Accident
+2014,12,red_bull,25,Finished
+2014,12,mercedes,18,Finished
+2014,12,williams,15,Finished
+2014,12,ferrari,12,Finished
+2014,12,red_bull,10,Finished
+2014,12,mclaren,8,Finished
+2014,12,ferrari,6,Finished
+2014,12,force_india,4,Finished
+2014,12,toro_rosso,2,Finished
+2014,12,force_india,1,Finished
+2014,12,toro_rosso,0,Finished
+2014,12,mclaren,0,Finished
+2014,12,williams,0,Finished
+2014,12,sauber,0,Finished
+2014,12,sauber,0,Finished
+2014,12,marussia,0,+1 Lap
+2014,12,caterham,0,+1 Lap
+2014,12,marussia,0,Gearbox
+2014,12,mercedes,0,Retired
+2014,12,lotus_f1,0,Retired
+2014,12,lotus_f1,0,Mechanical
+2014,12,caterham,0,Power Unit
+2015,12,mercedes,25,Finished
+2015,12,ferrari,18,Finished
+2015,12,williams,15,Finished
+2015,12,williams,12,Finished
+2015,12,ferrari,10,Finished
+2015,12,force_india,8,Finished
+2015,12,force_india,6,+1 Lap
+2015,12,red_bull,4,+1 Lap
+2015,12,sauber,2,+1 Lap
+2015,12,red_bull,1,+1 Lap
+2015,12,toro_rosso,0,+1 Lap
+2015,12,toro_rosso,0,+1 Lap
+2015,12,sauber,0,+1 Lap
+2015,12,mclaren,0,+1 Lap
+2015,12,manor,0,+2 Laps
+2015,12,manor,0,+2 Laps
+2015,12,mercedes,0,+3 Laps
+2015,12,mclaren,0,+6 Laps
+2015,12,lotus_f1,0,Collision damage
+2015,12,lotus_f1,0,Collision damage
+2016,12,mercedes,25,Finished
+2016,12,red_bull,18,Finished
+2016,12,red_bull,15,Finished
+2016,12,mercedes,12,Finished
+2016,12,ferrari,10,Finished
+2016,12,ferrari,8,Finished
+2016,12,force_india,6,Finished
+2016,12,mclaren,4,+1 Lap
+2016,12,williams,2,+1 Lap
+2016,12,force_india,1,+1 Lap
+2016,12,haas,0,+1 Lap
+2016,12,mclaren,0,+1 Lap
+2016,12,haas,0,+1 Lap
+2016,12,toro_rosso,0,+1 Lap
+2016,12,toro_rosso,0,+1 Lap
+2016,12,renault,0,+1 Lap
+2016,12,manor,0,+2 Laps
+2016,12,sauber,0,+2 Laps
+2016,12,renault,0,+2 Laps
+2016,12,manor,0,+2 Laps
+2016,12,sauber,0,Power Unit
+2016,12,williams,0,Suspension
+2017,12,mercedes,25,Finished
+2017,12,ferrari,18,Finished
+2017,12,red_bull,15,Finished
+2017,12,ferrari,12,Finished
+2017,12,mercedes,10,Finished
+2017,12,renault,8,Finished
+2017,12,haas,6,Finished
+2017,12,williams,4,Finished
+2017,12,force_india,2,Finished
+2017,12,toro_rosso,1,Finished
+2017,12,williams,0,Finished
+2017,12,toro_rosso,0,Finished
+2017,12,renault,0,Finished
+2017,12,mclaren,0,Finished
+2017,12,haas,0,Finished
+2017,12,sauber,0,Finished
+2017,12,force_india,0,Gearbox
+2017,12,mclaren,0,Engine
+2017,12,red_bull,0,Engine
+2017,12,sauber,0,Collision
+2018,12,mercedes,25,Finished
+2018,12,ferrari,18,Finished
+2018,12,ferrari,15,Finished
+2018,12,red_bull,12,Finished
+2018,12,mercedes,10,Finished
+2018,12,toro_rosso,8,Finished
+2018,12,haas,6,+1 Lap
+2018,12,mclaren,4,+1 Lap
+2018,12,renault,2,+1 Lap
+2018,12,haas,1,+1 Lap
+2018,12,toro_rosso,0,+1 Lap
+2018,12,renault,0,+1 Lap
+2018,12,force_india,0,+1 Lap
+2018,12,force_india,0,+1 Lap
+2018,12,sauber,0,+2 Laps
+2018,12,williams,0,+2 Laps
+2018,12,williams,0,+2 Laps
+2018,12,mclaren,0,Gearbox
+2018,12,red_bull,0,Power loss
+2018,12,sauber,0,Suspension
+2019,12,mercedes,25,Finished
+2019,12,red_bull,19,Finished
+2019,12,ferrari,15,Finished
+2019,12,ferrari,12,Finished
+2019,12,mclaren,10,+1 Lap
+2019,12,red_bull,8,+1 Lap
+2019,12,alfa,6,+1 Lap
+2019,12,mercedes,4,+1 Lap
+2019,12,mclaren,2,+1 Lap
+2019,12,toro_rosso,1,+1 Lap
+2019,12,racing_point,0,+1 Lap
+2019,12,renault,0,+1 Lap
+2019,12,haas,0,+1 Lap
+2019,12,renault,0,+1 Lap
+2019,12,toro_rosso,0,+2 Laps
+2019,12,williams,0,+2 Laps
+2019,12,racing_point,0,+2 Laps
+2019,12,alfa,0,+2 Laps
+2019,12,williams,0,+3 Laps
+2019,12,haas,0,Water pressure
+2020,12,mercedes,26,Finished
+2020,12,mercedes,18,Finished
+2020,12,red_bull,15,Finished
+2020,12,ferrari,12,Finished
+2020,12,alphatauri,10,+1 Lap
+2020,12,mclaren,8,+1 Lap
+2020,12,racing_point,6,+1 Lap
+2020,12,renault,4,+1 Lap
+2020,12,renault,2,+1 Lap
+2020,12,ferrari,1,+1 Lap
+2020,12,alfa,0,+1 Lap
+2020,12,red_bull,0,+1 Lap
+2020,12,mclaren,0,+1 Lap
+2020,12,williams,0,+1 Lap
+2020,12,alfa,0,+1 Lap
+2020,12,haas,0,+1 Lap
+2020,12,haas,0,+1 Lap
+2020,12,williams,0,+2 Laps
+2020,12,alphatauri,0,+2 Laps
+2020,12,racing_point,0,Collision damage
+2021,12,red_bull,12.5,Finished
+2021,12,williams,9,Finished
+2021,12,mercedes,7.5,Finished
+2021,12,mclaren,6,Finished
+2021,12,aston_martin,5,Finished
+2021,12,alphatauri,4,Finished
+2021,12,alpine,3,Finished
+2021,12,ferrari,2,Finished
+2021,12,williams,1,Finished
+2021,12,ferrari,0.5,Finished
+2021,12,alpine,0,Finished
+2021,12,mercedes,0,Finished
+2021,12,alfa,0,Finished
+2021,12,mclaren,0,Finished
+2021,12,alphatauri,0,Finished
+2021,12,haas,0,Finished
+2021,12,haas,0,Finished
+2021,12,alfa,0,Finished
+2021,12,red_bull,0,Finished
+2021,12,aston_martin,0,Finished
+2022,12,red_bull,25,Finished
+2022,12,mercedes,18,Finished
+2022,12,mercedes,15,Finished
+2022,12,red_bull,12,Finished
+2022,12,ferrari,11,Finished
+2022,12,alpine,8,Finished
+2022,12,mclaren,6,Finished
+2022,12,alpine,4,Finished
+2022,12,mclaren,2,Finished
+2022,12,aston_martin,1,Finished
+2022,12,aston_martin,0,Finished
+2022,12,alphatauri,0,Finished
+2022,12,williams,0,Finished
+2022,12,alfa,0,Finished
+2022,12,haas,0,Finished
+2022,12,alfa,0,+6 Laps
+2022,12,williams,0,Collision damage
+2022,12,haas,0,Collision damage
+2022,12,ferrari,0,Accident
+2022,12,alphatauri,0,Undertray
+2010,13,mclaren,25,Finished
+2010,13,red_bull,18,Finished
+2010,13,renault,15,Finished
+2010,13,ferrari,12,Finished
+2010,13,force_india,10,Finished
+2010,13,mercedes,8,Finished
+2010,13,mercedes,6,Finished
+2010,13,sauber,4,Finished
+2010,13,renault,2,Finished
+2010,13,force_india,1,Finished
+2010,13,sauber,0,Finished
+2010,13,toro_rosso,0,Finished
+2010,13,toro_rosso,0,Finished
+2010,13,williams,0,+1 Lap
+2010,13,red_bull,0,+1 Lap
+2010,13,lotus_racing,0,+1 Lap
+2010,13,virgin,0,+1 Lap
+2010,13,virgin,0,+1 Lap
+2010,13,lotus_racing,0,+1 Lap
+2010,13,hrt,0,+2 Laps
+2010,13,ferrari,0,Accident
+2010,13,mclaren,0,Collision
+2010,13,hrt,0,Retired
+2010,13,williams,0,Collision
+2011,13,red_bull,25,Finished
+2011,13,mclaren,18,Finished
+2011,13,ferrari,15,Finished
+2011,13,mclaren,12,Finished
+2011,13,mercedes,10,Finished
+2011,13,ferrari,8,Finished
+2011,13,toro_rosso,6,+1 Lap
+2011,13,force_india,4,+1 Lap
+2011,13,renault,2,+1 Lap
+2011,13,toro_rosso,1,+1 Lap
+2011,13,williams,0,+1 Lap
+2011,13,williams,0,+1 Lap
+2011,13,lotus_racing,0,+2 Laps
+2011,13,lotus_racing,0,+2 Laps
+2011,13,virgin,0,+2 Laps
+2011,13,hrt,0,+14 Laps
+2011,13,sauber,0,Gearbox
+2011,13,sauber,0,Gearbox
+2011,13,force_india,0,Hydraulics
+2011,13,red_bull,0,Accident
+2011,13,virgin,0,Gearbox
+2011,13,renault,0,Collision
+2011,13,mercedes,0,Collision
+2011,13,hrt,0,Collision
+2012,13,mclaren,25,Finished
+2012,13,sauber,18,Finished
+2012,13,ferrari,15,Finished
+2012,13,ferrari,12,Finished
+2012,13,lotus_f1,10,Finished
+2012,13,mercedes,8,Finished
+2012,13,mercedes,6,Finished
+2012,13,force_india,4,Finished
+2012,13,sauber,2,Finished
+2012,13,williams,1,Finished
+2012,13,williams,0,Finished
+2012,13,toro_rosso,0,Finished
+2012,13,lotus_f1,0,Finished
+2012,13,caterham,0,+1 Lap
+2012,13,caterham,0,+1 Lap
+2012,13,marussia,0,+1 Lap
+2012,13,marussia,0,+1 Lap
+2012,13,hrt,0,+1 Lap
+2012,13,hrt,0,+1 Lap
+2012,13,red_bull,0,Vibrations
+2012,13,force_india,0,Brakes
+2012,13,red_bull,0,Alternator
+2012,13,mclaren,0,Fuel pressure
+2012,13,toro_rosso,0,Suspension
+2013,13,red_bull,25,Finished
+2013,13,ferrari,18,Finished
+2013,13,lotus_f1,15,Finished
+2013,13,mercedes,12,Finished
+2013,13,mercedes,10,Finished
+2013,13,ferrari,8,Finished
+2013,13,mclaren,6,Finished
+2013,13,mclaren,4,Finished
+2013,13,sauber,2,Finished
+2013,13,force_india,1,Finished
+2013,13,williams,0,Finished
+2013,13,sauber,0,Finished
+2013,13,williams,0,Finished
+2013,13,toro_rosso,0,Finished
+2013,13,red_bull,0,Water pressure
+2013,13,caterham,0,+1 Lap
+2013,13,marussia,0,+1 Lap
+2013,13,marussia,0,+1 Lap
+2013,13,caterham,0,+1 Lap
+2013,13,force_india,0,Accident
+2013,13,lotus_f1,0,Pneumatics
+2013,13,toro_rosso,0,Accident
+2014,13,mercedes,25,Finished
+2014,13,mercedes,18,Finished
+2014,13,williams,15,Finished
+2014,13,williams,12,Finished
+2014,13,red_bull,10,Finished
+2014,13,red_bull,8,Finished
+2014,13,force_india,6,Finished
+2014,13,mclaren,4,Finished
+2014,13,ferrari,2,Finished
+2014,13,mclaren,1,Finished
+2014,13,toro_rosso,0,Finished
+2014,13,force_india,0,Finished
+2014,13,toro_rosso,0,Finished
+2014,13,lotus_f1,0,+1 Lap
+2014,13,sauber,0,+1 Lap
+2014,13,lotus_f1,0,+1 Lap
+2014,13,caterham,0,+1 Lap
+2014,13,marussia,0,+1 Lap
+2014,13,sauber,0,+2 Laps
+2014,13,caterham,0,+2 Laps
+2014,13,ferrari,0,Engine
+2014,13,marussia,0,Accident
+2015,13,ferrari,25,Finished
+2015,13,red_bull,18,Finished
+2015,13,ferrari,15,Finished
+2015,13,mercedes,12,Finished
+2015,13,williams,10,Finished
+2015,13,red_bull,8,Finished
+2015,13,force_india,6,Finished
+2015,13,toro_rosso,4,Finished
+2015,13,toro_rosso,2,Finished
+2015,13,sauber,1,Finished
+2015,13,sauber,0,Finished
+2015,13,lotus_f1,0,Finished
+2015,13,lotus_f1,0,Tyre
+2015,13,manor,0,+2 Laps
+2015,13,manor,0,+2 Laps
+2015,13,mclaren,0,Gearbox
+2015,13,mclaren,0,Gearbox
+2015,13,mercedes,0,Throttle
+2015,13,williams,0,Gearbox
+2015,13,force_india,0,Collision
+2016,13,mercedes,25,Finished
+2016,13,red_bull,18,Finished
+2016,13,mercedes,15,Finished
+2016,13,force_india,12,Finished
+2016,13,force_india,10,Finished
+2016,13,ferrari,8,Finished
+2016,13,mclaren,6,Finished
+2016,13,williams,4,Finished
+2016,13,ferrari,2,Finished
+2016,13,williams,1,Finished
+2016,13,red_bull,0,Finished
+2016,13,haas,0,Finished
+2016,13,haas,0,Finished
+2016,13,toro_rosso,0,Finished
+2016,13,renault,0,Finished
+2016,13,manor,0,+1 Lap
+2016,13,sauber,0,+1 Lap
+2016,13,renault,0,Accident
+2016,13,sauber,0,Gearbox
+2016,13,toro_rosso,0,Puncture
+2016,13,mclaren,0,Collision damage
+2016,13,manor,0,Collision damage
+2017,13,mercedes,25,Finished
+2017,13,mercedes,18,Finished
+2017,13,ferrari,15,Finished
+2017,13,red_bull,12,Finished
+2017,13,ferrari,10,Finished
+2017,13,force_india,8,Finished
+2017,13,williams,6,Finished
+2017,13,williams,4,Finished
+2017,13,force_india,2,Finished
+2017,13,red_bull,1,+1 Lap
+2017,13,haas,0,+1 Lap
+2017,13,toro_rosso,0,+1 Lap
+2017,13,renault,0,+1 Lap
+2017,13,toro_rosso,0,+1 Lap
+2017,13,haas,0,+1 Lap
+2017,13,sauber,0,+2 Laps
+2017,13,mclaren,0,Gearbox
+2017,13,sauber,0,Gearbox
+2017,13,mclaren,0,Engine
+2017,13,renault,0,Engine
+2018,13,ferrari,25,Finished
+2018,13,mercedes,18,Finished
+2018,13,red_bull,15,Finished
+2018,13,mercedes,12,Finished
+2018,13,force_india,10,Finished
+2018,13,force_india,8,Finished
+2018,13,haas,6,Finished
+2018,13,haas,4,Finished
+2018,13,toro_rosso,2,Finished
+2018,13,sauber,1,+1 Lap
+2018,13,renault,0,+1 Lap
+2018,13,williams,0,+1 Lap
+2018,13,williams,0,+1 Lap
+2018,13,toro_rosso,0,+1 Lap
+2018,13,mclaren,0,+1 Lap
+2018,13,red_bull,0,Retired
+2018,13,ferrari,0,Brakes
+2018,13,sauber,0,Accident
+2018,13,mclaren,0,Accident
+2018,13,renault,0,Accident
+2019,13,ferrari,25,Finished
+2019,13,mercedes,18,Finished
+2019,13,mercedes,15,Finished
+2019,13,ferrari,13,Finished
+2019,13,red_bull,10,Finished
+2019,13,racing_point,8,Finished
+2019,13,toro_rosso,6,Finished
+2019,13,renault,4,Finished
+2019,13,toro_rosso,2,Finished
+2019,13,racing_point,1,Finished
+2019,13,mclaren,0,Engine
+2019,13,haas,0,+1 Lap
+2019,13,haas,0,+1 Lap
+2019,13,renault,0,+1 Lap
+2019,13,williams,0,+1 Lap
+2019,13,alfa,0,+1 Lap
+2019,13,williams,0,+1 Lap
+2019,13,alfa,0,Accident
+2019,13,mclaren,0,Power loss
+2019,13,red_bull,0,Accident
+2020,13,mercedes,26,Finished
+2020,13,mercedes,18,Finished
+2020,13,renault,15,Finished
+2020,13,alphatauri,12,Finished
+2020,13,ferrari,10,Finished
+2020,13,racing_point,8,Finished
+2020,13,mclaren,6,Finished
+2020,13,mclaren,4,Finished
+2020,13,alfa,2,Finished
+2020,13,alfa,1,Finished
+2020,13,williams,0,Finished
+2020,13,ferrari,0,Finished
+2020,13,racing_point,0,Finished
+2020,13,haas,0,Finished
+2020,13,red_bull,0,Finished
+2020,13,williams,0,Accident
+2020,13,red_bull,0,Puncture
+2020,13,haas,0,Illness
+2020,13,renault,0,Gearbox
+2020,13,alphatauri,0,Water pressure
+2021,13,red_bull,25,Finished
+2021,13,mercedes,19,Finished
+2021,13,mercedes,15,Finished
+2021,13,alphatauri,12,+1 Lap
+2021,13,ferrari,10,+1 Lap
+2021,13,alpine,8,+1 Lap
+2021,13,ferrari,6,+1 Lap
+2021,13,red_bull,4,+1 Lap
+2021,13,alpine,2,+1 Lap
+2021,13,mclaren,1,+1 Lap
+2021,13,mclaren,0,+1 Lap
+2021,13,aston_martin,0,+2 Laps
+2021,13,aston_martin,0,+2 Laps
+2021,13,alfa,0,+2 Laps
+2021,13,alfa,0,+2 Laps
+2021,13,williams,0,+2 Laps
+2021,13,williams,0,Gearbox
+2021,13,haas,0,+3 Laps
+2021,13,alphatauri,0,Power Unit
+2021,13,haas,0,Hydraulics
+2022,13,red_bull,25,Finished
+2022,13,mercedes,19,Finished
+2022,13,mercedes,15,Finished
+2022,13,ferrari,12,Finished
+2022,13,red_bull,10,Finished
+2022,13,ferrari,8,Finished
+2022,13,mclaren,6,Finished
+2022,13,alpine,4,+1 Lap
+2022,13,alpine,2,+1 Lap
+2022,13,aston_martin,1,+1 Lap
+2022,13,aston_martin,0,+1 Lap
+2022,13,alphatauri,0,+1 Lap
+2022,13,alfa,0,+1 Lap
+2022,13,haas,0,+1 Lap
+2022,13,mclaren,0,+1 Lap
+2022,13,haas,0,+1 Lap
+2022,13,williams,0,+1 Lap
+2022,13,williams,0,+1 Lap
+2022,13,alphatauri,0,+2 Laps
+2022,13,alfa,0,Power Unit
+2010,14,ferrari,25,Finished
+2010,14,mclaren,18,Finished
+2010,14,ferrari,15,Finished
+2010,14,red_bull,12,Finished
+2010,14,mercedes,10,Finished
+2010,14,red_bull,8,Finished
+2010,14,williams,6,Finished
+2010,14,renault,4,Finished
+2010,14,mercedes,2,Finished
+2010,14,williams,1,Finished
+2010,14,toro_rosso,0,Finished
+2010,14,force_india,0,Finished
+2010,14,renault,0,Finished
+2010,14,sauber,0,+1 Lap
+2010,14,toro_rosso,0,+1 Lap
+2010,14,force_india,0,+1 Lap
+2010,14,virgin,0,+2 Laps
+2010,14,lotus_racing,0,+2 Laps
+2010,14,hrt,0,+2 Laps
+2010,14,virgin,0,+3 Laps
+2010,14,lotus_racing,0,Engine
+2010,14,hrt,0,Retired
+2010,14,mclaren,0,Collision
+2010,14,sauber,0,Gearbox
+2011,14,red_bull,25,Finished
+2011,14,mclaren,18,Finished
+2011,14,red_bull,15,Finished
+2011,14,ferrari,12,Finished
+2011,14,mclaren,10,Finished
+2011,14,force_india,8,Finished
+2011,14,mercedes,6,+1 Lap
+2011,14,force_india,4,+1 Lap
+2011,14,ferrari,2,+1 Lap
+2011,14,sauber,1,+1 Lap
+2011,14,williams,0,+1 Lap
+2011,14,toro_rosso,0,+1 Lap
+2011,14,williams,0,+1 Lap
+2011,14,sauber,0,+2 Laps
+2011,14,renault,0,+2 Laps
+2011,14,lotus_racing,0,+2 Laps
+2011,14,renault,0,+2 Laps
+2011,14,virgin,0,+2 Laps
+2011,14,hrt,0,+4 Laps
+2011,14,hrt,0,+4 Laps
+2011,14,toro_rosso,0,Accident
+2011,14,lotus_racing,0,Gearbox
+2011,14,mercedes,0,Accident
+2011,14,virgin,0,Accident
+2012,14,red_bull,25,Finished
+2012,14,mclaren,18,Finished
+2012,14,ferrari,15,Finished
+2012,14,force_india,12,Finished
+2012,14,mercedes,10,Finished
+2012,14,lotus_f1,8,Finished
+2012,14,lotus_f1,6,Finished
+2012,14,ferrari,4,Finished
+2012,14,toro_rosso,2,Finished
+2012,14,sauber,1,Finished
+2012,14,red_bull,0,Finished
+2012,14,marussia,0,Finished
+2012,14,sauber,0,Finished
+2012,14,force_india,0,Finished
+2012,14,caterham,0,Finished
+2012,14,marussia,0,Finished
+2012,14,hrt,0,+1 Lap
+2012,14,williams,0,Retired
+2012,14,caterham,0,+2 Laps
+2012,14,toro_rosso,0,Collision
+2012,14,mercedes,0,Collision
+2012,14,williams,0,Hydraulics
+2012,14,hrt,0,Accident
+2012,14,mclaren,0,Gearbox
+2013,14,red_bull,25,Finished
+2013,14,lotus_f1,18,Finished
+2013,14,lotus_f1,15,Finished
+2013,14,sauber,12,Finished
+2013,14,mercedes,10,Finished
+2013,14,ferrari,8,Finished
+2013,14,mercedes,6,Finished
+2013,14,mclaren,4,Finished
+2013,14,ferrari,2,Finished
+2013,14,mclaren,1,Finished
+2013,14,sauber,0,Finished
+2013,14,williams,0,Finished
+2013,14,williams,0,Finished
+2013,14,caterham,0,Finished
+2013,14,caterham,0,Finished
+2013,14,marussia,0,Finished
+2013,14,marussia,0,Finished
+2013,14,toro_rosso,0,+2 Laps
+2013,14,toro_rosso,0,+3 Laps
+2013,14,force_india,0,Collision
+2013,14,red_bull,0,Collision
+2013,14,force_india,0,Spun off
+2014,14,mercedes,25,Finished
+2014,14,red_bull,18,Finished
+2014,14,red_bull,15,Finished
+2014,14,ferrari,12,Finished
+2014,14,williams,10,Finished
+2014,14,toro_rosso,8,Finished
+2014,14,force_india,6,Finished
+2014,14,ferrari,4,Finished
+2014,14,force_india,2,Finished
+2014,14,mclaren,1,Finished
+2014,14,williams,0,Finished
+2014,14,lotus_f1,0,Finished
+2014,14,lotus_f1,0,Finished
+2014,14,toro_rosso,0,Finished
+2014,14,caterham,0,Finished
+2014,14,marussia,0,Finished
+2014,14,marussia,0,+1 Lap
+2014,14,mclaren,0,Retired
+2014,14,sauber,0,Water pressure
+2014,14,sauber,0,Electrical
+2014,14,mercedes,0,Electrical
+2014,14,caterham,0,Power Unit
+2015,14,mercedes,25,Finished
+2015,14,mercedes,18,Finished
+2015,14,ferrari,15,Finished
+2015,14,ferrari,12,Finished
+2015,14,williams,10,Finished
+2015,14,force_india,8,Finished
+2015,14,lotus_f1,6,Finished
+2015,14,lotus_f1,4,Finished
+2015,14,toro_rosso,2,Finished
+2015,14,toro_rosso,1,+1 Lap
+2015,14,mclaren,0,+1 Lap
+2015,14,force_india,0,+1 Lap
+2015,14,red_bull,0,+1 Lap
+2015,14,sauber,0,+1 Lap
+2015,14,red_bull,0,+1 Lap
+2015,14,mclaren,0,+1 Lap
+2015,14,williams,0,+2 Laps
+2015,14,manor,0,+2 Laps
+2015,14,manor,0,+3 Laps
+2015,14,sauber,0,Retired
+2016,14,mercedes,25,Finished
+2016,14,mercedes,18,Finished
+2016,14,ferrari,15,Finished
+2016,14,ferrari,12,Finished
+2016,14,red_bull,10,Finished
+2016,14,williams,8,Finished
+2016,14,red_bull,6,Finished
+2016,14,force_india,4,Finished
+2016,14,williams,2,Finished
+2016,14,force_india,1,Finished
+2016,14,haas,0,+1 Lap
+2016,14,mclaren,0,+1 Lap
+2016,14,haas,0,+1 Lap
+2016,14,mclaren,0,+1 Lap
+2016,14,toro_rosso,0,+1 Lap
+2016,14,sauber,0,+1 Lap
+2016,14,renault,0,+1 Lap
+2016,14,manor,0,+2 Laps
+2016,14,toro_rosso,0,Battery
+2016,14,manor,0,Oil leak
+2016,14,renault,0,Collision damage
+2016,14,sauber,0,Collision damage
+2017,14,mercedes,25,Finished
+2017,14,red_bull,18,Finished
+2017,14,mercedes,15,Finished
+2017,14,toro_rosso,12,Finished
+2017,14,force_india,10,Finished
+2017,14,renault,8,Finished
+2017,14,mclaren,6,Finished
+2017,14,williams,4,Finished
+2017,14,haas,2,Finished
+2017,14,force_india,1,Finished
+2017,14,williams,0,Finished
+2017,14,sauber,0,+2 Laps
+2017,14,haas,0,Engine
+2017,14,renault,0,Engine
+2017,14,sauber,0,Accident
+2017,14,toro_rosso,0,Accident
+2017,14,mclaren,0,Collision damage
+2017,14,ferrari,0,Accident
+2017,14,red_bull,0,Accident
+2017,14,ferrari,0,Accident
+2018,14,mercedes,25,Finished
+2018,14,ferrari,18,Finished
+2018,14,mercedes,15,Finished
+2018,14,ferrari,12,Finished
+2018,14,red_bull,10,Finished
+2018,14,force_india,8,Finished
+2018,14,force_india,6,Finished
+2018,14,renault,4,Finished
+2018,14,williams,2,+1 Lap
+2018,14,williams,1,+1 Lap
+2018,14,sauber,0,+1 Lap
+2018,14,mclaren,0,+1 Lap
+2018,14,renault,0,+1 Lap
+2018,14,toro_rosso,0,+1 Lap
+2018,14,sauber,0,+1 Lap
+2018,14,haas,0,+1 Lap
+2018,14,red_bull,0,Engine
+2018,14,mclaren,0,Engine
+2018,14,toro_rosso,0,Brakes
+2018,14,haas,0,Disqualified
+2019,14,ferrari,25,Finished
+2019,14,mercedes,18,Finished
+2019,14,mercedes,16,Finished
+2019,14,renault,12,Finished
+2019,14,renault,10,Finished
+2019,14,red_bull,8,Finished
+2019,14,racing_point,6,Finished
+2019,14,red_bull,4,Finished
+2019,14,alfa,2,+1 Lap
+2019,14,mclaren,1,+1 Lap
+2019,14,toro_rosso,0,+1 Lap
+2019,14,racing_point,0,+1 Lap
+2019,14,ferrari,0,+1 Lap
+2019,14,williams,0,+1 Lap
+2019,14,alfa,0,+1 Lap
+2019,14,haas,0,+1 Lap
+2019,14,williams,0,+2 Laps
+2019,14,haas,0,Hydraulics
+2019,14,toro_rosso,0,Engine
+2019,14,mclaren,0,Wheel
+2020,14,mercedes,25,Finished
+2020,14,racing_point,18,Finished
+2020,14,ferrari,15,Finished
+2020,14,ferrari,12,Finished
+2020,14,mclaren,10,Finished
+2020,14,red_bull,8,Finished
+2020,14,red_bull,6,Finished
+2020,14,mclaren,5,Finished
+2020,14,racing_point,2,Finished
+2020,14,renault,1,Finished
+2020,14,renault,0,+1 Lap
+2020,14,alphatauri,0,+1 Lap
+2020,14,alphatauri,0,+1 Lap
+2020,14,mercedes,0,+1 Lap
+2020,14,alfa,0,+1 Lap
+2020,14,williams,0,+1 Lap
+2020,14,haas,0,Withdrew
+2020,14,haas,0,Collision damage
+2020,14,williams,0,Collision damage
+2020,14,alfa,0,Gearbox
+2021,14,mclaren,26,Finished
+2021,14,mclaren,18,Finished
+2021,14,mercedes,15,Finished
+2021,14,ferrari,12,Finished
+2021,14,red_bull,10,Finished
+2021,14,ferrari,8,Finished
+2021,14,aston_martin,6,Finished
+2021,14,alpine,4,Finished
+2021,14,williams,2,Finished
+2021,14,alpine,1,Finished
+2021,14,williams,0,Finished
+2021,14,aston_martin,0,Finished
+2021,14,alfa,0,Finished
+2021,14,alfa,0,Finished
+2021,14,haas,0,Finished
+2021,14,haas,0,Power Unit
+2021,14,mercedes,0,Collision
+2021,14,red_bull,0,Collision
+2021,14,alphatauri,0,Suspension
+2021,14,alphatauri,0,Brakes
+2022,14,red_bull,26,Finished
+2022,14,red_bull,18,Finished
+2022,14,ferrari,15,Finished
+2022,14,mercedes,12,Finished
+2022,14,alpine,10,Finished
+2022,14,ferrari,8,Finished
+2022,14,alpine,6,Finished
+2022,14,aston_martin,4,Finished
+2022,14,alphatauri,2,Finished
+2022,14,williams,1,Finished
+2022,14,aston_martin,0,Finished
+2022,14,mclaren,0,Finished
+2022,14,alphatauri,0,Finished
+2022,14,alfa,0,Finished
+2022,14,mclaren,0,Finished
+2022,14,haas,0,+1 Lap
+2022,14,haas,0,+1 Lap
+2022,14,williams,0,+1 Lap
+2022,14,alfa,0,Accident
+2022,14,mercedes,0,Collision damage
+2010,15,ferrari,25,Finished
+2010,15,red_bull,18,Finished
+2010,15,red_bull,15,Finished
+2010,15,mclaren,12,Finished
+2010,15,mercedes,10,Finished
+2010,15,williams,8,Finished
+2010,15,renault,6,Finished
+2010,15,ferrari,4,Finished
+2010,15,force_india,2,Finished
+2010,15,williams,1,Finished
+2010,15,renault,0,+1 Lap
+2010,15,toro_rosso,0,+1 Lap
+2010,15,mercedes,0,+1 Lap
+2010,15,toro_rosso,0,+1 Lap
+2010,15,virgin,0,+2 Laps
+2010,15,lotus_racing,0,Engine
+2010,15,virgin,0,Hydraulics
+2010,15,sauber,0,Collision
+2010,15,mclaren,0,Collision
+2010,15,hrt,0,Hydraulics
+2010,15,sauber,0,Accident
+2010,15,hrt,0,Accident
+2010,15,lotus_racing,0,Hydraulics
+2010,15,force_india,0,Collision
+2011,15,mclaren,25,Finished
+2011,15,ferrari,18,Finished
+2011,15,red_bull,15,Finished
+2011,15,red_bull,12,Finished
+2011,15,mclaren,10,Finished
+2011,15,mercedes,8,Finished
+2011,15,ferrari,6,Finished
+2011,15,sauber,4,Finished
+2011,15,renault,2,Finished
+2011,15,mercedes,1,Finished
+2011,15,force_india,0,Finished
+2011,15,force_india,0,Finished
+2011,15,sauber,0,Finished
+2011,15,williams,0,Finished
+2011,15,toro_rosso,0,Finished
+2011,15,renault,0,Finished
+2011,15,williams,0,Finished
+2011,15,lotus_racing,0,Finished
+2011,15,lotus_racing,0,Finished
+2011,15,virgin,0,+2 Laps
+2011,15,virgin,0,+2 Laps
+2011,15,hrt,0,+2 Laps
+2011,15,hrt,0,+3 Laps
+2011,15,toro_rosso,0,Wheel
+2012,15,red_bull,25,Finished
+2012,15,ferrari,18,Finished
+2012,15,sauber,15,Finished
+2012,15,mclaren,12,Finished
+2012,15,mclaren,10,Finished
+2012,15,lotus_f1,8,Finished
+2012,15,force_india,6,Finished
+2012,15,williams,4,Finished
+2012,15,red_bull,2,Finished
+2012,15,toro_rosso,1,Finished
+2012,15,mercedes,0,Finished
+2012,15,force_india,0,Finished
+2012,15,toro_rosso,0,Finished
+2012,15,williams,0,Finished
+2012,15,caterham,0,+1 Lap
+2012,15,marussia,0,+1 Lap
+2012,15,caterham,0,+1 Lap
+2012,15,hrt,0,+1 Lap
+2012,15,lotus_f1,0,+2 Laps
+2012,15,marussia,0,Engine
+2012,15,hrt,0,Vibrations
+2012,15,sauber,0,Spun off
+2012,15,ferrari,0,Collision
+2012,15,mercedes,0,Collision
+2013,15,red_bull,25,Finished
+2013,15,red_bull,18,Finished
+2013,15,lotus_f1,15,Finished
+2013,15,ferrari,12,Finished
+2013,15,lotus_f1,10,Finished
+2013,15,sauber,8,Finished
+2013,15,sauber,6,Finished
+2013,15,mercedes,4,Finished
+2013,15,mclaren,2,Finished
+2013,15,ferrari,1,Finished
+2013,15,force_india,0,Finished
+2013,15,toro_rosso,0,+1 Lap
+2013,15,toro_rosso,0,+1 Lap
+2013,15,force_india,0,+1 Lap
+2013,15,mclaren,0,+1 Lap
+2013,15,williams,0,+1 Lap
+2013,15,williams,0,+1 Lap
+2013,15,caterham,0,+1 Lap
+2013,15,marussia,0,+1 Lap
+2013,15,mercedes,0,Puncture
+2013,15,caterham,0,Accident
+2013,15,marussia,0,Accident
+2014,15,mercedes,25,Finished
+2014,15,mercedes,18,Finished
+2014,15,red_bull,15,Finished
+2014,15,red_bull,12,Finished
+2014,15,mclaren,10,Finished
+2014,15,williams,8,Finished
+2014,15,williams,6,Finished
+2014,15,force_india,4,Finished
+2014,15,toro_rosso,2,Finished
+2014,15,force_india,1,+1 Lap
+2014,15,toro_rosso,0,+1 Lap
+2014,15,ferrari,0,+1 Lap
+2014,15,sauber,0,+1 Lap
+2014,15,mclaren,0,+1 Lap
+2014,15,lotus_f1,0,+1 Lap
+2014,15,lotus_f1,0,+1 Lap
+2014,15,caterham,0,+1 Lap
+2014,15,marussia,0,+1 Lap
+2014,15,caterham,0,+1 Lap
+2014,15,marussia,0,Accident
+2014,15,sauber,0,Accident
+2014,15,ferrari,0,Electronics
+2015,15,mercedes,25,Finished
+2015,15,ferrari,18,Finished
+2015,15,force_india,15,Finished
+2015,15,williams,12,Finished
+2015,15,red_bull,10,Finished
+2015,15,sauber,8,Finished
+2015,15,lotus_f1,6,Finished
+2015,15,ferrari,4,Finished
+2015,15,mclaren,2,Finished
+2015,15,toro_rosso,1,Finished
+2015,15,mclaren,0,Finished
+2015,15,williams,0,Collision
+2015,15,manor,0,+1 Lap
+2015,15,manor,0,+2 Laps
+2015,15,red_bull,0,Suspension
+2015,15,toro_rosso,0,Brakes
+2015,15,lotus_f1,0,Accident
+2015,15,mercedes,0,Throttle
+2015,15,force_india,0,Collision
+2015,15,sauber,0,Collision
+2016,15,mercedes,25,Finished
+2016,15,red_bull,18,Finished
+2016,15,mercedes,15,Finished
+2016,15,ferrari,12,Finished
+2016,15,ferrari,10,Finished
+2016,15,red_bull,8,Finished
+2016,15,mclaren,6,Finished
+2016,15,force_india,4,Finished
+2016,15,toro_rosso,2,Finished
+2016,15,renault,1,Finished
+2016,15,haas,0,+1 Lap
+2016,15,williams,0,+1 Lap
+2016,15,sauber,0,+1 Lap
+2016,15,toro_rosso,0,+1 Lap
+2016,15,renault,0,+1 Lap
+2016,15,manor,0,+1 Lap
+2016,15,sauber,0,+1 Lap
+2016,15,manor,0,+2 Laps
+2016,15,mclaren,0,Brakes
+2016,15,williams,0,Overheating
+2016,15,force_india,0,Collision
+2016,15,haas,0,Withdrew
+2017,15,red_bull,25,Finished
+2017,15,mercedes,18,Finished
+2017,15,red_bull,15,Finished
+2017,15,ferrari,12,Finished
+2017,15,mercedes,10,Finished
+2017,15,force_india,8,Finished
+2017,15,mclaren,6,+1 Lap
+2017,15,williams,4,+1 Lap
+2017,15,williams,2,+1 Lap
+2017,15,force_india,1,+1 Lap
+2017,15,mclaren,0,+1 Lap
+2017,15,haas,0,+1 Lap
+2017,15,haas,0,+1 Lap
+2017,15,toro_rosso,0,+1 Lap
+2017,15,renault,0,+1 Lap
+2017,15,renault,0,+1 Lap
+2017,15,sauber,0,+1 Lap
+2017,15,sauber,0,+2 Laps
+2017,15,toro_rosso,0,Engine
+2017,15,ferrari,0,Battery
+2018,15,mercedes,25,Finished
+2018,15,red_bull,18,Finished
+2018,15,ferrari,15,Finished
+2018,15,mercedes,12,Finished
+2018,15,ferrari,10,Finished
+2018,15,red_bull,8,Finished
+2018,15,mclaren,6,Finished
+2018,15,renault,4,+1 Lap
+2018,15,sauber,2,+1 Lap
+2018,15,renault,1,+1 Lap
+2018,15,sauber,0,+1 Lap
+2018,15,mclaren,0,+1 Lap
+2018,15,toro_rosso,0,+1 Lap
+2018,15,williams,0,+1 Lap
+2018,15,haas,0,+1 Lap
+2018,15,force_india,0,+1 Lap
+2018,15,toro_rosso,0,+1 Lap
+2018,15,haas,0,+2 Laps
+2018,15,williams,0,+2 Laps
+2018,15,force_india,0,Collision
+2019,15,ferrari,25,Finished
+2019,15,ferrari,18,Finished
+2019,15,red_bull,15,Finished
+2019,15,mercedes,12,Finished
+2019,15,mercedes,10,Finished
+2019,15,red_bull,8,Finished
+2019,15,mclaren,6,Finished
+2019,15,toro_rosso,4,Finished
+2019,15,renault,2,Finished
+2019,15,alfa,1,Finished
+2019,15,haas,0,Finished
+2019,15,mclaren,0,Finished
+2019,15,racing_point,0,Finished
+2019,15,renault,0,Finished
+2019,15,toro_rosso,0,Finished
+2019,15,williams,0,Finished
+2019,15,haas,0,Finished
+2019,15,alfa,0,Collision
+2019,15,racing_point,0,Engine
+2019,15,williams,0,Collision
+2020,15,mercedes,25,Finished
+2020,15,red_bull,19,Finished
+2020,15,red_bull,15,Finished
+2020,15,mclaren,12,Finished
+2020,15,mclaren,10,Finished
+2020,15,alphatauri,8,Finished
+2020,15,renault,6,Finished
+2020,15,mercedes,4,Finished
+2020,15,renault,2,Finished
+2020,15,ferrari,1,+1 Lap
+2020,15,alphatauri,0,+1 Lap
+2020,15,williams,0,+1 Lap
+2020,15,ferrari,0,+1 Lap
+2020,15,williams,0,+1 Lap
+2020,15,alfa,0,+1 Lap
+2020,15,alfa,0,+1 Lap
+2020,15,haas,0,+1 Lap
+2020,15,racing_point,0,Engine
+2020,15,racing_point,0,Collision
+2020,15,haas,0,Collision
+2021,15,mercedes,25,Finished
+2021,15,red_bull,18,Finished
+2021,15,ferrari,15,Finished
+2021,15,mclaren,12,Finished
+2021,15,mercedes,10,Finished
+2021,15,alpine,8,Finished
+2021,15,mclaren,7,Finished
+2021,15,alfa,4,Finished
+2021,15,red_bull,2,Finished
+2021,15,williams,1,Finished
+2021,15,aston_martin,0,Finished
+2021,15,aston_martin,0,+1 Lap
+2021,15,alphatauri,0,+1 Lap
+2021,15,alpine,0,+1 Lap
+2021,15,ferrari,0,+1 Lap
+2021,15,alfa,0,+1 Lap
+2021,15,alphatauri,0,+1 Lap
+2021,15,haas,0,+2 Laps
+2021,15,williams,0,Accident
+2021,15,haas,0,Oil leak
+2022,15,red_bull,26,Finished
+2022,15,mercedes,18,Finished
+2022,15,ferrari,15,Finished
+2022,15,mercedes,12,Finished
+2022,15,red_bull,10,Finished
+2022,15,alpine,8,Finished
+2022,15,mclaren,6,Finished
+2022,15,ferrari,4,Finished
+2022,15,alpine,2,Finished
+2022,15,aston_martin,1,Finished
+2022,15,alphatauri,0,Finished
+2022,15,williams,0,Finished
+2022,15,haas,0,Finished
+2022,15,aston_martin,0,Finished
+2022,15,haas,0,Finished
+2022,15,alfa,0,Finished
+2022,15,mclaren,0,Finished
+2022,15,williams,0,+1 Lap
+2022,15,alfa,0,Engine
+2022,15,alphatauri,0,Differential
+2010,16,red_bull,25,Finished
+2010,16,red_bull,18,Finished
+2010,16,ferrari,15,Finished
+2010,16,mclaren,12,Finished
+2010,16,mclaren,10,Finished
+2010,16,mercedes,8,Finished
+2010,16,sauber,6,Finished
+2010,16,sauber,4,Finished
+2010,16,williams,2,Finished
+2010,16,toro_rosso,1,Finished
+2010,16,toro_rosso,0,+1 Lap
+2010,16,lotus_racing,0,+1 Lap
+2010,16,lotus_racing,0,+2 Laps
+2010,16,virgin,0,+2 Laps
+2010,16,hrt,0,+2 Laps
+2010,16,hrt,0,+3 Laps
+2010,16,mercedes,0,Suspension
+2010,16,force_india,0,Oil leak
+2010,16,renault,0,Wheel
+2010,16,williams,0,Accident
+2010,16,ferrari,0,Accident
+2010,16,renault,0,Accident
+2010,16,force_india,0,Accident
+2010,16,virgin,0,Suspension
+2011,16,red_bull,25,Finished
+2011,16,mclaren,18,Finished
+2011,16,red_bull,15,Finished
+2011,16,mclaren,12,Finished
+2011,16,ferrari,10,Finished
+2011,16,ferrari,8,Finished
+2011,16,toro_rosso,6,Finished
+2011,16,mercedes,4,Finished
+2011,16,toro_rosso,2,Finished
+2011,16,force_india,1,Finished
+2011,16,force_india,0,Finished
+2011,16,williams,0,Finished
+2011,16,renault,0,+1 Lap
+2011,16,lotus_racing,0,+1 Lap
+2011,16,sauber,0,+1 Lap
+2011,16,sauber,0,+1 Lap
+2011,16,lotus_racing,0,+1 Lap
+2011,16,virgin,0,+1 Lap
+2011,16,hrt,0,+1 Lap
+2011,16,virgin,0,+1 Lap
+2011,16,hrt,0,+3 Laps
+2011,16,williams,0,Clutch
+2011,16,renault,0,Collision
+2011,16,mercedes,0,Collision
+2012,16,red_bull,25,Finished
+2012,16,red_bull,18,Finished
+2012,16,ferrari,15,Finished
+2012,16,ferrari,12,Finished
+2012,16,lotus_f1,10,Finished
+2012,16,force_india,8,Finished
+2012,16,lotus_f1,6,Finished
+2012,16,toro_rosso,4,Finished
+2012,16,toro_rosso,2,Finished
+2012,16,mclaren,1,Finished
+2012,16,sauber,0,Finished
+2012,16,force_india,0,Finished
+2012,16,mercedes,0,Finished
+2012,16,williams,0,Finished
+2012,16,williams,0,Finished
+2012,16,caterham,0,+1 Lap
+2012,16,caterham,0,+1 Lap
+2012,16,marussia,0,+1 Lap
+2012,16,marussia,0,+2 Laps
+2012,16,hrt,0,+2 Laps
+2012,16,hrt,0,Throttle
+2012,16,sauber,0,Collision damage
+2012,16,mercedes,0,Collision
+2012,16,mclaren,0,Collision
+2013,16,red_bull,25,Finished
+2013,16,mercedes,18,Finished
+2013,16,lotus_f1,15,Finished
+2013,16,ferrari,12,Finished
+2013,16,mclaren,10,Finished
+2013,16,mercedes,8,Finished
+2013,16,lotus_f1,6,Finished
+2013,16,force_india,4,Finished
+2013,16,force_india,2,Finished
+2013,16,toro_rosso,1,Finished
+2013,16,ferrari,0,Finished
+2013,16,williams,0,Finished
+2013,16,toro_rosso,0,+1 Lap
+2013,16,mclaren,0,+1 Lap
+2013,16,sauber,0,+1 Lap
+2013,16,williams,0,+1 Lap
+2013,16,marussia,0,+2 Laps
+2013,16,marussia,0,+2 Laps
+2013,16,sauber,0,Mechanical
+2013,16,red_bull,0,Alternator
+2013,16,caterham,0,Hydraulics
+2013,16,caterham,0,Collision
+2014,16,mercedes,25,Finished
+2014,16,mercedes,18,Finished
+2014,16,williams,15,Finished
+2014,16,mclaren,12,Finished
+2014,16,mclaren,10,Finished
+2014,16,ferrari,8,Finished
+2014,16,red_bull,6,Finished
+2014,16,red_bull,4,Finished
+2014,16,ferrari,2,Finished
+2014,16,force_india,1,Finished
+2014,16,williams,0,Finished
+2014,16,force_india,0,Finished
+2014,16,toro_rosso,0,Finished
+2014,16,toro_rosso,0,+1 Lap
+2014,16,sauber,0,+1 Lap
+2014,16,sauber,0,+1 Lap
+2014,16,lotus_f1,0,+1 Lap
+2014,16,lotus_f1,0,+1 Lap
+2014,16,caterham,0,+2 Laps
+2014,16,caterham,0,Brakes
+2014,16,marussia,0,Suspension
+2015,16,mercedes,25,Finished
+2015,16,mercedes,18,Finished
+2015,16,ferrari,15,Finished
+2015,16,toro_rosso,12,Finished
+2015,16,force_india,10,Finished
+2015,16,mclaren,8,Finished
+2015,16,toro_rosso,6,Finished
+2015,16,lotus_f1,4,Finished
+2015,16,sauber,2,Finished
+2015,16,red_bull,1,Finished
+2015,16,mclaren,0,Finished
+2015,16,manor,0,Finished
+2015,16,red_bull,0,Accident
+2015,16,force_india,0,Accident
+2015,16,sauber,0,Retired
+2015,16,ferrari,0,Brake duct
+2015,16,williams,0,Retired
+2015,16,lotus_f1,0,Retired
+2015,16,williams,0,Retired
+2015,16,manor,0,Retired
+2016,16,red_bull,25,Finished
+2016,16,red_bull,18,Finished
+2016,16,mercedes,15,Finished
+2016,16,ferrari,12,Finished
+2016,16,williams,10,Finished
+2016,16,force_india,8,Finished
+2016,16,mclaren,6,Finished
+2016,16,force_india,4,Finished
+2016,16,mclaren,2,Finished
+2016,16,renault,1,Finished
+2016,16,toro_rosso,0,Finished
+2016,16,sauber,0,+1 Lap
+2016,16,williams,0,+1 Lap
+2016,16,toro_rosso,0,+1 Lap
+2016,16,manor,0,+1 Lap
+2016,16,manor,0,+1 Lap
+2016,16,sauber,0,Brakes
+2016,16,mercedes,0,Engine
+2016,16,haas,0,Wheel nut
+2016,16,renault,0,Power loss
+2016,16,haas,0,Brakes
+2016,16,ferrari,0,Collision
+2017,16,mercedes,25,Finished
+2017,16,red_bull,18,Finished
+2017,16,red_bull,15,Finished
+2017,16,mercedes,12,Finished
+2017,16,ferrari,10,Finished
+2017,16,force_india,8,Finished
+2017,16,force_india,6,Finished
+2017,16,haas,4,Finished
+2017,16,haas,2,Finished
+2017,16,williams,1,+1 Lap
+2017,16,mclaren,0,+1 Lap
+2017,16,renault,0,+1 Lap
+2017,16,toro_rosso,0,+1 Lap
+2017,16,mclaren,0,+1 Lap
+2017,16,sauber,0,+2 Laps
+2017,16,williams,0,Wheel
+2017,16,renault,0,Front wing
+2017,16,sauber,0,Accident
+2017,16,ferrari,0,Spark plugs
+2017,16,toro_rosso,0,Accident
+2018,16,mercedes,25,Finished
+2018,16,mercedes,18,Finished
+2018,16,ferrari,15,Finished
+2018,16,ferrari,12,Finished
+2018,16,red_bull,10,Finished
+2018,16,red_bull,8,Finished
+2018,16,sauber,6,Finished
+2018,16,haas,4,+1 Lap
+2018,16,force_india,2,+1 Lap
+2018,16,force_india,1,+1 Lap
+2018,16,haas,0,+1 Lap
+2018,16,renault,0,+1 Lap
+2018,16,sauber,0,+1 Lap
+2018,16,mclaren,0,+1 Lap
+2018,16,williams,0,+1 Lap
+2018,16,mclaren,0,+2 Laps
+2018,16,renault,0,+2 Laps
+2018,16,williams,0,+2 Laps
+2018,16,toro_rosso,0,Brakes
+2018,16,toro_rosso,0,Brakes
+2019,16,mercedes,26,Finished
+2019,16,mercedes,18,Finished
+2019,16,ferrari,15,Finished
+2019,16,red_bull,12,Finished
+2019,16,red_bull,10,Finished
+2019,16,mclaren,8,Finished
+2019,16,racing_point,6,Finished
+2019,16,mclaren,4,Finished
+2019,16,haas,2,Finished
+2019,16,renault,1,Finished
+2019,16,racing_point,0,Finished
+2019,16,toro_rosso,0,Finished
+2019,16,alfa,0,Finished
+2019,16,toro_rosso,0,Finished
+2019,16,alfa,0,Finished
+2019,16,williams,0,Brakes
+2019,16,williams,0,Brakes
+2019,16,ferrari,0,Power loss
+2019,16,renault,0,Collision
+2019,16,haas,0,Collision
+2020,16,racing_point,25,Finished
+2020,16,renault,18,Finished
+2020,16,racing_point,15,Finished
+2020,16,mclaren,12,Finished
+2020,16,renault,10,Finished
+2020,16,red_bull,8,Finished
+2020,16,alphatauri,6,Finished
+2020,16,mercedes,4,Finished
+2020,16,mercedes,3,Finished
+2020,16,mclaren,1,Finished
+2020,16,alphatauri,0,Finished
+2020,16,ferrari,0,Finished
+2020,16,alfa,0,Finished
+2020,16,alfa,0,Finished
+2020,16,haas,0,Finished
+2020,16,williams,0,Finished
+2020,16,haas,0,Finished
+2020,16,williams,0,Engine
+2020,16,red_bull,0,Accident
+2020,16,ferrari,0,Collision
+2021,16,mercedes,26,Finished
+2021,16,red_bull,18,Finished
+2021,16,red_bull,15,Finished
+2021,16,ferrari,12,Finished
+2021,16,mercedes,10,Finished
+2021,16,alphatauri,8,Finished
+2021,16,mclaren,6,Finished
+2021,16,ferrari,4,Finished
+2021,16,aston_martin,2,Finished
+2021,16,alpine,1,+1 Lap
+2021,16,alfa,0,+1 Lap
+2021,16,alfa,0,+1 Lap
+2021,16,mclaren,0,+1 Lap
+2021,16,alphatauri,0,+1 Lap
+2021,16,williams,0,+1 Lap
+2021,16,alpine,0,+1 Lap
+2021,16,williams,0,+1 Lap
+2021,16,aston_martin,0,+1 Lap
+2021,16,haas,0,+2 Laps
+2021,16,haas,0,+2 Laps
+2022,16,red_bull,25,Finished
+2022,16,ferrari,18,Finished
+2022,16,mercedes,15,Finished
+2022,16,ferrari,12,Finished
+2022,16,mercedes,10,Finished
+2022,16,red_bull,9,Finished
+2022,16,mclaren,6,Finished
+2022,16,alphatauri,4,Finished
+2022,16,williams,2,Finished
+2022,16,alfa,1,Finished
+2022,16,alpine,0,Finished
+2022,16,haas,0,Finished
+2022,16,alfa,0,+1 Lap
+2022,16,alphatauri,0,+1 Lap
+2022,16,williams,0,+1 Lap
+2022,16,haas,0,+1 Lap
+2022,16,mclaren,0,Oil leak
+2022,16,aston_martin,0,Engine
+2022,16,alpine,0,Water pressure
+2022,16,aston_martin,0,Engine
+2010,17,ferrari,25,Finished
+2010,17,mclaren,18,Finished
+2010,17,ferrari,15,Finished
+2010,17,mercedes,12,Finished
+2010,17,renault,10,Finished
+2010,17,force_india,8,Finished
+2010,17,williams,6,Finished
+2010,17,sauber,4,Finished
+2010,17,sauber,2,Finished
+2010,17,williams,1,Finished
+2010,17,toro_rosso,0,Finished
+2010,17,mclaren,0,Finished
+2010,17,lotus_racing,0,+1 Lap
+2010,17,hrt,0,+2 Laps
+2010,17,hrt,0,+2 Laps
+2010,17,force_india,0,Collision
+2010,17,red_bull,0,Engine
+2010,17,renault,0,Accident
+2010,17,virgin,0,Collision
+2010,17,toro_rosso,0,Collision
+2010,17,virgin,0,Accident
+2010,17,lotus_racing,0,Hydraulics
+2010,17,red_bull,0,Accident
+2010,17,mercedes,0,Collision
+2011,17,red_bull,25,Finished
+2011,17,mclaren,18,Finished
+2011,17,ferrari,15,Finished
+2011,17,red_bull,12,Finished
+2011,17,mercedes,10,Finished
+2011,17,mercedes,8,Finished
+2011,17,mclaren,6,Finished
+2011,17,toro_rosso,4,+1 Lap
+2011,17,force_india,2,+1 Lap
+2011,17,sauber,1,+1 Lap
+2011,17,renault,0,+1 Lap
+2011,17,renault,0,+1 Lap
+2011,17,force_india,0,+1 Lap
+2011,17,lotus_racing,0,+2 Laps
+2011,17,williams,0,+2 Laps
+2011,17,virgin,0,+3 Laps
+2011,17,hrt,0,+3 Laps
+2011,17,hrt,0,+3 Laps
+2011,17,lotus_racing,0,+5 Laps
+2011,17,ferrari,0,Suspension
+2011,17,toro_rosso,0,Engine
+2011,17,williams,0,Gearbox
+2011,17,virgin,0,Collision
+2011,17,sauber,0,Collision
+2012,17,red_bull,25,Finished
+2012,17,ferrari,18,Finished
+2012,17,red_bull,15,Finished
+2012,17,mclaren,12,Finished
+2012,17,mclaren,10,Finished
+2012,17,ferrari,8,Finished
+2012,17,lotus_f1,6,Finished
+2012,17,force_india,4,Finished
+2012,17,lotus_f1,2,Finished
+2012,17,williams,1,Finished
+2012,17,mercedes,0,Finished
+2012,17,force_india,0,Finished
+2012,17,toro_rosso,0,Finished
+2012,17,sauber,0,Finished
+2012,17,toro_rosso,0,+1 Lap
+2012,17,williams,0,+1 Lap
+2012,17,caterham,0,+1 Lap
+2012,17,caterham,0,+1 Lap
+2012,17,marussia,0,+1 Lap
+2012,17,marussia,0,+2 Laps
+2012,17,hrt,0,+2 Laps
+2012,17,mercedes,0,Retired
+2012,17,hrt,0,Accident
+2012,17,sauber,0,Accident
+2013,17,red_bull,25,Finished
+2013,17,red_bull,18,Finished
+2013,17,mercedes,15,Finished
+2013,17,lotus_f1,12,Finished
+2013,17,ferrari,10,Finished
+2013,17,force_india,8,Finished
+2013,17,mercedes,6,Finished
+2013,17,ferrari,4,Finished
+2013,17,mclaren,2,Finished
+2013,17,force_india,1,Finished
+2013,17,williams,0,Finished
+2013,17,mclaren,0,Finished
+2013,17,sauber,0,Finished
+2013,17,sauber,0,+1 Lap
+2013,17,williams,0,+1 Lap
+2013,17,toro_rosso,0,+1 Lap
+2013,17,toro_rosso,0,+1 Lap
+2013,17,caterham,0,+1 Lap
+2013,17,caterham,0,+1 Lap
+2013,17,marussia,0,+2 Laps
+2013,17,marussia,0,+2 Laps
+2013,17,lotus_f1,0,Accident
+2014,17,mercedes,25,Finished
+2014,17,mercedes,18,Finished
+2014,17,red_bull,15,Finished
+2014,17,williams,12,Finished
+2014,17,williams,10,Finished
+2014,17,ferrari,8,Finished
+2014,17,red_bull,6,Finished
+2014,17,mclaren,4,Finished
+2014,17,lotus_f1,2,Finished
+2014,17,toro_rosso,1,Finished
+2014,17,lotus_f1,0,+1 Lap
+2014,17,mclaren,0,+1 Lap
+2014,17,ferrari,0,+1 Lap
+2014,17,sauber,0,+1 Lap
+2014,17,toro_rosso,0,+1 Lap
+2014,17,force_india,0,Engine
+2014,17,force_india,0,Collision damage
+2014,17,sauber,0,Collision
+2015,17,mercedes,25,Finished
+2015,17,mercedes,18,Finished
+2015,17,williams,15,Finished
+2015,17,red_bull,12,Finished
+2015,17,red_bull,10,Finished
+2015,17,williams,8,Finished
+2015,17,force_india,6,Finished
+2015,17,force_india,4,Finished
+2015,17,toro_rosso,2,Finished
+2015,17,lotus_f1,1,Finished
+2015,17,lotus_f1,0,Finished
+2015,17,sauber,0,Finished
+2015,17,toro_rosso,0,Finished
+2015,17,mclaren,0,Finished
+2015,17,manor,0,+2 Laps
+2015,17,manor,0,+2 Laps
+2015,17,sauber,0,Brakes
+2015,17,ferrari,0,Accident
+2015,17,ferrari,0,Collision
+2015,17,mclaren,0,Retired
+2016,17,mercedes,25,Finished
+2016,17,red_bull,18,Finished
+2016,17,mercedes,15,Finished
+2016,17,ferrari,12,Finished
+2016,17,ferrari,10,Finished
+2016,17,red_bull,8,Finished
+2016,17,force_india,6,Finished
+2016,17,force_india,4,Finished
+2016,17,williams,2,Finished
+2016,17,williams,1,Finished
+2016,17,haas,0,Finished
+2016,17,renault,0,+1 Lap
+2016,17,toro_rosso,0,+1 Lap
+2016,17,renault,0,+1 Lap
+2016,17,sauber,0,+1 Lap
+2016,17,mclaren,0,+1 Lap
+2016,17,toro_rosso,0,+1 Lap
+2016,17,mclaren,0,+1 Lap
+2016,17,sauber,0,+1 Lap
+2016,17,haas,0,+1 Lap
+2016,17,manor,0,+1 Lap
+2016,17,manor,0,+1 Lap
+2017,17,mercedes,25,Finished
+2017,17,ferrari,18,Finished
+2017,17,ferrari,15,Finished
+2017,17,red_bull,12,Finished
+2017,17,mercedes,10,Finished
+2017,17,force_india,8,Finished
+2017,17,renault,6,Finished
+2017,17,force_india,4,+1 Lap
+2017,17,williams,2,+1 Lap
+2017,17,toro_rosso,1,+1 Lap
+2017,17,williams,0,+1 Lap
+2017,17,mclaren,0,+1 Lap
+2017,17,toro_rosso,0,+1 Lap
+2017,17,haas,0,+1 Lap
+2017,17,sauber,0,+1 Lap
+2017,17,haas,0,+1 Lap
+2017,17,mclaren,0,Engine
+2017,17,red_bull,0,Engine
+2017,17,sauber,0,Collision
+2017,17,renault,0,Engine
+2018,17,mercedes,25,Finished
+2018,17,mercedes,18,Finished
+2018,17,red_bull,15,Finished
+2018,17,red_bull,12,Finished
+2018,17,ferrari,10,Finished
+2018,17,ferrari,8,Finished
+2018,17,force_india,6,Finished
+2018,17,haas,4,Finished
+2018,17,force_india,2,Finished
+2018,17,renault,1,+1 Lap
+2018,17,toro_rosso,0,+1 Lap
+2018,17,sauber,0,+1 Lap
+2018,17,toro_rosso,0,+1 Lap
+2018,17,mclaren,0,+1 Lap
+2018,17,mclaren,0,+1 Lap
+2018,17,williams,0,+1 Lap
+2018,17,williams,0,+1 Lap
+2018,17,sauber,0,Mechanical
+2018,17,renault,0,Engine
+2018,17,haas,0,Collision damage
+2019,17,mercedes,25,Finished
+2019,17,ferrari,18,Finished
+2019,17,mercedes,16,Finished
+2019,17,red_bull,12,Finished
+2019,17,mclaren,10,Finished
+2019,17,ferrari,8,+1 Lap
+2019,17,toro_rosso,6,+1 Lap
+2019,17,racing_point,4,+1 Lap
+2019,17,racing_point,2,+1 Lap
+2019,17,toro_rosso,1,+1 Lap
+2019,17,mclaren,0,+1 Lap
+2019,17,alfa,0,+1 Lap
+2019,17,haas,0,+1 Lap
+2019,17,alfa,0,+1 Lap
+2019,17,haas,0,+1 Lap
+2019,17,williams,0,+2 Laps
+2019,17,williams,0,+2 Laps
+2019,17,red_bull,0,Brakes
+2019,17,renault,0,Disqualified
+2019,17,renault,0,Disqualified
+2020,17,red_bull,25,Finished
+2020,17,mercedes,18,Finished
+2020,17,mercedes,15,Finished
+2020,17,red_bull,12,Finished
+2020,17,mclaren,10,Finished
+2020,17,mclaren,8,Finished
+2020,17,renault,7,Finished
+2020,17,alphatauri,4,Finished
+2020,17,renault,2,Finished
+2020,17,racing_point,1,Finished
+2020,17,alphatauri,0,+1 Lap
+2020,17,alfa,0,+1 Lap
+2020,17,ferrari,0,+1 Lap
+2020,17,ferrari,0,+1 Lap
+2020,17,williams,0,+1 Lap
+2020,17,alfa,0,+1 Lap
+2020,17,williams,0,+1 Lap
+2020,17,haas,0,+1 Lap
+2020,17,haas,0,+2 Laps
+2020,17,racing_point,0,Transmission
+2021,17,red_bull,25,Finished
+2021,17,mercedes,19,Finished
+2021,17,red_bull,15,Finished
+2021,17,ferrari,12,Finished
+2021,17,mclaren,10,Finished
+2021,17,mercedes,8,Finished
+2021,17,ferrari,6,Finished
+2021,17,mclaren,4,Finished
+2021,17,alphatauri,2,+1 Lap
+2021,17,aston_martin,1,+1 Lap
+2021,17,alfa,0,+1 Lap
+2021,17,aston_martin,0,+1 Lap
+2021,17,alfa,0,+1 Lap
+2021,17,williams,0,+1 Lap
+2021,17,williams,0,+1 Lap
+2021,17,haas,0,+2 Laps
+2021,17,haas,0,+2 Laps
+2021,17,alpine,0,Rear wing
+2021,17,alpine,0,Mechanical
+2021,17,alphatauri,0,Suspension
+2022,17,red_bull,25,Finished
+2022,17,ferrari,18,Finished
+2022,17,ferrari,15,Finished
+2022,17,mclaren,12,Finished
+2022,17,mclaren,10,Finished
+2022,17,aston_martin,8,Finished
+2022,17,red_bull,6,Finished
+2022,17,aston_martin,4,Finished
+2022,17,mercedes,2,Finished
+2022,17,alphatauri,1,Finished
+2022,17,alfa,0,Finished
+2022,17,haas,0,Finished
+2022,17,haas,0,+1 Lap
+2022,17,mercedes,0,+2 Laps
+2022,17,alphatauri,0,Accident
+2022,17,alpine,0,Engine
+2022,17,williams,0,Collision damage
+2022,17,alpine,0,Engine
+2022,17,williams,0,Collision damage
+2022,17,alfa,0,Collision
